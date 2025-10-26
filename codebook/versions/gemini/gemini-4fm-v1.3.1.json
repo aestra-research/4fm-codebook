@@ -1,0 +1,309 @@
+{
+  "codebook_title": "EA LT 4FMs Codebook",
+  "version": "1.3",
+  "source_documents": [
+    {
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), 306–314. https://doi.org/10.3138/uram.15.4.306",
+      "filename": "*3 - Längle - 1992 - What Are We Looking for When We Search for Meaning.pdf"
+    },
+    {
+      "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Pub Inc.",
+      "filename": "*4 - Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Pub Inc.pdf"
+    },
+    {
+      "citation": "Längle, A. (2003). The Art of Involving the Person – Fundamental Existential Motivations as the Structure of the Motivational Process. European Psychotherapy, 4(1), 25–36.",
+      "filename": "*5 - Längle, A. (2003). The Art of Involving the Person – Fundamental Existential Motivations as the Structure of the Motivational Process. European Psychotherapy, 4(1), 25–36.pdf"
+    },
+    {
+      "citation": "Längle, A. (2011). The Existential Fundamental Motivations Structuring the Motivational Process. In D. A. Leontiev (Ed.), Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Publishers.",
+      "filename": "*7 - Längle, A. (2011). The Existential Fundamental Motivations Structuring the Motivational Process. In D. A. Leontiev (Ed.), Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Publishers.pdf"
+    }
+  ],
+  "general_concepts": [
+    {
+      "concept_name": "Motivation (Existential Definition)",
+      "definition": "A process of **continuous exchange** between the subject individual and the environment, seen as a **dialogical movement** from the present, given reality towards the person's goals and intentions.",
+      "justification_quote": "Motivation is a process of continuous exchange between the subject individual and the environment. From an existential perspective, we see this exchange as having a dialogical structure...",
+      "justification_citation": "Längle (2011), p. 27",
+      "expression": "An expression of the (mostly unconscious) human intention to **be-come**, to come into existence.",
+      "integrative_view": "Motivation arises from a **correspondence between an external stimulus and subjective, inner potential**. It also arises from the **continuous internal needs of the individual**.",
+      "integrative_view_citation": "Längle (2011), p. 27"
+    },
+    {
+      "concept_name": "The Existential Paradigm",
+      "focus": "An **interpersonal paradigm** (a complement and counterweight to the individualistic paradigm of freedom and personal will).",
+      "core_activity": "The most original activity of personhood: Our being essentially **dialogical**, prone to and directed towards **exchange with others**.",
+      "justification_quote": "The intention of this paper is to show the relationship between the structure of existence and motivational processes. According to the \"four cornerstones of existence\" a person must first come to terms with his or her being in the world, then with his or her own life and finally with his or her identity. Subsequent to these tasks, the person is open for and prone to enter into relationships with a greater context (horizon), from which personal meaning is derived.",
+      "justification_citation": "Längle (2003), p. 25"
+    },
+    {
+      "concept_name": "The Four Cornerstones of Existence (Structure)",
+      "definition": "Human existence is based on these four fundamental realities, which are the **foundation of a fulfilled life**.",
+      "function": "They form a **matrix for the psychopathological understanding** of psychological disorders and represent the **structural model for modern Existential Analytical Psychotherapy**.",
+      "function_quote": "They form in a clinical context a matrix of psychopathological disorders and provide a practical background for clinical interventions. They represent the structure model for modern Existential Analytical Psychotherapy.",
+      "function_citation": "Längle (2002), p. 1"
+    }
+  ],
+  "critique_of_frankl": [
+    {
+      "concept_name": "Frankl's 'Will to Meaning'",
+      "frankl_definition": "Humans are primarily and most profoundly motivated by their personal **'will to meaning'**, which is a **spiritual striving** for a deeper understanding of what one experiences or does.",
+      "längle_critique": "In the motivational angle of his theory, Frankl may have adopted some **individualistic thinking** by tracing back and reducing the concept of existential motivation to the concept of **will**.",
+      "justification_quote": "In the motivational angle of his theory, Frankl may have adopted some individualistic thinking by tracing back and reducing the concept of existential motivation to the concept of will.",
+      "justification_citation": "Längle (2011), p. 28"
+    }
+  ],
+  "motivational_process_pea": [
+    {
+      "process_name": "Personal Existential Analysis (PEA) Motivational Process",
+      "core_action": "Motivation means **involvement of the person**, initiating the personal processes by **provocation in some kind of vis-à-vis**.",
+      "starting_point": "Being provoked means **being called**. The necessary provocation comes through everything which **confronts us, challenges us, engages us**.",
+      "justification_quote": "Motivation means involvement of the person, initiating the personal processes by provocation in some kind of vis-à-vis. Being provoked means being called. The necessary provocation comes through everything which confronts us, challenges us, engages us.",
+      "justification_citation": "Längle (2003), p. 26"
+    }
+  ],
+  "primary_domains": [
+    {
+      "fm_number": "First Fundamental Motivation (1st FM)",
+      "theme_name": "The ability to be; to endure/uphold. (FM of World/Reality)",
+      "existential_question": "I am - can I be?",
+      "justification_question_quote": "I am - can I be?",
+      "justification_question_citation": "Längle (2002), p. 5",
+      "task_as_cornerstone": "First come to terms with his or her **being in the world**.",
+      "task_as_cornerstone_citation": "Längle (2003), p. 25",
+      "sub_themes": [
+        {
+          "sub_theme_name": "Noetic Content (1992)",
+          "concept": "TRUE (reality)",
+          "justification_quote": "Noetic content: 1. TRUE (reality)",
+          "justification_citation": "Längle (1992), p. 312"
+        },
+        {
+          "sub_theme_name": "Existential Needs (2002)",
+          "concept": "Protection, Space, and Support",
+          "justification_quote": "This demands three things: protection, space and support.",
+          "justification_citation": "Längle (2002), p. 5"
+        },
+        {
+          "sub_theme_name": "Positive Outcome (2002)",
+          "concept": "Fundamental Trust, Confidence in Self, Faith",
+          "justification_quote": "The sum of these experiences of trust is the fundamental trust, the trust in whatever I feel as being the last support in my life.",
+          "justification_citation": "Längle (2002), p. 5"
+        },
+        {
+          "sub_theme_name": "Negative Outcome/Failure (2002)",
+          "concept": "Restlessness, Insecurity, Fear, Groundlessness",
+          "justification_quote": "If this is not the case, the result will be restlessness, insecurity and fear.",
+          "justification_citation": "Längle (2002), p. 5"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Basic Reaction (2002)",
+          "concept": "Avoidance or Flight",
+          "justification_quote": "the basic reaction type - here this would be avoidance or flight",
+          "justification_citation": "Längle (2002), p. 5"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Paradoxical/Activism (2002)",
+          "concept": "Overactivity (e.g., Compulsive Washing)",
+          "justification_quote": "the paradoxical reaction type or activism - here this would be overactivity like fighting bacteria by compulsive washing",
+          "justification_citation": "Längle (2002), p. 5"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Specific Aggression (2002)",
+          "concept": "Destructive Aggression (e.g., Hate)",
+          "justification_quote": "the third type of coping reaction is a specific aggression...- here it would be a destructive aggression such as hate",
+          "justification_citation": "Längle (2002), p. 5"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Freezing/Paralysis (2002)",
+          "concept": "Denial or Pretending to be Non-Existent",
+          "justification_quote": "the last type of coping reaction is a reflex of freezing, of death imitation with paralysis - here denial or pretending to be non-existent.",
+          "justification_citation": "Längle (2002), p. 5"
+        }
+      ]
+    },
+    {
+      "fm_number": "Second Fundamental Motivation (2nd FM)",
+      "theme_name": "The ability to feel value/life. (FM of Life/Value)",
+      "existential_question": "I am alive - do I like this fact? Is it good to be there?",
+      "justification_question_quote": "I am alive - do I like this fact? Is it good to be there?",
+      "justification_question_citation": "Längle (2002), p. 6",
+      "task_as_cornerstone": "Then with **his or her own life**.",
+      "task_as_cornerstone_citation": "Längle (2003), p. 25",
+      "sub_themes": [
+        {
+          "sub_theme_name": "Noetic Content (1992)",
+          "concept": "ATTRACTIVE (value)",
+          "justification_quote": "Noetic content: 2. ATTRACTIVE (value)",
+          "justification_citation": "Längle (1992), p. 312"
+        },
+        {
+          "sub_theme_name": "Existential Needs (2002)",
+          "concept": "Relationship, Time, and Closeness",
+          "justification_quote": "In order to seize my life, to love it, I need three things: relationship, time and closeness.",
+          "justification_citation": "Längle (2002), p. 6"
+        },
+        {
+          "sub_theme_name": "Positive Outcome (2002)",
+          "concept": "Fundamental Value, Harmony, Sense of Depth of Life",
+          "justification_quote": "These experiences form the fundamental value, the most profound feeling for the value of life.",
+          "justification_citation": "Längle (2002), p. 6"
+        },
+        {
+          "sub_theme_name": "Negative Outcome/Failure (2002)",
+          "concept": "Longing, Coldness, Depression, Emotional Death",
+          "justification_quote": "If relationships, closeness and time are lacking, longing will arise, then coldness and finally depression.",
+          "justification_citation": "Längle (2002), p. 6"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Basic Reaction (2002)",
+          "concept": "Regression",
+          "justification_quote": "The basic coping reaction on this level is regression.",
+          "justification_citation": "Längle (2002), p. 6"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Paradoxical/Activism (2002)",
+          "concept": "Overprotection or Achievement",
+          "justification_quote": "The activism here is overprotection or achievement, typical forms of combating evil",
+          "justification_citation": "Längle (2002), p. 6"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Specific Aggression (2002)",
+          "concept": "Fury or Rage (to obtain or improve relationship)",
+          "justification_quote": "the typical aggression is fury, rage which does not lead to destruction, but wants to agitate the other person with the impulse to obtain or to improve the relationship.",
+          "justification_citation": "Längle (2002), p. 6"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Freezing/Paralysis (2002)",
+          "concept": "Resignation (feigned death paralyzed half-way)",
+          "justification_quote": "Resignation reaction of feigned death paralyzed half-way.",
+          "justification_citation": "Längle (2002), p. 6"
+        }
+      ]
+    },
+    {
+      "fm_number": "Third Fundamental Motivation (3rd FM)",
+      "theme_name": "The ability to be oneself; to be just. (FM of Self/Justice)",
+      "existential_question": "I am myself - may I be like this?",
+      "justification_question_quote": "I am myself - may I be like this?",
+      "justification_question_citation": "Längle (2002), p. 7",
+      "task_as_cornerstone": "And finally with **his or her identity**.",
+      "task_as_cornerstone_citation": "Längle (2003), p. 25",
+      "sub_themes": [
+        {
+          "sub_theme_name": "Noetic Content (1992)",
+          "concept": "RIGHT (relations)",
+          "justification_quote": "Noetic content: 3. RIGHT (relations)",
+          "justification_citation": "Längle (1992), p. 312"
+        },
+        {
+          "sub_theme_name": "Existential Needs (2002)",
+          "concept": "Attention, Justice, and Appreciation",
+          "justification_quote": "In order to succeed here, it is necessary to have experienced three things: attention, justice and appreciation.",
+          "justification_citation": "Längle (2002), p. 7"
+        },
+        {
+          "sub_theme_name": "Positive Outcome (2002)",
+          "concept": "Self-Esteem, Authenticity, Relief, Self-Respect",
+          "justification_quote": "The sum of these experiences builds one's own worth, the profoundest worth of what identifies my own self at its core: the self-esteem.",
+          "justification_citation": "Längle (2002), p. 7"
+        },
+        {
+          "sub_theme_name": "Negative Outcome/Failure (2002)",
+          "concept": "Solitude, Hysteria, Need to Hide behind Shame, Loneliness",
+          "justification_quote": "If these experiences are missing, solitude will be the result, hysteria as well as a need to hide behind the shame.",
+          "justification_citation": "Längle (2002), p. 7"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Basic Reaction (2002)",
+          "concept": "Distancing Oneself",
+          "justification_quote": "The coping reactions of this motivation are: distancing oneself as the basic reaction",
+          "justification_citation": "Längle (2002), p. 7"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Paradoxical/Activism (2002)",
+          "concept": "Stubborn Insistence and Functional Life",
+          "justification_quote": "stubborn insistence and leading a functional life as form of activism.",
+          "justification_citation": "Längle (2002), p. 7"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Specific Aggression (2002)",
+          "concept": "Indignation, Annoyance, Anger, Reproach",
+          "justification_quote": "The typical aggressive reaction consists in indignation, annoyance anger, reproach.",
+          "justification_citation": "Längle (2002), p. 7"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Freezing/Paralysis (2002)",
+          "concept": "Dissociation (of bodily integrity), Dividing and Splitting (of emotion and cognition)",
+          "justification_quote": "The freezing type of reaction at this level are dissociation of the bodily integrity, dividing and splitting of emotion and cognition.",
+          "justification_citation": "Längle (2002), p. 7"
+        }
+      ]
+    },
+    {
+      "fm_number": "Fourth Fundamental Motivation (4th FM)",
+      "theme_name": "The ability to do good; to be creative/meaning. (FM of Meaning/Future)",
+      "existential_question": "I am there - for what is it good?",
+      "justification_question_quote": "I am there - for what is it good?",
+      "justification_question_citation": "Längle (2002), p. 8",
+      "task_as_cornerstone": "Subsequent to these tasks, the person is open for and prone to **enter into relationships with a greater context (horizon), from which personal meaning is derived**.",
+      "task_as_cornerstone_citation": "Längle (2003), p. 25",
+      "sub_themes": [
+        {
+          "sub_theme_name": "Noetic Content (1992)",
+          "concept": "MEANING (commitment)",
+          "justification_quote": "Noetic content: 4. MEANING (commitment)",
+          "justification_citation": "Längle (1992), p. 312"
+        },
+        {
+          "sub_theme_name": "Existential Needs (2002)",
+          "concept": "A Field of Activity, A Structural Context, A Value to be Realized in the Future",
+          "justification_quote": "For this three things are needed: a field of activity, a structural context and a value to be realized in the future.",
+          "justification_citation": "Längle (2002), p. 8"
+        },
+        {
+          "sub_theme_name": "Definition of Existential Meaning (2002)",
+          "concept": "The Most Valuable, Realistic Possibility in the Given Situation",
+          "justification_quote": "We define meaning as \"the most valuable, realistic possibility of the given situation, for which I feel I should decide myself\".",
+          "justification_citation": "Längle (2002), p. 8"
+        },
+        {
+          "sub_theme_name": "Positive Outcome (2002)",
+          "concept": "Sense of Fulfillment, Dedication, Action, Religious Belief",
+          "justification_quote": "The sum of these experiences add up to the meaning of life and leads to a sense of fulfillment.",
+          "justification_citation": "Längle (2002), p. 8"
+        },
+        {
+          "sub_theme_name": "Negative Outcome/Failure (2002)",
+          "concept": "Feeling of Emptiness, Frustration, Despair, Addiction, Absurdity",
+          "justification_quote": "If this is not the case, the result will be a feeling of emptiness, frustration, even despair and frequently addiction.",
+          "justification_citation": "Längle (2002), p. 8"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Basic Reaction (2002)",
+          "concept": "Provisional/Planless Attitude, Collective Thinking",
+          "justification_quote": "If man fails systematically to reach meaning, his coping reactions will be a provisional attitude towards life as basic reaction, together with a 'planless, day-to-day attitude toward life' and 'collective thinking' (Frankl 1973, XVI)",
+          "justification_citation": "Längle (2002), p. 8"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Paradoxical/Activism (2002)",
+          "concept": "Idealisation and Fanaticism",
+          "justification_quote": "idealisation and fanaticism as main forms of activism",
+          "justification_citation": "Längle (2002), p. 8"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Specific Aggression (2002)",
+          "concept": "Aggressive Games and Cynicism",
+          "justification_quote": "aggressive games and cynicism.",
+          "justification_citation": "Längle (2002), p. 8"
+        },
+        {
+          "sub_theme_name": "Coping Reaction Type: Freezing/Paralysis (2002)",
+          "concept": "Fatalism, Loss of Interest, Apathy, Nihilism",
+          "justification_quote": "Fatalism (Frankl 1973, XVI), loss of interest, apathy and probably nihilism can be seen as forms of freezing reactions.",
+          "justification_citation": "Längle (2002), p. 8"
+        }
+      ]
+    }
+  ]
+}
