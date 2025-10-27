@@ -1,0 +1,295 @@
+{
+  "metadata": {
+    "title": "EA_LT_4FMs_Codebook",
+    "version": "2.0",
+    "created": "2025-10-27",
+    "description": "Codebook for interpretive thematic analysis using the 4 Fundamental Motivations (EA & LT). Only direct quotes from user-supplied sources are used as justifications with APA citations.",
+    "sources_apa": [
+      "Längle, A. (1992). What Are We Looking for When We Search for Meaning.",
+      "Längle, A. (2002). Existential fundamental motivation. In D. A. Leontiev (Ed.), Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Publishers.",
+      "Längle, A. (2003). The art of involving the person – Fundamental existential motivations as the structure of the motivational process. European Psychotherapy, 4(1), 25–36.",
+      "Längle, A. (2011). The existential fundamental motivations structuring the motivational process. In D. A. Leontiev (Ed.), Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Publishers."
+    ]
+  },
+  "model_summary": [
+    {
+      "quote": "All preconditions of existence can be summarized in four fundamental structures, the “cornerstones of existence”: • the world in its factuality and potentiality • life with its network of relationships and its feelings • being oneself as a unique, autonomous person • the wider context where to place oneself = development through one’s activities, opening one’s future",
+      "citation_APA": "Längle, 2011, pp. 41–42"
+    }
+  ],
+  "coding_guidelines": {
+    "PEA_steps": [
+      {
+        "step": "1. Recognizing",
+        "quote": "Recognizing something in its worth or value, insofar as it speaks to us... To see what a situation provokes in us means to recognize the situational meaning involved.",
+        "citation_APA": "Längle, 2011, p. 41"
+      },
+      {
+        "step": "2. Harmonizing",
+        "quote": "Bringing the perceived value, challenge or meaning into accordance with one’s inner reality, i.e., examining the consistency with the rest of our values, with attitudes, abilities and capabilities and with our conscience.",
+        "citation_APA": "Längle, 2011, p. 41"
+      },
+      {
+        "step": "3. Inner consent",
+        "quote": "The final step in the development of motivation is the inner consent to one’s own active involvement.",
+        "citation_APA": "Längle, 2011, p. 41"
+      }
+    ],
+    "EA_goal_quote": "to help man to find a way of living where he can give his inner consent to his own actions.",
+    "EA_goal_citation_APA": "Längle, 2002, p. 4"
+  },
+  "domains": [
+    {
+      "id": "FM1",
+      "label": "The World — Dealing with Conditions and Possibilities",
+      "existential_question": {
+        "quote": "I am—can I be? Can I claim my place in this world under the conditions and with the possibilities I have?",
+        "citation_APA": "Längle, 2011, p. 42"
+      },
+      "needs": [
+        {
+          "name": "Protection",
+          "quote": "This demands three things: protection, space and support.—Do I enjoy protection, acceptance, do I feel at home somewhere?",
+          "citation_APA": "Längle, 2011, p. 42"
+        },
+        {
+          "name": "Space",
+          "quote": "Do I have enough space for being there?",
+          "citation_APA": "Längle, 2011, p. 42"
+        },
+        {
+          "name": "Support",
+          "quote": "Where do I find support in my life?",
+          "citation_APA": "Längle, 2011, p. 42"
+        }
+      ],
+      "positive_outcome": {
+        "quote": "If I do have these three things, I will be able to feel trust in the world and confidence in myself, maybe even faith in God. The sum of these experiences of trust is the fundamental trust...",
+        "citation_APA": "Längle, 2011, p. 42"
+      },
+      "negative_outcomes": {
+        "quote": "If this is not the case, the result will be restlessness, insecurity and fear.",
+        "citation_APA": "Längle, 2011, p. 42"
+      },
+      "active_part": {
+        "quote": "it is not enough to find protection, space and support—I also have to seize these conditions, to make a decision in their favor, to accept them... to be there and not to flee... to let be whatever is difficult, menacing or unalterable and to “support” what cannot be changed.",
+        "citation_APA": "Längle, 2011, p. 42"
+      },
+      "coping_reactions": [
+        {
+          "type": "Basic reaction",
+          "label": "Avoidance or flight",
+          "quote": "Each fundamental motivation has four types of coping reactions: the basic reaction type – here this would be avoidance or flight;",
+          "citation_APA": "Längle, 2002, p. 5"
+        },
+        {
+          "type": "Paradoxical/Activism",
+          "label": "Overactivity (e.g., fighting bacteria by compulsive washing)",
+          "quote": "the paradoxical reaction type or activism – here this would be overactivity like fighting bacteria by compulsive washing;",
+          "citation_APA": "Längle, 2002, p. 5"
+        },
+        {
+          "type": "Aggression",
+          "label": "Destructive aggression such as hate",
+          "quote": "the third type of coping reaction is a specific aggression – here it would be a destructive aggression such as hate;",
+          "citation_APA": "Längle, 2002, p. 5"
+        },
+        {
+          "type": "Freezing",
+          "label": "Denial or pretending to be non-existent",
+          "quote": "the last type of coping reaction is a reflex of freezing, of death imitation with paralysis – here denial or pretending to be non-existent.",
+          "citation_APA": "Längle, 2002, p. 5"
+        }
+      ]
+    },
+    {
+      "id": "FM2",
+      "label": "Life — Dealing with Relationships and Emotions",
+      "existential_question": {
+        "quote": "I am alive—do I like this fact? Is it good to be there?",
+        "citation_APA": "Längle, 2011, p. 42"
+      },
+      "needs": [
+        {
+          "name": "Relationship",
+          "quote": "In order to seize my life, to love it, I need three things: relationship, time and closeness.",
+          "citation_APA": "Längle, 2002, p. 6"
+        },
+        {
+          "name": "Time",
+          "quote": "What do I take time for? Do I take time for valuable things, worthy to spend my time for? To take time for something means to give away a part of one’s life while spending it with someone or something.",
+          "citation_APA": "Längle, 2011, p. 42"
+        },
+        {
+          "name": "Closeness",
+          "quote": "Can I feel close and maintain closeness to things, plants, animals and people? Can I admit the closeness of someone else?",
+          "citation_APA": "Längle, 2011, p. 42"
+        }
+      ],
+      "positive_outcome": {
+        "quote": "If these three conditions are fulfilled, I experience myself as being in harmony with the world and with myself and I can sense the depth of life. These experiences form the fundamental value...",
+        "citation_APA": "Längle, 2002, p. 6"
+      },
+      "negative_outcomes": {
+        "quote": "If relationships, closeness and time are lacking, longing will arise, then coldness and finally depression.",
+        "citation_APA": "Längle, 2011, p. 42"
+      },
+      "active_part": {
+        "quote": "Still, it is not enough to have relationships, time and closeness. My own consent, my active participation is asked for. I seize life, engage in it, when I turn to other people... If life is to make me move freely, my consent to being touched is necessary.",
+        "citation_APA": "Längle, 2011, p. 42"
+      },
+      "coping_reactions": [
+        {
+          "type": "Basic reaction",
+          "label": "Regression",
+          "quote": "The basic coping reaction on this level is regression.",
+          "citation_APA": "Längle, 2002, p. 6"
+        },
+        {
+          "type": "Paradoxical/Activism",
+          "label": "Overprotection or achievement",
+          "quote": "The activism here is overprotection or achievement, typical forms of combating evil;",
+          "citation_APA": "Längle, 2002, p. 6"
+        },
+        {
+          "type": "Aggression",
+          "label": "Fury, rage ... to obtain or to improve the relationship",
+          "quote": "the typical aggression is fury, rage which does not lead to destruction, but wants to agitate the other person with the impulse to obtain or to improve the relationship.",
+          "citation_APA": "Längle, 2002, p. 6"
+        },
+        {
+          "type": "Freezing",
+          "label": "Resignation / feigned death (paralyzed)",
+          "quote": "Resignation reaction of feigned death paralyzed half-way.",
+          "citation_APA": "Längle, 2002, p. 6"
+        }
+      ]
+    },
+    {
+      "id": "FM3",
+      "label": "Being a Person — Dealing with Uniqueness and Conscience",
+      "existential_question": {
+        "quote": "I am myself—may I be like this? Do I feel free to be like that? Do I have the right to be what I am and to behave as I do?",
+        "citation_APA": "Längle, 2011, p. 42"
+      },
+      "needs": [
+        {
+          "name": "Attention",
+          "quote": "In order to succeed here, it is necessary to have experienced three things: attention, justice and appreciation.",
+          "citation_APA": "Längle, 2002, p. 7"
+        },
+        {
+          "name": "Justice",
+          "quote": "Do people justice to me?",
+          "citation_APA": "Längle, 2002, p. 7"
+        },
+        {
+          "name": "Appreciation",
+          "quote": "For what am I appreciated – for what can I appreciate myself?",
+          "citation_APA": "Längle, 2002, p. 7"
+        }
+      ],
+      "positive_outcome": {
+        "quote": "If these experiences have been made, I will find myself, find my authenticity, my relief and my self-respect. The sum of these experiences builds one’s own worth...: the self-esteem.",
+        "citation_APA": "Längle, 2002, p. 7"
+      },
+      "negative_outcomes": {
+        "quote": "If these experiences are missing, solitude will be the result, hysteria as well as a need to hide behind the shame.",
+        "citation_APA": "Längle, 2002, p. 7"
+      },
+      "active_part": {
+        "quote": "I also have to say “yes to myself”. This requires again my active participation: to look at other people, to encounter them and, at the same time, to delimitate myself and to stand by my own, but to refuse whatever does not correspond to myself.",
+        "citation_APA": "Längle, 2002, p. 7"
+      },
+      "coping_reactions": [
+        {
+          "type": "Basic reaction",
+          "label": "Distancing oneself",
+          "quote": "The coping reactions of this motivation are: distancing oneself as the basic reaction,",
+          "citation_APA": "Längle, 2002, p. 7"
+        },
+        {
+          "type": "Paradoxical/Activism",
+          "label": "Stubborn insistence; leading a functional life",
+          "quote": "stubborn insistence and leading a functional life as form of activism.",
+          "citation_APA": "Längle, 2002, p. 7"
+        },
+        {
+          "type": "Aggression",
+          "label": "Indignation, annoyance – anger, reproach",
+          "quote": "The typical aggressive reaction consists in indignation, annoyance – anger, reproach.",
+          "citation_APA": "Längle, 2002, p. 7"
+        },
+        {
+          "type": "Freezing",
+          "label": "Dissociation / splitting of emotion and cognition",
+          "quote": "The freezing type of reaction at this level are dissociation of the bodily integrity, dividing and splitting of emotion and cognition.",
+          "citation_APA": "Längle, 2002, p. 7"
+        }
+      ]
+    },
+    {
+      "id": "FM4",
+      "label": "Meaning — Dealing with Becoming, Future and Commitment",
+      "existential_question": {
+        "quote": "I am there—for what is it good?",
+        "citation_APA": "Längle, 2011, p. 42"
+      },
+      "needs": [
+        {
+          "name": "Field of activity",
+          "quote": "For this, three things are necessary: a field of activity, a structural context and a value to be realized in the future.",
+          "citation_APA": "Längle, 2011, p. 42"
+        },
+        {
+          "name": "Structural context",
+          "quote": "Do I see and experience myself in a larger context that provides structure and orientation to my life?",
+          "citation_APA": "Längle, 2003, p. 33"
+        },
+        {
+          "name": "Value to be realized in the future",
+          "quote": "Is there anything that should still be realized in my life?",
+          "citation_APA": "Längle, 2003, p. 33"
+        }
+      ],
+      "positive_outcome": {
+        "quote": "If these conditions are met, I will be capable of dedication and action and, finally, of my own form of religious belief. The sum of these experiences add up to the meaning of life and leads to a sense of fulfillment.",
+        "citation_APA": "Längle, 2002, p. 8"
+      },
+      "negative_outcomes": {
+        "quote": "If this is not the case, the result will be a feeling of emptiness, frustration, even despair and frequently addiction.",
+        "citation_APA": "Längle, 2002, p. 8"
+      },
+      "active_part": {
+        "quote": "we have to transcend ourselves, if we want to find fulfillment and to be fruitful.",
+        "citation_APA": "Längle, 2002, p. 8"
+      },
+      "coping_reactions": [
+        {
+          "type": "Basic reaction",
+          "label": "Provisional attitude toward life; planless, day-to-day attitude; collective thinking",
+          "quote": "If man fails systematically to reach meaning, his coping reactions will be a provisional attitude towards life as basic reaction, together with a “planless, day-to-day attitude toward life” and “collective thinking”.",
+          "citation_APA": "Längle, 2002, p. 8"
+        },
+        {
+          "type": "Paradoxical/Activism",
+          "label": "Idealisation and fanaticism",
+          "quote": "idealisation and fanaticism as main forms of activism,",
+          "citation_APA": "Längle, 2002, p. 8"
+        },
+        {
+          "type": "Aggression",
+          "label": "Aggressive games and cynicism",
+          "quote": "aggressive games and cynicism.",
+          "citation_APA": "Längle, 2002, p. 8"
+        },
+        {
+          "type": "Freezing",
+          "label": "Fatalism, loss of interest, apathy, nihilism",
+          "quote": "Fatalism, loss of interest, apathy and probably nihilism can be seen as forms of freezing reactions.",
+          "citation_APA": "Längle, 2002, p. 8"
+        }
+      ]
+    }
+  ]
+}

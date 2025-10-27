@@ -1,0 +1,598 @@
+{
+  "codebook_metadata": {
+    "title": "Existential Analysis and Logotherapy 4 Fundamental Motivations Codebook",
+    "version": "2.0",
+    "date_created": "2025-10-26",
+    "purpose": "Interpretive thematic analysis of therapeutic intervention participant testimony",
+    "theoretical_framework": "Existential Analysis and Logotherapy",
+    "primary_domains": "Four Fundamental Motivations (4FMs)",
+    "methodology": "Phenomenological-existential approach",
+    "source_documents": [
+      "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 306-314.",
+      "Längle, A. (2002). Existential fundamental motivation. In D. A. Leontiev (Ed.), Motivation, consciousness and self-regulation (pp. 27-42). Nova Science Publishers.",
+      "Längle, A. (2003). The art of involving the person: Fundamental existential motivations as the structure of the motivational process. European Psychotherapy, 4(1), 25-36.",
+      "Längle, A. (2011). The existential fundamental motivations structuring the motivational process. In D. A. Leontiev (Ed.), Motivation, consciousness and self-regulation (pp. 27-42). Nova Science Publishers."
+    ]
+  },
+  
+  "theoretical_foundation": {
+    "motivation_definition": {
+      "quote": "Motivation is a process of continuous exchange between the subject—individual—and the environment. From an existential perspective, we see this exchange as having a dialogical structure, connecting the given reality of both subject and object with the intentions of the individual.",
+      "citation": "Längle, A. (2011). The existential fundamental motivations structuring the motivational process. In D. A. Leontiev (Ed.), Motivation, consciousness and self-regulation (p. 27). Nova Science Publishers."
+    },
+    "existential_paradigm": {
+      "quote": "As a complement and counterweight to the individualistic paradigm of freedom and personal will, which laid groundwork for the development of this postmodern era, we now propose an interpersonal paradigm.",
+      "citation": "Längle, A. (2003). The art of involving the person: Fundamental existential motivations as the structure of the motivational process. European Psychotherapy, 4(1), 28."
+    },
+    "dialogical_nature": {
+      "quote": "Being oneself as a person means being in communication—being in a continuous intrapersonal and interpersonal exchange of contents and values. It means fine-tuning the outer with the inner reality and vice versa, coordinating oneself with the objective meaning of the situation.",
+      "citation": "Längle, A. (2003). The art of involving the person: Fundamental existential motivations as the structure of the motivational process. European Psychotherapy, 4(1), 28."
+    }
+  },
+
+  "motivational_process_structure": {
+    "step_1_recognizing": {
+      "description": "Recognizing something in its worth or value, in as far as it speaks to us",
+      "quote": "Recognizing something in its worth or value, in as far as it speaks to us. This is often a challenge demanding action on our part. What a situation 'pro-'vokes in us is indicative of or points to the situational meaning involved.",
+      "citation": "Längle, A. (2003). The art of involving the person: Fundamental existential motivations as the structure of the motivational process. European Psychotherapy, 4(1), 29."
+    },
+    "step_2_harmonizing": {
+      "description": "Bringing the perceived value into accordance with inner reality",
+      "quote": "Harmonizing. Bringing the perceived value, challenge or meaning into accordance with our inner reality (i.e. examining the congruence with the rest of our values, with attitudes, abilities and capabilities and with our conscience etc.).",
+      "citation": "Längle, A. (2003). The art of involving the person: Fundamental existential motivations as the structure of the motivational process. European Psychotherapy, 4(1), 29."
+    },
+    "step_3_inner_consent": {
+      "description": "Giving inner consent to one's own active involvement",
+      "quote": "Giving inner consent to one's own active involvement. This consent and the act of harmonizing the new value with one's personal reality lead to the presence of the inner person in one's actions and to the integration of the new value and the person into a wider context (meaning).",
+      "citation": "Längle, A. (2003). The art of involving the person: Fundamental existential motivations as the structure of the motivational process. European Psychotherapy, 4(1), 29."
+    }
+  },
+
+  "fundamental_motivations": {
+    "FM1_being_in_world": {
+      "code": "FM1",
+      "primary_theme": "Being in the World - Dealing with Conditions and Possibilities",
+      "fundamental_question": {
+        "text": "I am - can I be?",
+        "quote": "But I am here, which sets before me the fundamental question of existence: I am – but can I be?",
+        "citation": "Längle, A. (2011). The existential fundamental motivations structuring the motivational process. In D. A. Leontiev (Ed.), Motivation, consciousness and self-regulation (p. 36). Nova Science Publishers."
+      },
+      "practical_question": {
+        "text": "Can I claim my place in this world under the conditions and with the possibilities I have?",
+        "quote": "Can I claim my place in this world under the conditions and with the possibilities I have?",
+        "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 4."
+      },
+      "ontological_level": {
+        "description": "Ground of being",
+        "quote": "The question of meaning on the ontological level is a question to the ground out of which things are and out of which man himself is (Grundfrage)! When man asks about the ground for things and for his own being, he is asking the ontological question of meaning.",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 310."
+      },
+      "existential_needs": {
+        "protection": {
+          "description": "Acceptance, feeling at home",
+          "quote": "Do I enjoy protection, acceptance, do I feel at home somewhere?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 4."
+        },
+        "space": {
+          "description": "Having enough space to be",
+          "quote": "Do I have enough space for being there?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 4."
+        },
+        "support": {
+          "description": "Finding support in life",
+          "quote": "Where do I find support in my life?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 4."
+        }
+      },
+      "when_needs_not_met": {
+        "restlessness": {
+          "quote": "If this is not the case, the result will be restlessness, insecurity and fear.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 4."
+        },
+        "insecurity": {
+          "quote": "If this is not the case, the result will be restlessness, insecurity and fear.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 4."
+        },
+        "fear": {
+          "quote": "If this is not the case, the result will be restlessness, insecurity and fear.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 4."
+        }
+      },
+      "when_needs_met": {
+        "fundamental_trust": {
+          "quote": "But if I do have these three things, I will be able to feel trust in the world and confidence in myself, maybe even faith in God. The sum of these experiences of trust is the fundamental trust, the trust in whatever I feel as being the last support in my life.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 4."
+        },
+        "trust_in_world": {
+          "quote": "I will be able to feel trust in the world and confidence in myself, maybe even faith in God.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 4."
+        },
+        "confidence_in_self": {
+          "quote": "I will be able to feel trust in the world and confidence in myself",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 4."
+        }
+      },
+      "active_participation": {
+        "accept": {
+          "description": "Being ready to occupy space, rely on support, trust protection",
+          "quote": "To accept means to be ready to occupy the space, to rely on the support and to trust the protection; in short 'to be there' and not to flee.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 5."
+        },
+        "endure": {
+          "description": "Having strength to persist with what is difficult or unchangeable",
+          "quote": "To endure means to have the strength to persist in spite of whatever is difficult, menacing or unalterable, and to 'support' what cannot be changed.",
+          "citation": "Längle, A. (2011). The existential fundamental motivations structuring the motivational process. In D. A. Leontiev (Ed.), Motivation, consciousness and self-regulation (p. 36). Nova Science Publishers."
+        }
+      },
+      "coping_reactions": {
+        "basic_reaction_avoidance": {
+          "description": "Flight, avoidance as basic coping",
+          "quote": "Each fundamental motivation has four types of coping reactions: the basic reaction type – here this would be avoidance or flight",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 5."
+        },
+        "activism_overactivity": {
+          "description": "Paradoxical reaction through overactivity",
+          "quote": "the paradoxical reaction type or activism – here this would be overactivity like fighting bacteria by compulsive washing",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 5."
+        },
+        "aggression_hate": {
+          "description": "Destructive aggression",
+          "quote": "the third type of coping reaction is a specific aggression – here it would be a destructive aggression such as hate",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 5."
+        },
+        "freezing_denial": {
+          "description": "Paralysis, pretending non-existence",
+          "quote": "the last type of coping reaction is a reflex of freezing, of death imitation with paralysis – here denial or pretending to be non-existent.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 5."
+        }
+      },
+      "motivation_theory_correlation": {
+        "quote": "In the theory of motivation its correlate is the will to existence, with its yes or no to the world, its will to unfold or refuse action.",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 310."
+      },
+      "psychological_chain": {
+        "quote": "know (explain) → facts",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 312."
+      },
+      "mode_of_experience": {
+        "quote": "perceive can (be seen)",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 312."
+      }
+    },
+
+    "FM2_life_relationships": {
+      "code": "FM2",
+      "primary_theme": "Life - Dealing with Relationships and Emotions",
+      "fundamental_question": {
+        "text": "I am alive - do I like this fact?",
+        "quote": "Therefore I am confronted with the fundamental question of life: I am alive – do I like this fact? Is it good to be there?",
+        "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+      },
+      "axiological_level": {
+        "description": "The realm of values",
+        "quote": "Man continually faces the axiological question of meaning: 'What is good about it?', 'What is it good for?' This expresses what Frankl calls the 'will to meaning'.",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 310-311."
+      },
+      "pathic_dimension": {
+        "description": "Life is experienced, suffered or enjoyed",
+        "quote": "It has a 'pathic dimension', which means that it does not simply happen, but that we experience and suffer or enjoy it.",
+        "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+      },
+      "existential_needs": {
+        "relationship": {
+          "description": "Having relationships with closeness and community",
+          "quote": "Do I have relationships, in which I feel closeness, for which I spend time and in which I experience community?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+        },
+        "time": {
+          "description": "Taking time for valuable things",
+          "quote": "What do I take time for? Do I take time for valuable things, worthy to spend my time for? To take time for something means to give away a part of one's life while spending it with someone or something.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+        },
+        "closeness": {
+          "description": "Feeling and maintaining closeness",
+          "quote": "Can I feel close and maintain closeness to things, plants, animals and people? Can I admit the closeness of someone else?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+        }
+      },
+      "when_needs_not_met": {
+        "longing": {
+          "quote": "If relationships, closeness and time are lacking, longing will arise, then coldness and finally depression.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+        },
+        "coldness": {
+          "quote": "If relationships, closeness and time are lacking, longing will arise, then coldness and finally depression.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+        },
+        "depression": {
+          "quote": "If relationships, closeness and time are lacking, longing will arise, then coldness and finally depression.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+        }
+      },
+      "when_needs_met": {
+        "fundamental_value": {
+          "quote": "These experiences form the fundamental value, the most profound feeling for the value of life. In each experience of value this fundamental value is touched upon, it colours the emotions and affects and represents our yardstick for anything we might feel to be of worth.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+        },
+        "harmony": {
+          "quote": "I experience myself as being in harmony with the world and with myself and I can sense the depth of life.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+        },
+        "depth_of_life": {
+          "quote": "I can sense the depth of life.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+        }
+      },
+      "active_participation": {
+        "turn_to": {
+          "description": "Turning toward others, getting close, engaging",
+          "quote": "I seize life, engage in it, when I turn to other people, to things, animals, intellectual work or to myself, when I go towards it, get close, get into touch or pull it towards me.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+        },
+        "consent_to_feeling": {
+          "description": "Allowing oneself to be touched emotionally",
+          "quote": "If life is to make me move freely, my consent to being touched is necessary.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+        }
+      },
+      "coping_reactions": {
+        "basic_reaction_regression": {
+          "description": "Withdrawal, pulling back",
+          "quote": "The basic coping reaction on this level is regression.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+        },
+        "activism_overprotection": {
+          "description": "Overprotection or excessive achievement",
+          "quote": "The activism here is overprotection or achievement, typical forms of combating evil",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+        },
+        "aggression_rage": {
+          "description": "Fury, rage to obtain or improve relationship",
+          "quote": "the typical aggression is fury, rage which does not lead to destruction, but wants to agitate the other person with the impulse to obtain or to improve the relationship.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+        },
+        "freezing_resignation": {
+          "description": "Resignation, paralyzed halfway",
+          "quote": "Resignation reaction of feigned death paralyzed half-way.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 6."
+        }
+      },
+      "motivation_theory_correlation": {
+        "quote": "In motivation theory, 'will to value' would apply to this level. This includes the subjective-emotional quality of a person.",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 310-311."
+      },
+      "psychological_chain": {
+        "quote": "understand → coherence",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 312."
+      },
+      "mode_of_experience": {
+        "quote": "valuate like (give, receive)",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 312."
+      }
+    },
+
+    "FM3_being_person": {
+      "code": "FM3",
+      "primary_theme": "Being a Person - Dealing with Uniqueness and Conscience",
+      "fundamental_question": {
+        "text": "I am myself - may I be like this?",
+        "quote": "This puts before me the fundamental question of being a person: I am myself – may I be like this? Do I feel free to be like that? Do I have the right to be what I am and to behave as I do?",
+        "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+      },
+      "ethical_level": {
+        "description": "Plane of identity, self-knowledge, and ethics",
+        "quote": "This is the plane of identity, of knowing oneself and of ethics.",
+        "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+      },
+      "singularity_awareness": {
+        "quote": "There is a singularity that makes me an 'I' and distinguishes me from everybody else. I realize that I am on my own, that I have to master my existence myself and that, basically, I am alone and maybe even solitary.",
+        "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+      },
+      "existential_needs": {
+        "attention": {
+          "description": "Being seen, uniqueness considered, boundaries respected",
+          "quote": "By whom am I seen? Who considers my uniqueness and respects my boundaries?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        },
+        "justice": {
+          "description": "Being treated justly",
+          "quote": "Do people justice to me?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        },
+        "appreciation": {
+          "description": "Being appreciated and self-appreciation",
+          "quote": "For what am I appreciated – for what can I appreciate myself?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        }
+      },
+      "when_needs_not_met": {
+        "solitude": {
+          "quote": "If these experiences are missing, solitude will be the result, hysteria as well as a need to hide behind the shame.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        },
+        "hysteria": {
+          "quote": "If these experiences are missing, solitude will be the result, hysteria as well as a need to hide behind the shame.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        },
+        "shame": {
+          "quote": "If these experiences are missing, solitude will be the result, hysteria as well as a need to hide behind the shame.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        }
+      },
+      "when_needs_met": {
+        "self_worth": {
+          "quote": "The sum of these experiences builds one's own worth, the profoundest worth of what identifies my own self at its core: the self-esteem.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        },
+        "authenticity": {
+          "quote": "I will find myself, find my authenticity, my relief and my self-respect.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        },
+        "self_respect": {
+          "quote": "I will find myself, find my authenticity, my relief and my self-respect.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        }
+      },
+      "active_participation": {
+        "encounter": {
+          "description": "Looking at others, meeting their essence",
+          "quote": "Encounter represents the necessary bridge to the other, brings me out of the possible isolation, makes me find his essence as well as my own 'I' in the 'you'.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        },
+        "delimitation": {
+          "description": "Standing by one's own, refusing what doesn't correspond",
+          "quote": "to look at other people, to encounter them and, at the same time, to delimitate myself and to stand by my own, but to refuse whatever does not correspond to myself.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        },
+        "regret": {
+          "description": "Refusing what doesn't correspond to oneself",
+          "quote": "Encounter and regret are the two means by which we can live our authenticity without ending up in solitude.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        }
+      },
+      "coping_reactions": {
+        "basic_reaction_distancing": {
+          "description": "Distancing oneself from others",
+          "quote": "The coping reactions of this motivation are: distancing oneself as the basic reaction",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        },
+        "activism_functional_life": {
+          "description": "Stubborn insistence, leading functional life",
+          "quote": "stubborn insistence and leading a functional life as form of activism.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        },
+        "aggression_indignation": {
+          "description": "Annoyance, anger, reproach",
+          "quote": "The typical aggressive reaction consists in indignation, annoyance – anger, reproach.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        },
+        "freezing_dissociation": {
+          "description": "Splitting of emotion and cognition",
+          "quote": "The freezing type of reaction at this level are dissociation of the bodily integrity, dividing and splitting of emotion and cognition.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 7."
+        }
+      },
+      "motivation_theory_correlation": {
+        "quote": "His will to justification arises out of the necessity to be at home and accepted in the social structure, as well as in the structure of biographical life, where everything he has done, finally has to do with himself. This is what man experiences as responsibility.",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 311."
+      },
+      "psychological_chain": {
+        "quote": "recognise → responsibility",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 312."
+      },
+      "mode_of_experience": {
+        "quote": "choose/decide may (do, experience)",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 312."
+      }
+    },
+
+    "FM4_meaning_future": {
+      "code": "FM4",
+      "primary_theme": "Meaning - Dealing with Becoming, Future and Commitment",
+      "fundamental_question": {
+        "text": "I am there - for what is it good?",
+        "quote": "Thus the transience of life puts before us the question of meaning of our existence: I am there – for what is it good?",
+        "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+      },
+      "existential_level": {
+        "description": "Recognition of what life is about, self-transcendence",
+        "quote": "In a sense, we have to transcend ourselves, if we want to find fulfillment and to be fruitful. Otherwise we would live as if in a house where nobody ever visits.",
+        "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+      },
+      "existential_needs": {
+        "field_of_activity": {
+          "description": "Place where one feels needed and productive",
+          "quote": "Is there a place where I feel needed, where I can be productive?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        },
+        "structural_context": {
+          "description": "Larger context providing structure and orientation",
+          "quote": "Do I see and experience myself in a larger context that provides structure and orientation to my life? Where I want to be integrated?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        },
+        "future_value": {
+          "description": "Value to be realized",
+          "quote": "Is there anything that should still be realized in my life?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        }
+      },
+      "when_needs_not_met": {
+        "emptiness": {
+          "quote": "If this is not the case, the result will be a feeling of emptiness, frustration, even despair and frequently addiction.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        },
+        "frustration": {
+          "quote": "If this is not the case, the result will be a feeling of emptiness, frustration, even despair and frequently addiction.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        },
+        "despair": {
+          "quote": "If this is not the case, the result will be a feeling of emptiness, frustration, even despair and frequently addiction.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        },
+        "addiction": {
+          "quote": "If this is not the case, the result will be a feeling of emptiness, frustration, even despair and frequently addiction.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        }
+      },
+      "when_needs_met": {
+        "sense_of_fulfillment": {
+          "quote": "The sum of these experiences adds up to the meaning of life and leads to a sense of fulfillment.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        },
+        "dedication": {
+          "quote": "I will be capable of dedication and action and, finally, of my own form of religious belief.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        },
+        "action": {
+          "quote": "I will be capable of dedication and action",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        }
+      },
+      "active_participation": {
+        "phenomenological_openness": {
+          "description": "Openness to situational questions",
+          "quote": "This attitude of openness represents the existential access to meaning in life: that dealing with the questions put before me in each situation",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        },
+        "examining_goodness": {
+          "description": "Bringing oneself into correspondence with situation",
+          "quote": "My active part in this attitude of openness is to bring myself into correspondence with the situation, to examine whether what I am doing is really a good thing: for others, for myself, for the future, for my environment.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        }
+      },
+      "coping_reactions": {
+        "basic_reaction_provisional": {
+          "description": "Provisional, planless, day-to-day attitude",
+          "quote": "If man fails systematically to reach meaning, his coping reactions will be a provisional attitude towards life as basic reaction, together with a 'planless, day-to-day attitude toward life' and 'collective thinking'",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        },
+        "activism_idealization": {
+          "description": "Idealization and fanaticism",
+          "quote": "idealisation and fanaticism as main forms of activism",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        },
+        "aggression_cynicism": {
+          "description": "Aggressive games and cynicism",
+          "quote": "aggressive games and cynicism.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        },
+        "freezing_fatalism": {
+          "description": "Fatalism, loss of interest, apathy, nihilism",
+          "quote": "Fatalism, loss of interest, apathy and probably nihilism can be seen as forms of freezing reactions.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8."
+        }
+      },
+      "meaning_definitions": {
+        "existential_meaning": {
+          "quote": "We define meaning as 'the most valuable, realistic possibility of the given situation, for which I feel I should decide myself'.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 8-9."
+        },
+        "ontological_meaning": {
+          "quote": "Besides this existential meaning there is an ontological meaning. This is the overall meaning in which I find myself and which does not depend on me. It is the philosophical and religious meaning, the meaning the creator of the world must have had in mind.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. Paper presented at the 18th World Congress of Psychotherapy, Trondheim, Norway, p. 9."
+        }
+      },
+      "frankl_meaning_definition": {
+        "quote": "The potentialities of life are not indifferent possibilities; they must be seen in the light of meaning and values. At any given time only one of the possible choices of the individual fulfills the necessity of his life task.",
+        "citation": "Längle, A. (2011). The existential fundamental motivations structuring the motivational process. In D. A. Leontiev (Ed.), Motivation, consciousness and self-regulation (p. 39). Nova Science Publishers. [citing Frankl, 1985, p. 57]"
+      },
+      "psychological_chain": {
+        "quote": "act/know → Will to act, Will to meaning, Will to final commitment",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 312."
+      },
+      "mode_of_experience": {
+        "quote": "work/accomplish should/want (existential, ontological) believe pray",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 312."
+      }
+    }
+  },
+
+  "structure_of_will": {
+    "description": "Free and realistic will is based on four elements",
+    "foundation_quote": "Free and realistic will is based on three more elements",
+    "citation": "Längle, A. (2003). The art of involving the person: Fundamental existential motivations as the structure of the motivational process. European Psychotherapy, 4(1), 29-30.",
+    "element_1_ability": {
+      "description": "Real ability and capacity of the subject",
+      "quote": "on the real ability and capacity of the subject",
+      "citation": "Längle, A. (2003). The art of involving the person: Fundamental existential motivations as the structure of the motivational process. European Psychotherapy, 4(1), 30."
+    },
+    "element_2_emotional_perception": {
+      "description": "Emotional perception of the situational value",
+      "quote": "on the emotional perception of the situational value",
+      "citation": "Längle, A. (2003). The art of involving the person: Fundamental existential motivations as the structure of the motivational process. European Psychotherapy, 4(1), 30."
+    },
+    "element_3_inner_permission": {
+      "description": "Inner permission emerging from agreement with concepts of life and morality",
+      "quote": "on the inner permission for that act, emerging from an agreement with one's concepts of life and morality",
+      "citation": "Längle, A. (2003). The art of involving the person: Fundamental existential motivations as the structure of the motivational process. European Psychotherapy, 4(1), 30."
+    },
+    "element_4_meaning": {
+      "description": "Meaning as the motor in free will",
+      "quote": "Frankl saw meaning as the motor in free will.",
+      "citation": "Längle, A. (2003). The art of involving the person: Fundamental existential motivations as the structure of the motivational process. European Psychotherapy, 4(1), 29."
+    }
+  },
+
+  "phenomenological_understanding_of_meaning": {
+    "description": "Meaning is not purely subjectivistic but phenomenological",
+    "quote": "Therefore any understanding of meaning, where it is reduced to mere subjectivistic attribution, must be left behind for reasons of the one-sidedness mentioned and replaced by a phenomenological understanding of meaning.",
+    "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 307.",
+    "four_aspects": {
+      "objective": {
+        "quote": "Firstly it is objective 'on the basis of its situational reference'",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 308."
+      },
+      "relative": {
+        "quote": "Secondly, meaning is relative, with regard to the person it is relating to, as well as to further linkages of the situation itself.",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 308."
+      },
+      "subjective": {
+        "quote": "Thirdly, it is subjective, in that it can only be recognised and realised by the person involved in the respective situation.",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 308."
+      },
+      "appellative": {
+        "quote": "meaning is, fourthly, always appellative by its character of challenge, urging the subject with its typical call to 'do something with me!'",
+        "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 308."
+      }
+    }
+  },
+
+  "when_meaning_becomes_problem": {
+    "loss_of_value": {
+      "quote": "Here primarily losses of value should be mentioned: During illness, suffering, death or sorrow, which call for a special attitude in man.",
+      "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 308."
+    },
+    "lack_of_orientation": {
+      "quote": "Loss of meaning, however, is also a frequent phenomenon in the area of work. Not even success serves as protection. Just at the point where work loses its quality of necessity for life, a vacuum of orientation is formed",
+      "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 308."
+    },
+    "lack_of_relations": {
+      "quote": "Besides loss of value and lack of orientation in work, lack of relations is another phenomenon causing the existential vacuum. This abounds wherever life is experienced. Living without relating dwindles to boring and joyless consumption.",
+      "citation": "Längle, A. (1992). What are we looking for when we search for meaning? Ultimate Reality and Meaning, 15(4), 308."
+    }
+  },
+
+  "application_guidelines": {
+    "purpose": "This codebook is designed for interpretive thematic analysis of participant testimony in therapeutic interventions using the framework of the Four Fundamental Motivations.",
+    "coding_approach": "Deductive-inductive hybrid approach using the 4FMs as primary domains while remaining open to emergent sub-themes within each domain",
+    "unit_of_analysis": "Meaning units within participant testimony that reflect engagement with existential themes",
+    "coding_procedure": [
+      "1. Read testimony holistically to understand overall narrative",
+      "2. Identify segments reflecting engagement with one or more of the 4FMs",
+      "3. Code segments to appropriate FM primary domain",
+      "4. Apply sub-codes for existential needs, outcomes, active participation, or coping reactions",
+      "5. Note temporal markers (before, during, after intervention)",
+      "6. Maintain reflexive memo on coding decisions and interpretations"
+    ],
+    "inter_rater_reliability": "Multiple coders should independently code segments and discuss discrepancies to reach consensus",
+    "contextual_sensitivity": "Consider participant's unique situation, cultural background, and intervention context when applying codes"
+  },
+
+  "coding_notes": {
+    "overlapping_themes": "Testimony may reflect multiple FMs simultaneously - code all applicable domains",
+    "temporal_dynamics": "Track changes across pre-intervention, during intervention, and post-intervention phases",
+    "depth_levels": "Some testimony may address surface needs while other segments reveal deeper existential concerns",
+    "dialectical_movement": "Observe movement between needs not being met and needs being fulfilled within same FM",
+    "coping_to_fulfillment": "Track progression from coping reactions toward active participation and fulfillment"
+  }
+}

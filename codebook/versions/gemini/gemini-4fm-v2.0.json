@@ -1,0 +1,58 @@
+{
+  "codebook_title": "Existential Analysis & Logotherapy Four Fundamental Motivations (4FMs) Codebook",
+  "version": "2.0",
+  "primary_thematic_domains": "Four Fundamental Motivations (4FMs) of Existential Analysis",
+  "description": "A comprehensive codebook for interpretive thematic analysis based on the four fundamental themes of existence (4FMs), used to interpret participant testimony in psychological interventions. All themes, sub-themes, and details are sourced exclusively from the provided academic literature.",
+  "citations_list": {
+    "Langle_1992": "Längle, A. (1992). What Are We Looking for When We Search for Meaning?. Ultimate Reality and Meaning, 15(4), 306–322.",
+    "Langle_2002": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Pub Inc.",
+    "Langle_2003": "Längle, A. (2003). The Art of Involving the Person – Fundamental Existential Motivations as the Structure of the Motivational Process. European Psychotherapy, 4(1), 25–36.",
+    "Langle_2011": "Längle, A. (2011). The Existential Fundamental Motivations Structuring the Motivational Process. In D. A. Leontiev (Ed.), Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Publishers."
+  },
+  "4FMs_Codebook": [
+    {
+      "FM_Order": 1,
+      "FM_Name": "First Fundamental Motivation: Being in the World (Acceptance of Reality)",
+      [cite_start]"FM_Core_Task": "Coming to terms with the reality of one's existence, or 'being in the world'[cite: 1080, 1677].",
+      "Existential_Need": "Support, space, protection, and security",
+      "Coping_Reaction": "Anxiety (if confrontation fails)",
+      "Exclusion_Criteria_Psychopathology": "Phobic and anxiety disorders (in the extreme of this failure)",
+      "Justification_Quote": "The corresponding existential need is the need for support, space, protection, and security. If this confrontation fails, the person cannot accept the conditions of existence and reacts with anxiety. [cite_start]In the extreme of this failure, we find phobic and anxiety disorders. [cite: 1147, 1148]",
+      "Source_Citation_Key": "Langle_2003",
+      "Source_Page_Ref": "28"
+    },
+    {
+      "FM_Order": 2,
+      "FM_Name": "Second Fundamental Motivation: Living One's Life (The Will to Live, Value)",
+      [cite_start]"FM_Core_Task": "Coming to terms with the reality of one's life[cite: 1080, 1677].",
+      "Existential_Need": "Value, feeling and value-relation",
+      "Coping_Reaction": "Depressive moods (if a person is not able to experience the value of life)",
+      "Exclusion_Criteria_Psychopathology": "Depression (affective disorder, mood disorder) (in the extreme)",
+      "Justification_Quote": "The existential need corresponding to the 2nd Fundamental Motivation is the need for value, feeling and value-relation. If a person is not able to experience the value of life, the relationship to life becomes restricted, leading to depressive moods. [cite_start]In the extreme, this restriction is experienced as a depression (affective disorder, mood disorder). [cite: 1152, 1154]",
+      "Source_Citation_Key": "Langle_2003",
+      "Source_Page_Ref": "29"
+    },
+    {
+      "FM_Order": 3,
+      "FM_Name": "Third Fundamental Motivation: Being Oneself (Identity, Authenticity, Justice)",
+      [cite_start]"FM_Core_Task": "Coming to terms with an awareness of one's identity[cite: 1080, 1677].",
+      "Existential_Need": "Justice, respect, appreciation, and self-worth",
+      "Coping_Reaction": "Hysterical reaction of seeking a role (if unable to stand up for one's own identity)",
+      "Exclusion_Criteria_Psychopathology": "Histrionic or borderline personality disorders (in the extreme)",
+      "Justification_Quote": "The existential need of the 3rd Fundamental Motivation is the need for justice, respect, appreciation, and self-worth. The corresponding failure leads to a person being unable to stand up for one's own identity; it leads to an hysterical reaction of seeking a role. [cite_start]In the extreme, this can be observed as histrionic or borderline personality disorders. [cite: 1164, 1165]",
+      "Source_Citation_Key": "Langle_2003",
+      "Source_Page_Ref": "30"
+    },
+    {
+      "FM_Order": 4,
+      "FM_Name": "Fourth Fundamental Motivation: Existential Meaning (Context/Horizon)",
+      [cite_start]"FM_Core_Task": "To participate and be open to relationships and wider contexts from which personal meanings are discovered[cite: 1081, 1678].",
+      "Existential_Need": "Meaning, goal, purpose, and future",
+      "Coping_Reaction": "Frustration of meaning (existential vacuum) (if the need is frustrated)",
+      "Exclusion_Criteria_Psychopathology": "Addictions, loss of identity (psychosis), and suicidal intentions (in the extreme of this failure)",
+      "Justification_Quote": "The 4th Fundamental Motivation refers to the need for meaning, goal, purpose, and future. If this need is frustrated, a person is not able to experience an appeal or a *challenge* in the situation, the individual experiences frustration of meaning (existential vacuum). [cite_start]In the extreme of this failure, we find addictions, loss of identity (psychosis), and suicidal intentions. [cite: 1172, 1173]",
+      "Source_Citation_Key": "Langle_2003",
+      "Source_Page_Ref": "31"
+    }
+  ]
+}
