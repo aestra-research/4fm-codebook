@@ -1,0 +1,141 @@
+{
+  "codebook_title": "Existential Analysis and Logotherapy 4 Fundamental Motivations (EA LT 4FMs) Codebook",
+  "version": "4.0",
+  "description": "A comprehensive, merged codebook combining the best structural elements, detailed sub-themes, and specific psychopathology correlations from versions 1.3.2, 2.0, and 3.4, based on the four fundamental themes of existence (4FMs) in Existential Analysis and Logotherapy.",
+  "source_documents_list": [
+    {
+      "citation_key": "Langle_1992",
+      "apa_citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning?. Ultimate Reality and Meaning, 15(4), 306–322. https://doi.org/10.3138/uram.15.4.306",
+      "summary": "Introduces the noetic (spiritual/existential) dimensions and the sequence of the three noetic motivations (True, Attractive, Right) leading to the will to meaning/act and a final transcendent commitment."
+    },
+    {
+      "citation_key": "Langle_2002",
+      "apa_citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Pub Inc.",
+      "summary": "Provides detailed breakdowns of the four types of coping reactions (psychodynamics) and failure results for each of the four fundamental motivations."
+    },
+    {
+      "citation_key": "Langle_2003",
+      "apa_citation": "Längle, A. (2003). The Art of Involving the Person – Fundamental Existential Motivations as the Structure of the Motivational Process. European Psychotherapy, 4(1), 25–36.",
+      "summary": "Details the core existential motivations, their corresponding fundamental questions, core concepts, and the objective (goal of dialogue) of successfully dealing with each motivation."
+    },
+    {
+      "citation_key": "Langle_2011",
+      "apa_citation": "Längle, A. (2011). The Existential Fundamental Motivations Structuring the Motivational Process. In D. A. Leontiev (Ed.), Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Publishers.",
+      "summary": "Defines the four fundamental themes/conditions of existence (4FMs) as the cornerstones of existence that challenge a person to respond and activate inner freedom."
+    }
+  ],
+  "general_concepts": [
+    {
+      "concept_name": "Motivation (Existential Definition)",
+      "definition": "A process of **continuous exchange** between the subject individual and the environment, seen as a **dialogical movement** from the present, given reality towards the person's goals and intentions.",
+      "focus": "An expression of the (mostly unconscious) human intention to **be-come**, to come into existence."
+    },
+    {
+      "concept_name": "The Existential Paradigm",
+      "focus": "An **interpersonal paradigm** (a complement and counterweight to the individualistic paradigm of freedom and personal will). The most original activity of personhood: Our being essentially **dialogical**, prone to and directed towards **exchange with others**.",
+      "structure_function": "The four cornerstones of existence form a **matrix for the psychopathological understanding** of psychological disorders and represent the **structural model for modern Existential Analytical Psychotherapy**."
+    },
+    {
+      "concept_name": "Critique of Frankl's 'Will to Meaning'",
+      "längle_critique": "In the motivational angle of his theory, Frankl may have adopted some **individualistic thinking** by tracing back and reducing the concept of existential motivation to the concept of **will**."
+    }
+  ],
+  "thematic_domains_4FMs": [
+    {
+      "FM_Order": 1,
+      "code": "1FM_WORLD_CONDITIONS",
+      "name": "First Fundamental Motivation: The World—Dealing with Conditions and Possibilities",
+      "theme_name": "The ability to be; to endure/uphold. (FM of World/Reality)",
+      "core_task": "Coming to terms with the reality of one's existence, or 'being in the world'.",
+      "existential_question": "I am - can I be?",
+      "noetic_content": "TRUE (reality)",
+      "noetic_motivation": "Will to be (Will to existence)",
+      "noetic_mode_of_experience": "can",
+      "epistemological_chain": "know (explain) → facts",
+      "existential_need": "Support, Space, Protection, and Security",
+      "positive_outcome": "Fundamental Trust, Confidence in Self, Faith",
+      "negative_pathology_result_general": "Restlessness, Insecurity, Fear, Groundlessness",
+      "exclusion_criteria_psychopathology": "Phobic and anxiety disorders (in the extreme of this failure)",
+      "coping_reactions_failure": {
+        "basic_reaction": "Avoidance or Flight",
+        "paradoxical_activism": "Overactivity (e.g., Compulsive Washing)",
+        "specific_aggression": "Destructive Aggression (e.g., Hate)",
+        "freezing_paralysis": "Denial or Pretending to be Non-Existent"
+      }
+    },
+    {
+      "FM_Order": 2,
+      "code": "2FM_LIFE_EMOTIONS",
+      "name": "Second Fundamental Motivation: Life—Dealing with Relationships and Emotions",
+      "theme_name": "The ability to feel value/life. (FM of Life/Value)",
+      "core_task": "Coming to terms with the reality of one's life.",
+      "existential_question": "I am alive - do I like this fact? Is it good to be there?",
+      "noetic_content": "ATTRACTIVE (value)",
+      "noetic_motivation": "Will to value",
+      "noetic_mode_of_experience": "like",
+      "epistemological_chain": "understand → coherence",
+      "existential_need": "Value, Feeling, Value-Relation, Relationship, Time, and Closeness",
+      "positive_outcome": "Fundamental Value, Harmony, Sense of Depth of Life",
+      "negative_pathology_result_general": "Longing, Coldness, Depression, Emotional Death",
+      "exclusion_criteria_psychopathology": "Depression (affective disorder, mood disorder) (in the extreme)",
+      "coping_reactions_failure": {
+        "basic_reaction": "Regression",
+        "paradoxical_activism": "Overprotection or Achievement",
+        "specific_aggression": "Fury or Rage (to obtain or improve relationship)",
+        "freezing_paralysis": "Resignation (feigned death paralyzed half-way)"
+      }
+    },
+    {
+      "FM_Order": 3,
+      "code": "3FM_PERSON_SELF",
+      "name": "Third Fundamental Motivation: Being a Person—Dealing with Uniqueness and Conscience",
+      "theme_name": "The ability to be oneself; to be just. (FM of Self/Justice)",
+      "core_task": "Coming to terms with an awareness of one's identity.",
+      "existential_question": "I am myself - may I be like this?",
+      "noetic_content": "RIGHT (relations)",
+      "noetic_motivation": "Will to the right",
+      "noetic_mode_of_experience": "may",
+      "epistemological_chain": "recognise → responsibility",
+      "existential_need": "Justice, Respect, Appreciation, and Self-Worth/Attention",
+      "positive_outcome": "Self-Esteem, Authenticity, Relief, Self-Respect",
+      "negative_pathology_result_general": "Solitude, Hysteria, Need to Hide behind Shame, Loneliness",
+      "exclusion_criteria_psychopathology": "Histrionic or borderline personality disorders (in the extreme)",
+      "coping_reactions_failure": {
+        "basic_reaction": "Distancing Oneself",
+        "paradoxical_activism": "Stubborn Insistence and Functional Life",
+        "specific_aggression": "Indignation, Annoyance, Anger, Reproach",
+        "freezing_paralysis": "Dissociation (of bodily integrity), Dividing and Splitting (of emotion and cognition)"
+      }
+    },
+    {
+      "FM_Order": 4,
+      "code": "4FM_MEANING_FUTURE",
+      "name": "Fourth Fundamental Motivation: Meaning—Dealing with Becoming, Future and Commitment",
+      "theme_name": "The ability to do good; to be creative/meaning. (FM of Meaning/Future)",
+      "core_task": "To participate and be open to relationships and wider contexts (horizon) from which personal meanings are discovered.",
+      "existential_question": "I am there - for what is it good?",
+      "noetic_content": "MEANING (commitment)",
+      "noetic_motivation": "Will to act / Will to meaning",
+      "noetic_mode_of_experience": "should/want",
+      "epistemological_chain": "act/know",
+      "definition_of_existential_meaning": "The Most Valuable, Realistic Possibility in the Given Situation, for which I feel I should decide myself.",
+      "existential_need": "Meaning, Goal, Purpose, Future, A Field of Activity, A Structural Context, A Value to be Realized in the Future",
+      "positive_outcome": "Sense of Fulfillment, Dedication, Action, Religious Belief",
+      "negative_pathology_result_general": "Feeling of Emptiness, Frustration, Despair, Addiction, Absurdity",
+      "exclusion_criteria_psychopathology": "Addictions, loss of identity (psychosis), and suicidal intentions (in the extreme of this failure)",
+      "coping_reactions_failure": {
+        "basic_reaction": "Provisional/Planless Attitude, Collective Thinking",
+        "paradoxical_activism": "Idealisation and Fanaticism",
+        "specific_aggression": "Aggressive Games and Cynicism",
+        "freezing_paralysis": "Fatalism, Loss of Interest, Apathy, Nihilism"
+      },
+      "transcendent_layer": {
+        "name": "Transcendent Meaning (Will to final commitment)",
+        "central_area": "Transcendence",
+        "epistemological_chain": "believe",
+        "noetic_mode_of_experience": "pray",
+        "justification_quote": "The seeker of meaning will then have to decide whether his search demands action and personal involvement (existential meaning) or refers to a 'meaning beyond' (Frankl) and the metaphysical transcendence."
+      }
+    }
+  ]
+}
