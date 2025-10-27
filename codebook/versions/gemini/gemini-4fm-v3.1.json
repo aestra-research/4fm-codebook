@@ -1,0 +1,80 @@
+{
+  "codebook_title": "Existential Analysis and Logotherapy 4 Fundamental Motivations (EA LT 4FMs) Codebook",
+  "version": "3.1",
+  "source_documents": [
+    {
+      "apa_citation": "Längle, A. (2011). The Existential Fundamental Motivations Structuring the Motivational Process. In D. A. Leontiev (Ed.), Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Publishers.",
+      "summary": "This article defines the four fundamental themes/conditions of existence (4FMs) as the cornerstones of existence that challenge a person to respond and activate inner freedom, serving as the basis for the fundamental existential motivations."
+    }
+  ],
+  "thematic_domains_4FMs": [
+    {
+      "code": "1FM_WORLD_CONDITIONS",
+      "name": "First Fundamental Motivation: The World—Dealing with Conditions and Possibilities",
+      "core_question": "Can I be here?",
+      [cite_start]"core_question_justification": "“I am—can I be?”[cite: 192].",
+      [cite_start]"definition_sub_theme": "The first condition arises from the simple fact that I am here at all, that I am in the world[cite: 180].",
+      "existential_need_set": "Protection, Space, and Support",
+      "existential_need_justification": "Can I claim my place in this world under the conditions and with the possibilities I have? [cite_start]This demands three things: **protection, space and support**[cite: 194, 195].",
+      "positive_outcome": "Trust (Fundamental Trust, Confidence, Faith)",
+      "positive_outcome_justification": "But if I do have these three things [protection, space, support], I will be able to feel **trust in the world and confidence in myself**, maybe even **faith in God**. [cite_start]The sum of these experiences of trust is the **fundamental trust**...[cite: 198, 199].",
+      "negative_pathology_result": "Restlessness, Insecurity, Fear, Psychodynamics/Coping Reactions",
+      [cite_start]"negative_pathology_justification": "If this is not the case [protection, space, support are lacking], the result will be **restlessness, insecurity and fear** [cite: 197][cite_start]... If this is not the case, **psychodynamics takes over the guidance in the form of coping reactions**, which are to secure life[cite: 210].",
+      "active_participation": "Acceptance and Endurance",
+      [cite_start]"active_participation_justification": "My active part in this fundamental condition of being there is to **accept** the positive sides and to **endure** the negative sides[cite: 201].",
+      "exclusion_criteria_example": "Statements solely describing a 'reaction' or 'reflex' without personal decision/involvement.",
+      "exclusion_criteria_justification": "Without this involvement of the person in the motivational process, human beings would not be dealing with a question of motivation. [cite_start]Instead, there would be a sort of **reflex or reaction**, but no 'action'[cite: 129, 130]."
+    },
+    {
+      "code": "2FM_LIFE_EMOTIONS",
+      "name": "Second Fundamental Motivation: Life—Dealing with Relationships and Emotions",
+      "core_question": "Do I like my life?",
+      "core_question_justification": "I am alive—**do I like this fact**? [cite_start]Is it good to be there?[cite: 217, 218].",
+      "definition_sub_theme": "Once someone has his/her space in the world, he/she can fill it with life. Simply being there is not enough. We want our existence to be good, since it is more than a mere fact. [cite_start]It has a 'pathic dimension,' which means that we experience and suffer or enjoy it[cite: 211, 212, 213].",
+      "existential_need_set": "Relationship, Time, and Closeness",
+      [cite_start]"existential_need_justification": "In order to seize my life, to love it, I need three things: **relationship, time and closeness**[cite: 220].",
+      "positive_outcome": "Fundamental Value, Harmony, Depth of Life",
+      [cite_start]"positive_outcome_justification": "But if these three conditions are fulfilled, I experience myself as being in **harmony** with the world and with myself, and I can sense the **depth of life**[cite: 224]. [cite_start]These experiences form the **fundamental value**, the most profound feeling for the value of life[cite: 225].",
+      "negative_pathology_result": "Longing, Coldness, Depression",
+      [cite_start]"negative_pathology_justification": "If relationships, closeness and time are lacking, **longing** will arise, then **coldness** and finally **depression**[cite: 224].",
+      "active_participation": "Turning to (others/things/self), Consent to Being Touched (Feeling)",
+      [cite_start]"active_participation_justification": "I seize life, engage in it, when I **turn to other people, to things**... when I go towards it, get close, get into touch or pull it towards me [cite: 230][cite_start]... If life is to make me move freely, my **consent to being touched (to feeling)** is necessary[cite: 232].",
+      "exclusion_criteria_example": "Statements solely describing a 'reaction' or 'reflex' without personal decision/involvement.",
+      "exclusion_criteria_justification": "Without this involvement of the person in the motivational process, human beings would not be dealing with a question of motivation. [cite_start]Instead, there would be a sort of **reflex or reaction**, but no 'action'[cite: 129, 130]."
+    },
+    {
+      "code": "3FM_PERSON_SELF",
+      "name": "Third Fundamental Motivation: Being a Person—Dealing with Uniqueness and Conscience",
+      "core_question": "Am I allowed to be like this?",
+      "core_question_justification": "I am myself—**may I be like this**? Do I feel free to be like that? [cite_start]**Do I have the right to be what I am** and to behave as I do?[cite: 241].",
+      "definition_sub_theme": "In spite of my being related to life and to people, I am aware of my being separate, different. [cite_start]There is a singularity that makes me an 'I' and distinguishes me from everybody else[cite: 234, 235]. [cite_start]This is the plane of **identity, of knowing oneself and of ethics**[cite: 242].",
+      "existential_need_set": "Attention, Justice, and Appreciation",
+      [cite_start]"existential_need_justification": "In order to succeed here [being a person], it is necessary to have experienced three things: **attention, justice and appreciation**[cite: 242].",
+      "positive_outcome": "Self-Esteem, Authenticity, Relief, Self-Respect",
+      "positive_outcome_justification": "If, on the contrary, these experiences have been made, I will find myself; find my **authenticity, my relief and my self-respect**. [cite_start]The sum of these experiences builds one’s own worth, the profoundest worth of what identifies my own self at its core: the **self-esteem**[cite: 245, 246].",
+      "negative_pathology_result": "Solitude, Hysteria, Need to Hide behind Shame",
+      [cite_start]"negative_pathology_justification": "If these experiences are missing, **solitude** will be the result, **hysteria** as well as a **need to hide behind the shame**[cite: 244].",
+      "active_participation": "Saying 'Yes to Myself', Encounter, Regret (Demarcation/Refusal)",
+      [cite_start]"active_participation_justification": "I also have to **say 'yes to myself'**[cite: 247]. This requires my active participation: to look at other people, to **encounter** them and, at the same time, to **demarcate myself and to stand by my own, but to refuse** whatever does not correspond to me. [cite_start]**Encounter and regret** are the two means by which we can live our authenticity[cite: 247, 248].",
+      "exclusion_criteria_example": "Statements solely describing a 'reaction' or 'reflex' without personal decision/involvement.",
+      "exclusion_criteria_justification": "Without this involvement of the person in the motivational process, human beings would not be dealing with a question of motivation. [cite_start]Instead, there would be a sort of **reflex or reaction**, but no 'action'[cite: 129, 130]."
+    },
+    {
+      "code": "4FM_MEANING_FUTURE",
+      "name": "Fourth Fundamental Motivation: Meaning—Dealing with Becoming, Future and Commitment",
+      "core_question": "What should I live for?",
+      [cite_start]"core_question_justification": "I am there—**for what is it good**?[cite: 256].",
+      "definition_sub_theme": "It does not suffice to simply be there and to have found oneself. [cite_start]In a sense, we have to **transcend ourselves**, if we want to find fulfillment and to be fruitful[cite: 253, 254]. [cite_start]This is the recognition of what my life is all about[cite: 252].",
+      "existential_need_set": "Field of Activity, Structural Context, and Value to be realized in the Future",
+      [cite_start]"existential_need_justification": "For this, three things are necessary: a **field of activity, a structural context and a value to be realized in the future**[cite: 256].",
+      "positive_outcome": "Sense of Fulfillment, Dedication, Action, Religious Belief",
+      "positive_outcome_justification": "If, on the contrary, these conditions are met, I will be capable of **dedication and action** and, finally, of my own form of **religious belief**. [cite_start]The sum of these experiences adds up to the **meaning of life** and leads to a sense of **fulfillment**[cite: 260, 261].",
+      "negative_pathology_result": "Feeling of Emptiness, Frustration, Despair, Addiction",
+      [cite_start]"negative_pathology_justification": "If this is not the case, the result will be a **feeling of emptiness, frustration, even despair and frequently addiction**[cite: 259].",
+      "active_participation": "Openness (Phenomenological Attitude), Agreement with the Situation",
+      [cite_start]"active_participation_justification": "The attitude of **openness** represents the existential access to meaning in life: i.e., dealing with the questions put before me in each situation [cite: 263][cite_start]... My active part in this attitude of openness is to bring myself into **agreement with the situation**[cite: 266].",
+      "exclusion_criteria_example": "Statements solely describing a 'reaction' or 'reflex' without personal decision/involvement.",
+      "exclusion_criteria_justification": "Without this involvement of the person in the motivational process, human beings would not be dealing with a question of motivation. [cite_start]Instead, there would be a sort of **reflex or reaction**, but no 'action'[cite: 129, 130]."
+    }
+  ]
+}

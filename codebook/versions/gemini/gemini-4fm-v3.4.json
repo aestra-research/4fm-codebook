@@ -1,0 +1,67 @@
+{
+  "codebook_title": "Existential Analysis and Logotherapy 4 Fundamental Motivations (EA LT 4FMs) Codebook",
+  "version": "3.4",
+  "source_documents": [
+    {
+      "apa_citation": "Längle, A. (2011). The Existential Fundamental Motivations Structuring the Motivational Process. In D. A. Leontiev (Ed.), Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Publishers.",
+      "summary": "This article defines the four fundamental themes/conditions of existence (4FMs) as the cornerstones of existence that challenge a person to respond and activate inner freedom, serving as the basis for the fundamental existential motivations."
+    },
+    {
+      "apa_citation": "Längle, A. (2003). The Art of Involving the Person – Fundamental Existential Motivations as the Structure of the Motivational Process. European Psychotherapy, 4(1), 25–36.",
+      "summary": "This article further details the core existential motivations, their corresponding fundamental questions, their core concepts, and the objective (goal of dialogue) of successfully dealing with each motivation."
+    },
+    {
+      "apa_citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Pub Inc.",
+      "summary": "This article provides detailed breakdowns of the four types of coping reactions (psychodynamics) associated with the failure to meet each of the four fundamental motivations, leading to specific forms of psychopathology."
+    },
+    {
+      "apa_citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), 306–314. https://doi.org/10.3138/uram.15.4.306",
+      "summary": "This article introduces the noetic (spiritual/existential) dimensions of the search for meaning, outlining the sequence of the three noetic motivations (True, Attractive, Right) that culminate in the will to meaning/act and a final transcendent commitment."
+    }
+  ],
+  "thematic_domains_4FMs": [
+    {
+      "code": "1FM_WORLD_CONDITIONS",
+      "name": "First Fundamental Motivation: The World—Dealing with Conditions and Possibilities",
+      "negative_pathology_result_general": "Restlessness, Insecurity, Fear",
+      "noetic_content": "TRUE (reality)",
+      "noetic_motivation": "Will to be (Will to existence)",
+      "noetic_mode_of_experience": "can",
+      "epistemological_chain": "know (explain) → facts"
+    },
+    {
+      "code": "2FM_LIFE_EMOTIONS",
+      "name": "Second Fundamental Motivation: Life—Dealing with Relationships and Emotions",
+      "negative_pathology_result_general": "Longing, Coldness, Depression",
+      "noetic_content": "ATTRACTIVE (value)",
+      "noetic_motivation": "Will to value",
+      "noetic_mode_of_experience": "like",
+      "epistemological_chain": "understand → coherence"
+    },
+    {
+      "code": "3FM_PERSON_SELF",
+      "name": "Third Fundamental Motivation: Being a Person—Dealing with Uniqueness and Conscience",
+      "negative_pathology_result_general": "Solitude, Hysteria, Need to Hide behind Shame",
+      "noetic_content": "RIGHT (relations)",
+      "noetic_motivation": "Will to the right",
+      "noetic_mode_of_experience": "may",
+      "epistemological_chain": "recognise → responsibility"
+    },
+    {
+      "code": "4FM_MEANING_FUTURE",
+      "name": "Fourth Fundamental Motivation: Meaning—Dealing with Becoming, Future and Commitment",
+      "negative_pathology_result_general": "Feeling of Emptiness, Frustration, Despair, Addiction",
+      "noetic_content": "MEANING (commitment)",
+      "noetic_motivation": "Will to act / Will to meaning",
+      "noetic_mode_of_experience": "should/want",
+      "epistemological_chain": "act/know",
+      "transcendent_layer": {
+        "name": "Transcendent Meaning (Will to final commitment)",
+        "central_area": "Transcendence",
+        "epistemological_chain": "believe",
+        "noetic_mode_of_experience": "pray",
+        [cite_start]"justification": "The seeker of meaning will then have to decide whether his search demands action and personal involvement (existential meaning) or refers to a 'meaning beyond' (Frankl) and the metaphysical transcendence. [cite: 174]"
+      }
+    }
+  ]
+}

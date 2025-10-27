@@ -1,0 +1,204 @@
+{
+  "codebook_title": "Existential Analysis and Logotherapy 4 Fundamental Motivations (EA LT 4FMs) Codebook",
+  "version": "3.3",
+  "source_documents": [
+    {
+      "apa_citation": "Längle, A. (2011). The Existential Fundamental Motivations Structuring the Motivational Process. In D. A. Leontiev (Ed.), Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Publishers.",
+      "summary": "This article defines the four fundamental themes/conditions of existence (4FMs) as the cornerstones of existence that challenge a person to respond and activate inner freedom, serving as the basis for the fundamental existential motivations."
+    },
+    {
+      "apa_citation": "Längle, A. (2003). The Art of Involving the Person – Fundamental Existential Motivations as the Structure of the Motivational Process. European Psychotherapy, 4(1), 25–36.",
+      "summary": "This article further details the core existential motivations, their corresponding fundamental questions, their core concepts, and the objective (goal of dialogue) of successfully dealing with each motivation."
+    },
+    {
+      "apa_citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Pub Inc.",
+      "summary": "This article provides detailed breakdowns of the four types of coping reactions (psychodynamics) associated with the failure to meet each of the four fundamental motivations, leading to specific forms of psychopathology."
+    }
+  ],
+  "thematic_domains_4FMs": [
+    {
+      "code": "1FM_WORLD_CONDITIONS",
+      "name": "First Fundamental Motivation: The World—Dealing with Conditions and Possibilities",
+      "core_question": "Can I be here?",
+      "core_question_justification": "“I am—can I be?”.",
+      "goal_of_dialogue": "To achieve a fundamental 'Yes' to the conditions of existence and to achieve Trust.",
+      "goal_of_dialogue_justification": "The goal in the dialogical process is to gain an acceptance of the existing conditions of life, to achieve a fundamental 'Yes' to the conditions of existence, and to achieve **Trust**.",
+      "definition_sub_theme": "The first condition arises from the simple fact that I am here at all, that I am in the world.",
+      "existential_need_set": "Protection, Space, and Support",
+      "existential_need_justification": "Can I claim my place in this world under the conditions and with the possibilities I have? This demands three things: **protection, space and support**.",
+      "positive_outcome": "Trust (Fundamental Trust, Confidence, Faith)",
+      "positive_outcome_justification": "But if I do have these three things [protection, space, support], I will be able to feel **trust in the world and confidence in myself**, maybe even **faith in God**. The sum of these experiences of trust is the **fundamental trust**....",
+      "active_participation": "Acceptance and Endurance",
+      "active_participation_justification": "My active part in this fundamental condition of being there is to **accept** the positive sides and to **endure** the negative sides.",
+      "exclusion_criteria_example": "Statements solely describing a 'reaction' or 'reflex' without personal decision/involvement.",
+      "exclusion_criteria_justification": "Without this involvement of the person in the motivational process, human beings would not be dealing with a question of motivation. Instead, there would be a sort of **reflex or reaction**, but no 'action'.",
+      "negative_pathology_result_general": "Restlessness, Insecurity, Fear",
+      "negative_pathology_justification_general": "If this is not the case [protection, space, support are lacking], the result will be **restlessness, insecurity and fear**.",
+      "coping_reactions_types": [
+        {
+          "type": "Basic Reaction",
+          "description": "avoidance or flight",
+          "justification": "Each fundamental motivation has four types of coping reactions: the basic reaction type here this would be avoidance or flight;"
+        },
+        {
+          "type": "Paradoxical/Activism",
+          "description": "overactivity like fighting bacteria by compulsive washing",
+          "justification": "the paradoxical reaction type or activism here this would be overactivity like fighting bacteria by compulsive washing;"
+        },
+        {
+          "type": "Specific Aggression",
+          "description": "destructive aggression such as hate",
+          "justification": "the third type of coping reaction is a specific aggression (Längle 1998b)- here it would be a destructive aggression such as hate;"
+        },
+        {
+          "type": "Freezing/Death Imitation",
+          "description": "denial or pretending to be non-existent",
+          "justification": "the last type of coping reaction is a reflex of freezing, of death imitation with paralysis here denial or pretending to be non-existent."
+        },
+        {
+          "type": "Psychopathology",
+          "description": "fear and anxiety",
+          "justification": "If these coping reactions do not suffice fear and anxiety arise."
+        }
+      ]
+    },
+    {
+      "code": "2FM_LIFE_EMOTIONS",
+      "name": "Second Fundamental Motivation: Life—Dealing with Relationships and Emotions",
+      "core_question": "Do I like my life?",
+      "core_question_justification": "I am alive—**do I like this fact**? Is it good to be there?.",
+      "goal_of_dialogue": "To achieve an essential 'Yes' to the values of existence and to achieve Fundamental Value.",
+      "goal_of_dialogue_justification": "The goal in the dialogical process is to gain the feeling of the value of existence, to achieve an essential 'Yes' to the values of existence, and to achieve **Fundamental Value**.",
+      "definition_sub_theme": "Once someone has his/her space in the world, he/she can fill it with life. Simply being there is not enough. We want our existence to be good, since it is more than a mere fact. It has a 'pathic dimension,' which means that we experience and suffer or enjoy it.",
+      "existential_need_set": "Relationship, Time, and Closeness",
+      "existential_need_justification": "In order to seize my life, to love it, I need three things: **relationship, time and closeness**.",
+      "positive_outcome": "Fundamental Value, Harmony, Depth of Life",
+      "positive_outcome_justification": "But if these three conditions are fulfilled, I experience myself as being in **harmony** with the world and with myself and I can sense the **depth of life**. These experiences form the **fundamental value**, the most profound feeling for the value of life.",
+      "active_participation": "Turning to (others/things/self), Consent to Being Touched (Feeling)",
+      "active_participation_justification": "I seize life, engage in it, when I **turn to other people, to things**... when I go towards it, get close, get into touch or pull it towards me... If life is to make me move freely, my **consent to being touched (to feeling)** is necessary.",
+      "exclusion_criteria_example": "Statements solely describing a 'reaction' or 'reflex' without personal decision/involvement.",
+      "exclusion_criteria_justification": "Without this involvement of the person in the motivational process, human beings would not be dealing with a question of motivation. Instead, there would be a sort of **reflex or reaction**, but no 'action'.",
+      "negative_pathology_result_general": "Longing, Coldness, Depression",
+      "negative_pathology_justification_general": "If relationships, closeness and time are lacking, **longing** will arise, then **coldness** and finally **depression**.",
+      "coping_reactions_types": [
+        {
+          "type": "Basic Reaction",
+          "description": "regression",
+          "justification": "The basic coping reaction on this level is regression."
+        },
+        {
+          "type": "Paradoxical/Activism",
+          "description": "overprotection or achievement, typical forms of combating evil",
+          "justification": "The activism here is overprotection or achievement, typical forms of combating evil;"
+        },
+        {
+          "type": "Specific Aggression",
+          "description": "fury, rage which wants to agitate the other person with the impulse to obtain or to improve the relationship",
+          "justification": "the typical aggression is fury, rage which does not lead to destruction, but wants to agitate the other person with the impulse to obtain or to improve the relationship."
+        },
+        {
+          "type": "Freezing/Death Imitation",
+          "description": "Resignation reaction of feigned death paralyzed half-way",
+          "justification": "Resignation reaction of feigned death paralyzed half-way."
+        },
+        {
+          "type": "Psychopathology",
+          "description": "depression",
+          "justification": "If these reactions cannot neutralize the problem or the loss, depression arises."
+        }
+      ]
+    },
+    {
+      "code": "3FM_PERSON_SELF",
+      "name": "Third Fundamental Motivation: Being a Person—Dealing with Uniqueness and Conscience",
+      "core_question": "Am I allowed to be like this?",
+      "core_question_justification": "I am myself—**may I be like this**? Do I feel free to be like that? **Do I have the right to be what I am** and to behave as I do?.",
+      "goal_of_dialogue": "To achieve a structural 'Yes' to the value of the self and to achieve Self-Esteem.",
+      "goal_of_dialogue_justification": "The goal in the dialogical process is to gain an acceptance of the Self, to achieve a structural 'Yes' to the value of the self, and to achieve **Self-Esteem**.",
+      "definition_sub_theme": "In spite of my being related to life and to people, I am aware of my being separate, different. There is a singularity that makes me an 'I' and distinguishes me from everybody else. This is the plane of **identity, of knowing oneself and of ethics**.",
+      "existential_need_set": "Attention, Justice, and Appreciation",
+      "existential_need_justification": "In order to succeed here [being a person], it is necessary to have experienced three things: **attention, justice and appreciation**.",
+      "positive_outcome": "Self-Esteem, Authenticity, Relief, Self-Respect",
+      "positive_outcome_justification": "If, on the contrary, these experiences have been made, I will find myself; find my **authenticity, my relief and my self-respect**. The sum of these experiences builds one’s own worth, the profoundest worth of what identifies my own self at its core: the **self-esteem**.",
+      "active_participation": "Saying 'Yes to Myself', Encounter, Regret (Demarcation/Refusal)",
+      "active_participation_justification": "I also have to **say 'yes to myself'**. This requires my active participation: to look at other people, to **encounter** them and, at the same time, to **demarcate myself and to refuse** whatever does not correspond to me. **Encounter and regret** are the two means by which we can live our authenticity.",
+      "exclusion_criteria_example": "Statements solely describing a 'reaction' or 'reflex' without personal decision/involvement.",
+      "exclusion_criteria_justification": "Without this involvement of the person in the motivational process, human beings would not be dealing with a question of motivation. Instead, there would be a sort of **reflex or reaction**, but no 'action'.",
+      "negative_pathology_result_general": "Solitude, Hysteria, Need to Hide behind Shame",
+      "negative_pathology_justification_general": "If these experiences are missing, **solitude** will be the result, **hysteria** as well as a **need to hide behind the shame**.",
+      "coping_reactions_types": [
+        {
+          "type": "Basic Reaction",
+          "description": "distancing oneself",
+          "justification": "The coping reactions of this motivation are: distancing oneself as the basic reaction,"
+        },
+        {
+          "type": "Paradoxical/Activism",
+          "description": "stubborn insistence and leading a functional life",
+          "justification": "stubborn insistence and leading a functional life as form of activism."
+        },
+        {
+          "type": "Specific Aggression",
+          "description": "indignation, annoyance anger, reproach",
+          "justification": "The typical aggressive reaction consists in indignation, annoyance anger, reproach."
+        },
+        {
+          "type": "Freezing/Death Imitation",
+          "description": "dissociation of the bodily integrity, dividing and splitting of emotion and cognition",
+          "justification": "The freezing type of reaction at this level are dissociation of the bodily integrity, dividing and splitting of emotion and cognition."
+        },
+        {
+          "type": "Psychopathology",
+          "description": "histrionic symptoms and/or personality disorders",
+          "justification": "If these reactions don't suffice to neutralize the hurt, histrionic symptoms and/or personality disorders arise."
+        }
+      ]
+    },
+    {
+      "code": "4FM_MEANING_FUTURE",
+      "name": "Fourth Fundamental Motivation: Meaning—Dealing with Becoming, Future and Commitment",
+      "core_question": "What should I live for?",
+      "core_question_justification": "I am there—**for what is it good**?.",
+      "goal_of_dialogue": "To achieve a dynamic 'Yes' to meaning and to achieve Fulfillment.",
+      "goal_of_dialogue_justification": "The goal in the dialogical process is to gain a dynamic 'Yes' to meaning, and to achieve **Fulfillment**.",
+      "definition_sub_theme": "It does not suffice to simply be there and to have found oneself. In a sense, we have to **transcend ourselves**, if we want to find fulfillment and to be fruitful. This is the recognition of what my life is all about.",
+      "existential_need_set": "Field of Activity, Structural Context, and Value to be realized in the Future",
+      "existential_need_justification": "For this, three things are necessary: a **field of activity, a structural context and a value to be realized in the future**.",
+      "positive_outcome": "Sense of Fulfillment, Dedication, Action, Religious Belief",
+      "positive_outcome_justification": "If, on the contrary, these conditions are met, I will be capable of **dedication and action** and, finally, of my own form of **religious belief**. The sum of these experiences adds up to the **meaning of life** and leads to a sense of **fulfillment**.",
+      "active_participation": "Openness (Phenomenological Attitude), Agreement with the Situation",
+      "active_participation_justification": "The attitude of **openness** represents the existential access to meaning in life: i.e., dealing with the questions put before me in each situation... My active part in this attitude of openness is to bring myself into **agreement with the situation**.",
+      "exclusion_criteria_example": "Statements solely describing a 'reaction' or 'reflex' without personal decision/involvement.",
+      "exclusion_criteria_justification": "Without this involvement of the person in the motivational process, human beings would not be dealing with a question of motivation. Instead, there would be a sort of **reflex or reaction**, but no 'action'.",
+      "negative_pathology_result_general": "Feeling of Emptiness, Frustration, Despair, Addiction",
+      "negative_pathology_justification_general": "If this is not the case, the result will be a **feeling of emptiness, frustration, even despair and frequently addiction**.",
+      "coping_reactions_types": [
+        {
+          "type": "Basic Reaction",
+          "description": "a provisional attitude towards life, planless, day-to-day attitude toward life and collective thinking (Frankl 1973, XVI)",
+          "justification": "If man fails systematically to reach meaning, his coping reactions will be a provisional attitude towards life as basic reaction, together with a \"planless, day-to-day attitude toward life\" and \"collective thinking\" (Frankl 1973, XVI),"
+        },
+        {
+          "type": "Paradoxical/Activism",
+          "description": "idealisation and fanaticism",
+          "justification": "idealisation and fanaticism as main forms of activism, aggressive games and cynicism,"
+        },
+        {
+          "type": "Specific Aggression",
+          "description": "aggressive games and cynicism",
+          "justification": "aggressive games and cynicism."
+        },
+        {
+          "type": "Freezing/Death Imitation",
+          "description": "Fatalism (Frankl 1973, XVI), loss of interest, apathy and probably nihilism",
+          "justification": "Fatalism (Frankl 1973, XVI), loss of interest, apathy and probably nihilism can be seen as forms of freezing reactions."
+        },
+        {
+          "type": "Psychopathology",
+          "description": "addictions",
+          "justification": "Disorders at this level mainly lead to addictions."
+        }
+      ]
+    }
+  ]
+}
