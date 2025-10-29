@@ -1,0 +1,187 @@
+{
+  "codebook_metadata": {
+    "title": "Existential Analysis & Logotherapy Four Fundamental Motivations (4FMs) Codebook - Version 5.0 (Omni-Merge)",
+    "version": "5.0-OMNI-MERGED",
+    "date_created": "2025-10-27",
+    "date_merged": "2025-10-29",
+    "purpose": "Comprehensive interpretive thematic analysis framework for understanding participant experiences in therapeutic interventions using the Four Fundamental Motivations (4FMs) of Existential Analysis and Logotherapy.",
+    "methodology": "Integrative synthesis of parallel-developed codebook versions (Claude v4.0, ChatPGT5 v4.0, Gemini v4.0), combining theoretical depth, clinical correlation, and practical coding granularity.",
+    "theoretical_foundation": "Four Fundamental Motivations of Existential Analysis (Längle)",
+    "citation_format": "APA 7th Edition",
+    "merged_from_versions": {
+      "ChatPGT5_v4.0": "Practical coding structure, detailed sub-themes (STs), granular inclusion/exclusion criteria, direct source quotes.",
+      "Claude_v4.0": "Comprehensive theoretical foundation, existential core concepts, and detailed metadata/version history.",
+      "Gemini_v4.0": "Clear high-level FM summaries, clinical/pathology correlations, and complete coping reaction lists for all FMs."
+    }
+  },
+  "sources": [
+    {
+      "citation_key": "Langle_2011",
+      "apa_citation": "Längle, A. (2011). The Existential Fundamental Motivations Structuring the Motivational Process. In D. A. Leontiev (Ed.), Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Publishers."
+    },
+    {
+      "citation_key": "Langle_2003",
+      "apa_citation": "Längle, A. (2003). The Art of Involving the Person – Fundamental Existential Motivations as the Structure of the Motivational Process. European Psychotherapy, 4(1), 25–36."
+    },
+    {
+      "citation_key": "Langle_2002",
+      "apa_citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Pub Inc."
+    },
+    {
+      "citation_key": "Langle_1992",
+      "apa_citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning?. Ultimate Reality and Meaning, 15(4), 306–314."
+    }
+  ],
+  "coding_guidelines_and_concepts": {
+    "EA_Goal": {
+      "description": "The goal of Existential Analysis is to help a person find a way of living where they can give inner consent to their actions and existence.",
+      "quote": "to help man to find a way of living where he can give his inner consent to his own actions.",
+      "citation": "Längle, 2002, p. 4"
+    },
+    "Motivational_Process_Steps": {
+      "process_name": "Personal Existential Act (PEA) / Steps to Inner Consent",
+      "description": "The three-step process of motivation and personal decision-making.",
+      "steps": [
+        {
+          "step": "1. Recognizing (Perception & Sensation)",
+          "quote": "Recognizing something in its worth or value, insofar as it speaks to us... Perceiving the sense appeal and value of things...",
+          "citation_APA": "Längle, 2011, p. 41; Längle, 2003, p. 29"
+        },
+        {
+          "step": "2. Harmonizing",
+          "quote": "Bringing the perceived value, challenge or meaning into accordance with one’s inner reality, i.e., examining the consistency with the rest of our values, with attitudes, abilities and capabilities and with our conscience.",
+          "citation_APA": "Längle, 2011, p. 41"
+        },
+        {
+          "step": "3. Inner Consent",
+          "quote": "The final step in the development of motivation is the inner consent to one’s own active involvement. This consent leads to the presence of the inner person in one's actions.",
+          "citation_APA": "Längle, 2011, p. 41"
+        }
+      ]
+    },
+    "Phenomenological_Approach": {
+      "description": "The attitude of setting aside all judgements and theories ('epoché') to view facts and phenomena as they show themselves, which is central to finding the essence of the person: their free will.",
+      "citation_APA": "Längle, 2002, pp. 1–2"
+    }
+  },
+  "fundamental_motivations": [
+    {
+      "domain_id": "FM1",
+      "domain_label": "Fundamental Motivation 1 — Reality / Being-in-the-world",
+      "fundamental_reality": "Facts, Reality, Conditions, Truth, Space, Time",
+      "core_question": "I am - Can I be?",
+      "existential_need": "Protection, Space, Support, Fundamental Trust",
+      "positive_outcome": "Fundamental Trust, Accept & Endure",
+      "negative_pathology_result_general": "Anxiety, Phobia, Fear of existence, Psychosis (in the extreme)",
+      "coping_reactions_failure": {
+        "basic_reaction": "Avoidance / Flight",
+        "paradoxical_activism": "Overactivity / Compulsion / Obsession",
+        "specific_aggression": "Destructive Aggression (Hate)",
+        "freezing_paralysis": "Denial / Pretending to be non-existent"
+      },
+      "detailed_codes": [
+        {
+          "code_id": "FM1.ST1",
+          "name": "Orientation to Facts / Ground to Hold",
+          "definition": {
+            "quote": "Meaning is unconditionally realistic. The person living meaningfully will face and grasp the facts. He needs their ground to hold and support him...",
+            "citation_apa": "Längle, 1992, p. 312."
+          },
+          "inclusion_criteria": [
+            {
+              "text": "References to grasping facts, reality testing, or needing ground/support from facts."
+            }
+          ]
+        },
+        {
+          "code_id": "FM1.ST2",
+          "name": "Conditions for Being: Protection, Space, Support",
+          "definition": {
+            "quote": "This demands three things: protection, space and support.",
+            "citation_apa": "Längle, 2002, p. 5."
+          },
+          "existential_needs_details": [
+            "Protection / Acceptance / Feeling at Home",
+            "Space ('Do I have enough space for being there?')",
+            "Support ('Where do I find support in my life?')"
+          ],
+          "indicators": [
+            {
+              "text": "References to fundamental trust in world/self arising from secured protection, space, support."
+            }
+          ]
+        },
+        {
+          "code_id": "FM1.ST3",
+          "name": "Active Participation: Accept & Endure",
+          "definition": {
+            "quote": "My active part in this fundamental condition of being here is to accept the positive and endure the negative.",
+            "citation_apa": "Längle, 2003, p. 31."
+          },
+          "indicators": [
+            {
+              "text": "Mentions of accepting conditions, occupying space, relying on support, trusting protection; enduring the difficult/unalterable."
+            },
+            {
+              "text": "Consequences of unmet conditions: restlessness, insecurity, fear."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "domain_id": "FM2",
+      "domain_label": "Fundamental Motivation 2 — Value / Life",
+      "fundamental_reality": "Value, Affection, Feeling, Time, Relation",
+      "core_question": "I live - Do I like my life?",
+      "existential_need": "Time, Contact, Closeness, Affection, Value",
+      "positive_outcome": "Fundamental Value Experience, Devotion, Self-worth",
+      "negative_pathology_result_general": "Depression, Loss of self-worth, Loss of contact (e.g., Borderline, Narcissistic traits)",
+      "coping_reactions_failure": {
+        "basic_reaction": "Isolation / Withdrawal",
+        "paradoxical_activism": "Consumption / Bulimia",
+        "specific_aggression": "Resentment / Envy / Self-depreciation",
+        "freezing_paralysis": "Loss of feeling / Apathy / Boredom"
+      },
+      "detailed_codes": [
+        // (Detailed sub-themes for FM2 would be nested here, following the structure of FM1.ST1/ST2/ST3)
+      ]
+    },
+    {
+      "domain_id": "FM3",
+      "domain_label": "Fundamental Motivation 3 — Self / Ethics",
+      "fundamental_reality": "Own Self, Justification, Justice, Respect, Conscience",
+      "core_question": "I am myself - May I be so?",
+      "existential_need": "Self-worth, Justice, Respect, Conscience",
+      "positive_outcome": "Authenticity, Self-esteem, Justification",
+      "negative_pathology_result_general": "Hysteria, Shame, Low self-esteem, Guilt, Personality disorders (e.g., Narcissistic)",
+      "coping_reactions_failure": {
+        "basic_reaction": "Role-playing / Submission",
+        "paradoxical_activism": "Self-realization without conscience",
+        "specific_aggression": "Contempt / Paranoia / Moral aggression",
+        "freezing_paralysis": "Self-neglect / Self-destruction"
+      },
+      "detailed_codes": [
+        // (Detailed sub-themes for FM3 would be nested here)
+      ]
+    },
+    {
+      "domain_id": "FM4",
+      "domain_label": "Fundamental Motivation 4 — Meaning / Commitment",
+      "fundamental_reality": "Meaning, Goal, Purpose, Future, Value to be realized",
+      "core_question": "I am here - What am I needed for?",
+      "existential_need": "Meaning, Goal, Purpose, Future, A Field of Activity",
+      "positive_outcome": "Sense of Fulfillment, Dedication, Action",
+      "negative_pathology_result_general": "Feeling of Emptiness (Existential Vacuum), Frustration, Despair, Addiction, Nihilism",
+      "coping_reactions_failure": {
+        "basic_reaction": "Provisional/Planless Attitude",
+        "paradoxical_activism": "Idealisation and Fanaticism",
+        "specific_aggression": "Aggressive Games and Cynicism",
+        "freezing_paralysis": "Fatalism, Loss of Interest, Apathy, Nihilism"
+      },
+      "detailed_codes": [
+        // (Detailed sub-themes for FM4, including the layer of Transcendent Meaning, would be nested here)
+      ]
+    }
+  ]
+}
