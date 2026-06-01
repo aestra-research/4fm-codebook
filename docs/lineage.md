@@ -38,6 +38,62 @@ The multi-LLM approach is intentional, not redundant. Each LLM brings different 
 
 These signatures are not absolute — they shifted across runs. But they justify why "three LLMs in parallel" produces something stronger than any single LLM: their strengths are complementary, and their weaknesses are non-overlapping, so consensus tends to converge on the best contribution of each.
 
+## Known LLM-emission artifacts in the lineage
+
+Seven files in `codebook/versions/` are **intentionally preserved as authentic LLM outputs even though they don't parse as strict JSON**. They are evidence of LLM-emission failure modes — exactly the cautionary patterns documented in the companion WCET4 paper. The MASTER (`codebook/4fm-master.json`) is valid JSON and parses cleanly, so practitioner use of the codebook is unaffected; the artifacts below are preserved in the lineage for transparency.
+
+### 1. Gemini's `[cite_start]…[cite: N]` annotation syntax (5 files break parsing, 1 file annotates inside strings only)
+
+Gemini 2.5 Turbo emitted citation markers in a non-JSON-compliant form, inserting `[cite_start]` before property keys and `[cite: N]` inside string values:
+
+```
+[cite_start]"core_question_justification": "\"I am—can I be?\"[cite: 192].",
+```
+
+Files where `[cite_start]` precedes property keys (breaks strict JSON parsing):
+- `versions/gemini/gemini-4fm-v1.2.json`
+- `versions/gemini/gemini-4fm-v2.0.json`
+- `versions/gemini/gemini-4fm-v3.1.json`
+- `versions/gemini/gemini-4fm-v3.2.json`
+- `versions/gemini/gemini-4fm-v3.4.json`
+
+File where `[cite_start]` appears only inside string values (parses cleanly, still an authentic Gemini signature):
+- `versions/gemini/gemini-4fm-v1.1.json`
+
+This is a documented Gemini 2.5 Turbo behavioral signature: the model spontaneously decorated JSON output with citation-tracking metadata that resembled valid syntax but wasn't. The pattern was preserved through Gemini's own `v4.0-self-merge.json` and was only stripped during cross-LLM consolidation in the multi-LLM `v5.0` step (Claude's v5.0, the MASTER, does not contain it).
+
+### 2. Gemini v5.0 placeholder comment for FM2 (1 file)
+
+In `versions/gemini/gemini-4fm-v5.0-multi-merge.json`, Gemini failed to fully integrate the FM2 detailed codes and left a JavaScript-style comment placeholder:
+
+```
+"detailed_codes": [
+  // (Detailed sub-themes for FM2 would be nested here, following the structure of FM1.ST1/ST2...)
+]
+```
+
+Comments are not valid JSON. This is a clear instance of LLM **incomplete output** — Gemini ran out of attention/context-window budget before completing the v5.0 multi-LLM merge and emitted a self-aware placeholder. The fact that Gemini knew the section was incomplete (and said so in the comment) made this easy to catch. Claude's v5.0 (the MASTER) does not have this gap.
+
+### 3. Claude v2.0-pass1-pass2 page-range emission (1 file)
+
+In `versions/claude/claude-4fm-v2.0-pass1-pass2.json`, Claude wrote a page range as a JavaScript-style expression rather than a JSON string:
+
+```
+"page": 8-9
+```
+
+This evaluates to `-1` in JavaScript but is a syntax error in strict JSON. Claude self-corrected this pattern in later versions (v3.x and v4.0 use proper string notation). The error is preserved here as the authentic v2.0-pass1-pass2 output.
+
+### Why preserve these errors
+
+These artifacts are not bugs to be hidden — they are *the empirical content* of the WCET4 paper's claim that LLMs require **Quote-Anchored Source Verification** and **Multi-LLM Cross-Validation**. A clean repo would obscure the very phenomena the paper documents. Researchers studying the lineage can therefore observe:
+
+- That individual LLM outputs need cross-validation before trust (a Gemini-emitted codebook used standalone would crash any JSON parser).
+- That consensus across LLMs filters out idiosyncratic emission quirks (the MASTER inherited none of these issues).
+- That LLM "incomplete output" can be self-flagging (Gemini's `// (Detailed sub-themes...)` comment) or silent (Claude's `"page": 8-9` would have parsed under JSON5).
+
+Practitioners who download the MASTER are unaffected. Researchers tracing the methodology see authentic LLM behavior.
+
 ## Build methodology — current MASTER (v5.0)
 
 **Source set (4 Längle papers):**
