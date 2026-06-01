@@ -1,7 +1,7 @@
 # EA 4FM Codebook — for LLM-Assisted Qualitative Analysis
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) — paste real Zenodo DOI badge after first release -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20483207.svg)](https://doi.org/10.5281/zenodo.20483207)
 
 A structured codebook for scoring participant testimony against Längle's **Four Fundamental Motivations (4FM)** framework, designed for use with Large Language Models (LLMs) as a research instrument.
 
@@ -73,9 +73,9 @@ See [`docs/lineage.md`](docs/lineage.md) for the full build methodology.
 
 Use `CITATION.cff` (GitHub renders this automatically as a citation widget on the repo homepage) or:
 
-> Nelson-Zutter, G. (YYYY). *EA 4FM Codebook for LLM-Assisted Qualitative Analysis* (Version X.Y) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Nelson-Zutter, G. (2026). *EA 4FM Codebook for LLM-Assisted Qualitative Analysis* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.20483207
 
-For a specific version, use the version DOI; for the artifact in general, use the concept DOI.
+For a specific version, use the version DOI (v1.0: `10.5281/zenodo.20483208`); for the artifact in general, use the concept DOI (`10.5281/zenodo.20483207`).
 
 ## Versioning
 

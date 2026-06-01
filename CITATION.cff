@@ -20,10 +20,18 @@ authors:
     affiliation: "MSc student, Existential Analysis & Logotherapy, University of Salzburg, Austria"
     orcid: "https://orcid.org/0009-0003-9567-6512"
 version: "1.0"
-date-released: "2026-06-XX"  # set when you tag the v1.0 release
+date-released: "2026-06-01"
 license: "CC-BY-4.0"
 repository-code: "https://github.com/aestra-research/4fm-codebook"
 url: "https://github.com/aestra-research/4fm-codebook"
+doi: "10.5281/zenodo.20483207"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20483207"
+    description: "Concept DOI (always resolves to the latest version)"
+  - type: doi
+    value: "10.5281/zenodo.20483208"
+    description: "Version DOI for v1.0"
 keywords:
   - "Existential Analysis"
   - "Logotherapy"
