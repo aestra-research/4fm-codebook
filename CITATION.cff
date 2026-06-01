@@ -10,9 +10,9 @@ abstract: >-
   against four primary Längle sources (1992, 2002, 2003, 2011). Every code
   traces to a verbatim quote with citation. Companion to the WCET4 (2026) paper
   "Do You Understand?! Best Practices using Artificial Intelligence in
-  Research (and Life)." Related artifact: the EA 12FEP Codebook
-  (https://doi.org/10.5281/zenodo.20481464) extends this 4FM framework to
-  12 Fundamental Existential Prerequisites.
+  Research (and Life)." Methodological predecessor to the EA 12FEP Codebook
+  (https://doi.org/10.5281/zenodo.20481464), which was built shortly after and
+  refines and simplifies the build protocol of this 4FM codebook.
 authors:
   - family-names: "Nelson-Zutter"
     given-names: "Graham"
@@ -20,7 +20,7 @@ authors:
     affiliation: "MSc student, Existential Analysis & Logotherapy, University of Salzburg, Austria"
     orcid: "https://orcid.org/0009-0003-9567-6512"
 version: "1.0"
-date-released: "2026-06-01"
+date-released: "2026-06-06"  # WCET4 presentation date (Sat 6 Jun 2026, Denver, CO)
 license: "CC-BY-4.0"
 repository-code: "https://github.com/aestra-research/4fm-codebook"
 url: "https://github.com/aestra-research/4fm-codebook"
@@ -44,6 +44,24 @@ keywords:
   - "multi-LLM cross-validation"
   - "psychedelic-assisted therapy"
 references:
+  - type: dataset
+    title: "EA 12FEP Codebook for LLM-Assisted Qualitative Analysis"
+    authors:
+      - family-names: "Nelson-Zutter"
+        given-names: "Graham"
+        orcid: "https://orcid.org/0009-0003-9567-6512"
+    year: 2026
+    doi: "10.5281/zenodo.20481464"
+    repository-code: "https://github.com/aestra-research/12fep-codebook"
+    notes: >-
+      Methodological successor to this 4FM codebook. Built shortly after (Oct
+      31 – Nov 30, 2025) and refines the build protocol: a tighter
+      parallel-start + cross-LLM merge + LLM jury vote sequence (vs the per-LLM
+      iteration + single-LLM self-merge + multi-LLM cross-merge + researcher
+      selection used here). Reduces the source set to two primary Längle
+      papers (2002, 2011b) from the four used in this codebook (1992, 2002,
+      2003, 2011). Decomposes the four Fundamental Motivations into 12
+      Existential Prerequisites for finer-grained scoring.
   - type: article
     authors:
       - family-names: "Längle"
