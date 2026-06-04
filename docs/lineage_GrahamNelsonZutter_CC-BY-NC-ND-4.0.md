@@ -21,15 +21,15 @@ But the codebook's version lineage is **not a linear single-author edit chain.**
 
 This is *parallel iteration + cross-LLM consolidation*, not *single-author edits*. `git log` would show "added v1.0 / v1.1 / v1.2 / v1.3 / v2.0 / v3.0 / … / v4.0 / v5.0" — a flat chain that loses the parallelism and the LLM-by-LLM strengths.
 
-`docs/lineage.md` (this file) records the methodology. `git log` records the *deposit* of each version into this repo. The two are complementary:
+`docs/lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md` (this file) records the methodology. `git log` records the *deposit* of each version into this repo. The two are complementary:
 
 | What | Tracked by |
 |---|---|
 | When each file was uploaded to the repo | `git log` |
-| Which LLM produced each version | `lineage.md` |
-| Which prompt and source set produced each version | `lineage.md` |
-| What changed conceptually between adjacent versions | `lineage.md` |
-| Which v5.0 was promoted to MASTER and why | `lineage.md` (researcher review note) |
+| Which LLM produced each version | `lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md` |
+| Which prompt and source set produced each version | `lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md` |
+| What changed conceptually between adjacent versions | `lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md` |
+| Which v5.0 was promoted to MASTER and why | `lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md` (researcher review note) |
 | What changed file-byte-wise between adjacent versions | `git diff` |
 
 ## Per-LLM strengths
@@ -46,7 +46,7 @@ These signatures are not absolute — they shifted across runs. But they justify
 
 ## Known LLM-emission artifacts in the lineage
 
-Seven files in `codebook/versions/` are **intentionally preserved as authentic LLM outputs even though they don't parse as strict JSON**. They are evidence of LLM-emission failure modes — exactly the cautionary patterns documented in the companion WCET4 paper. The MASTER (`codebook/4fm-master.json`) is valid JSON and parses cleanly, so practitioner use of the codebook is unaffected; the artifacts below are preserved in the lineage for transparency.
+Seven files in `codebook/versions/` are **intentionally preserved as authentic LLM outputs even though they don't parse as strict JSON**. They are evidence of LLM-emission failure modes — exactly the cautionary patterns documented in the companion WCET4 paper. The MASTER (`codebook/4fm-master_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json`) is valid JSON and parses cleanly, so practitioner use of the codebook is unaffected; the artifacts below are preserved in the lineage for transparency.
 
 ### 1. Gemini's `[cite_start]…[cite: N]` annotation syntax (5 files break parsing, 1 file annotates inside strings only)
 
@@ -57,20 +57,20 @@ Gemini 2.5 Turbo emitted citation markers in a non-JSON-compliant form, insertin
 ```
 
 Files where `[cite_start]` precedes property keys (breaks strict JSON parsing):
-- `versions/gemini/gemini-4fm-v1.2.json`
-- `versions/gemini/gemini-4fm-v2.0.json`
-- `versions/gemini/gemini-4fm-v3.1.json`
-- `versions/gemini/gemini-4fm-v3.2.json`
-- `versions/gemini/gemini-4fm-v3.4.json`
+- `versions/gemini/gemini-4fm-v1.2_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json`
+- `versions/gemini/gemini-4fm-v2.0_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json`
+- `versions/gemini/gemini-4fm-v3.1_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json`
+- `versions/gemini/gemini-4fm-v3.2_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json`
+- `versions/gemini/gemini-4fm-v3.4_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json`
 
 File where `[cite_start]` appears only inside string values (parses cleanly, still an authentic Gemini signature):
-- `versions/gemini/gemini-4fm-v1.1.json`
+- `versions/gemini/gemini-4fm-v1.1_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json`
 
 This is a documented Gemini 2.5 Turbo behavioral signature: the model spontaneously decorated JSON output with citation-tracking metadata that resembled valid syntax but wasn't. The pattern was preserved through Gemini's own `v4.0-self-merge.json` and was only stripped during cross-LLM consolidation in the multi-LLM `v5.0` step (Claude's v5.0, the MASTER, does not contain it).
 
 ### 2. Gemini v5.0 placeholder comment for FM2 (1 file)
 
-In `versions/gemini/gemini-4fm-v5.0-multi-merge.json`, Gemini failed to fully integrate the FM2 detailed codes and left a JavaScript-style comment placeholder:
+In `versions/gemini/gemini-4fm-v5.0-multi-merge_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json`, Gemini failed to fully integrate the FM2 detailed codes and left a JavaScript-style comment placeholder:
 
 ```
 "detailed_codes": [
@@ -82,7 +82,7 @@ Comments are not valid JSON. This is a clear instance of LLM **incomplete output
 
 ### 3. Claude v2.0-pass1-pass2 page-range emission (1 file)
 
-In `versions/claude/claude-4fm-v2.0-pass1-pass2.json`, Claude wrote a page range as a JavaScript-style expression rather than a JSON string:
+In `versions/claude/claude-4fm-v2.0-pass1-pass2_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json`, Claude wrote a page range as a JavaScript-style expression rather than a JSON string:
 
 ```
 "page": 8-9
@@ -119,7 +119,7 @@ Each LLM was given the four Längle sources one at a time, producing a new versi
 
 | Version | Sources included | Per-LLM files |
 |---|---|---|
-| v1.0 | Längle (1992) only | `claude-4fm-v1.0.json`, `chatgpt-4fm-v1.0.json`, `gemini-4fm-v1.0.json` |
+| v1.0 | Längle (1992) only | `claude-4fm-v1.0_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json`, `chatgpt-4fm-v1.0_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json`, `gemini-4fm-v1.0_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` |
 | v1.1 | + Längle (2002) | `…-4fm-v1.1.json` |
 | v1.2 | + Längle (2003) | `…-4fm-v1.2.json` |
 | v1.3 | + Längle (2011) | `…-4fm-v1.3.json` |
@@ -142,9 +142,9 @@ Each LLM was given **its own** v1.3, v2.0, and v3.x files and asked to merge the
 
 | LLM | v4.0 file |
 |---|---|
-| Claude Sonnet 4.5 | `codebook/versions/claude/claude-4fm-v4.0-self-merge.json` |
-| ChatGPT 5 Thinking | `codebook/versions/chatgpt/chatgpt-4fm-v4.0-self-merge.json` |
-| Gemini 2.5 Turbo | `codebook/versions/gemini/gemini-4fm-v4.0-self-merge.json` |
+| Claude Sonnet 4.5 | `codebook/versions/claude/claude-4fm-v4.0-self-merge_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` |
+| ChatGPT 5 Thinking | `codebook/versions/chatgpt/chatgpt-4fm-v4.0-self-merge_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` |
+| Gemini 2.5 Turbo | `codebook/versions/gemini/gemini-4fm-v4.0-self-merge_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` |
 
 Note: ChatGPT's v4.0 file was originally named with the typo "ChatPGT5" — corrected in this repo.
 
@@ -154,9 +154,9 @@ Three days after the v4.0 self-merges, each LLM was given **all three v4.0 files
 
 | LLM | v5.0 file |
 |---|---|
-| Claude Sonnet 4.5 | `codebook/versions/claude/claude-4fm-v5.0-multi-merge.json` *(byte-identical to `codebook/4fm-master.json` — see selection note below)* |
-| ChatGPT 5 Thinking | `codebook/versions/chatgpt/chatgpt-4fm-v5.0-multi-merge.json` |
-| Gemini 2.5 Turbo | `codebook/versions/gemini/gemini-4fm-v5.0-multi-merge.json` |
+| Claude Sonnet 4.5 | `codebook/versions/claude/claude-4fm-v5.0-multi-merge_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` *(byte-identical to `codebook/4fm-master_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` — see selection note below)* |
+| ChatGPT 5 Thinking | `codebook/versions/chatgpt/chatgpt-4fm-v5.0-multi-merge_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` |
+| Gemini 2.5 Turbo | `codebook/versions/gemini/gemini-4fm-v5.0-multi-merge_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` |
 
 ### Stage 6 — Manual researcher selection of MASTER
 
@@ -170,7 +170,7 @@ Claude's v5.0 was marked `COMPREHENSIVE` in the original development workspace f
 
 The MASTER also documents (in its `codebook_metadata.merged_from_versions` field) what each v4.0 candidate contributed to the integration — providing a transparent rationale that any researcher reading the JSON can verify.
 
-The MASTER is byte-identical to `codebook/versions/claude/claude-4fm-v5.0-multi-merge.json`. The MASTER lives at `codebook/4fm-master.json` as the canonical "use this one" pointer; the symmetric `versions/claude/claude-4fm-v5.0-multi-merge.json` copy makes the 3×N parallel structure visible in the `versions/` directory for provenance auditing.
+The MASTER is byte-identical to `codebook/versions/claude/claude-4fm-v5.0-multi-merge_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json`. The MASTER lives at `codebook/4fm-master_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` as the canonical "use this one" pointer; the symmetric `versions/claude/claude-4fm-v5.0-multi-merge_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` copy makes the 3×N parallel structure visible in the `versions/` directory for provenance auditing.
 
 ### Stage 7 — Researcher quote verification
 
@@ -211,42 +211,42 @@ The codebook was authored October 25 – October 29, 2025, ~7 months before this
 
 | File | Original creation (PT) | Stage |
 |---|---|---|
-| `versions/chatgpt/chatgpt-4fm-v1.0.json` | 2025-10-25 23:37 | Stage 1 — Längle 1992 |
-| `versions/chatgpt/chatgpt-4fm-v1.1.json` | 2025-10-25 23:41 | Stage 1 — + Längle 2002 |
-| `versions/chatgpt/chatgpt-4fm-v1.2.json` | 2025-10-25 23:45 | Stage 1 — + Längle 2003 |
-| `versions/chatgpt/chatgpt-4fm-v1.3.json` | 2025-10-25 23:49 | Stage 1 — + Längle 2011 |
-| `versions/gemini/gemini-4fm-v1.0.json` | 2025-10-25 23:59 | Stage 1 — Längle 1992 |
-| `versions/gemini/gemini-4fm-v1.1.json` | 2025-10-25 23:59 | Stage 1 — + Längle 2002 |
-| `versions/gemini/gemini-4fm-v1.2.json` | 2025-10-25 23:59 | Stage 1 — + Längle 2003 |
-| `versions/gemini/gemini-4fm-v1.3.0.json` | 2025-10-26 00:00 | Stage 1 — + Längle 2011 (sub-pass 0) |
-| `versions/gemini/gemini-4fm-v1.3.1.json` | 2025-10-26 00:05 | Stage 1 — + Längle 2011 (sub-pass 1) |
-| `versions/gemini/gemini-4fm-v1.3.2.json` | 2025-10-26 00:10 | Stage 1 — + Längle 2011 (sub-pass 2) |
-| `versions/claude/claude-4fm-v1.0.json` | 2025-10-26 00:59 | Stage 1 — Längle 1992 |
-| `versions/claude/claude-4fm-v1.1.json` | 2025-10-26 01:05 | Stage 1 — + Längle 2002 |
-| `versions/claude/claude-4fm-v1.2.json` | 2025-10-26 01:22 | Stage 1 — + Längle 2003 |
-| `versions/claude/claude-4fm-v1.3.json` | 2025-10-26 08:54 | Stage 1 — + Längle 2011 |
-| `versions/claude/claude-4fm-v2.0-pass1.json` | 2025-10-26 09:32 | Stage 2 — systematic restructuring (pass 1) |
-| `versions/gemini/gemini-4fm-v2.0.json` | 2025-10-26 09:39 | Stage 2 — systematic restructuring |
-| `versions/chatgpt/chatgpt-4fm-v2.0.json` | 2025-10-26 22:34 | Stage 2 — systematic restructuring |
-| `versions/claude/claude-4fm-v2.0-pass1-pass2.json` | 2025-10-26 22:35 | Stage 2 — systematic restructuring (pass 2) |
-| `versions/gemini/gemini-4fm-v3.1.json` | 2025-10-26 22:37 | Stage 3 — progressive integration |
-| `versions/gemini/gemini-4fm-v3.2.json` | 2025-10-26 22:37 | Stage 3 — progressive integration |
-| `versions/gemini/gemini-4fm-v3.3.json` | 2025-10-26 22:40 | Stage 3 — progressive integration |
-| `versions/gemini/gemini-4fm-v3.4.json` | 2025-10-26 22:41 | Stage 3 — progressive integration |
-| `versions/claude/claude-4fm-v3.0.json` | 2025-10-26 22:44 | Stage 3 — progressive integration |
-| `versions/chatgpt/chatgpt-4fm-v3.0.json` | 2025-10-26 22:46 | Stage 3 — progressive integration |
-| `versions/chatgpt/chatgpt-4fm-v3.1.json` | 2025-10-26 22:47 | Stage 3 — progressive integration |
-| `versions/chatgpt/chatgpt-4fm-v3.2.json` | 2025-10-26 22:48 | Stage 3 — progressive integration |
-| `versions/claude/claude-4fm-v3.1.json` | 2025-10-26 22:49 | Stage 3 — progressive integration |
-| `versions/chatgpt/chatgpt-4fm-v3.3.json` | 2025-10-26 22:51 | Stage 3 — progressive integration |
-| `versions/claude/claude-4fm-v3.2.json` | 2025-10-26 22:56 | Stage 3 — progressive integration |
-| `versions/claude/claude-4fm-v3.3.json` | 2025-10-26 23:16 | Stage 3 — progressive integration |
-| `versions/chatgpt/chatgpt-4fm-v4.0-self-merge.json` | 2025-10-26 23:23 | Stage 4 — single-LLM self-merge |
-| `versions/gemini/gemini-4fm-v4.0-self-merge.json` | 2025-10-26 23:24 | Stage 4 — single-LLM self-merge |
-| `versions/claude/claude-4fm-v4.0-self-merge.json` | 2025-10-26 23:30 | Stage 4 — single-LLM self-merge |
-| `versions/chatgpt/chatgpt-4fm-v5.0-multi-merge.json` | 2025-10-29 14:42 | Stage 5 — multi-LLM cross-merge |
-| `versions/gemini/gemini-4fm-v5.0-multi-merge.json` | 2025-10-29 14:43 | Stage 5 — multi-LLM cross-merge |
-| `versions/claude/claude-4fm-v5.0-multi-merge.json` (= `4fm-master.json`) | 2025-10-29 15:12 | Stage 5 — multi-LLM cross-merge (promoted to MASTER per researcher review) |
+| `versions/chatgpt/chatgpt-4fm-v1.0_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-25 23:37 | Stage 1 — Längle 1992 |
+| `versions/chatgpt/chatgpt-4fm-v1.1_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-25 23:41 | Stage 1 — + Längle 2002 |
+| `versions/chatgpt/chatgpt-4fm-v1.2_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-25 23:45 | Stage 1 — + Längle 2003 |
+| `versions/chatgpt/chatgpt-4fm-v1.3_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-25 23:49 | Stage 1 — + Längle 2011 |
+| `versions/gemini/gemini-4fm-v1.0_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-25 23:59 | Stage 1 — Längle 1992 |
+| `versions/gemini/gemini-4fm-v1.1_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-25 23:59 | Stage 1 — + Längle 2002 |
+| `versions/gemini/gemini-4fm-v1.2_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-25 23:59 | Stage 1 — + Längle 2003 |
+| `versions/gemini/gemini-4fm-v1.3.0_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 00:00 | Stage 1 — + Längle 2011 (sub-pass 0) |
+| `versions/gemini/gemini-4fm-v1.3.1_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 00:05 | Stage 1 — + Längle 2011 (sub-pass 1) |
+| `versions/gemini/gemini-4fm-v1.3.2_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 00:10 | Stage 1 — + Längle 2011 (sub-pass 2) |
+| `versions/claude/claude-4fm-v1.0_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 00:59 | Stage 1 — Längle 1992 |
+| `versions/claude/claude-4fm-v1.1_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 01:05 | Stage 1 — + Längle 2002 |
+| `versions/claude/claude-4fm-v1.2_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 01:22 | Stage 1 — + Längle 2003 |
+| `versions/claude/claude-4fm-v1.3_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 08:54 | Stage 1 — + Längle 2011 |
+| `versions/claude/claude-4fm-v2.0-pass1_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 09:32 | Stage 2 — systematic restructuring (pass 1) |
+| `versions/gemini/gemini-4fm-v2.0_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 09:39 | Stage 2 — systematic restructuring |
+| `versions/chatgpt/chatgpt-4fm-v2.0_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 22:34 | Stage 2 — systematic restructuring |
+| `versions/claude/claude-4fm-v2.0-pass1-pass2_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 22:35 | Stage 2 — systematic restructuring (pass 2) |
+| `versions/gemini/gemini-4fm-v3.1_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 22:37 | Stage 3 — progressive integration |
+| `versions/gemini/gemini-4fm-v3.2_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 22:37 | Stage 3 — progressive integration |
+| `versions/gemini/gemini-4fm-v3.3_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 22:40 | Stage 3 — progressive integration |
+| `versions/gemini/gemini-4fm-v3.4_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 22:41 | Stage 3 — progressive integration |
+| `versions/claude/claude-4fm-v3.0_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 22:44 | Stage 3 — progressive integration |
+| `versions/chatgpt/chatgpt-4fm-v3.0_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 22:46 | Stage 3 — progressive integration |
+| `versions/chatgpt/chatgpt-4fm-v3.1_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 22:47 | Stage 3 — progressive integration |
+| `versions/chatgpt/chatgpt-4fm-v3.2_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 22:48 | Stage 3 — progressive integration |
+| `versions/claude/claude-4fm-v3.1_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 22:49 | Stage 3 — progressive integration |
+| `versions/chatgpt/chatgpt-4fm-v3.3_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 22:51 | Stage 3 — progressive integration |
+| `versions/claude/claude-4fm-v3.2_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 22:56 | Stage 3 — progressive integration |
+| `versions/claude/claude-4fm-v3.3_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 23:16 | Stage 3 — progressive integration |
+| `versions/chatgpt/chatgpt-4fm-v4.0-self-merge_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 23:23 | Stage 4 — single-LLM self-merge |
+| `versions/gemini/gemini-4fm-v4.0-self-merge_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 23:24 | Stage 4 — single-LLM self-merge |
+| `versions/claude/claude-4fm-v4.0-self-merge_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-26 23:30 | Stage 4 — single-LLM self-merge |
+| `versions/chatgpt/chatgpt-4fm-v5.0-multi-merge_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-29 14:42 | Stage 5 — multi-LLM cross-merge |
+| `versions/gemini/gemini-4fm-v5.0-multi-merge_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` | 2025-10-29 14:43 | Stage 5 — multi-LLM cross-merge |
+| `versions/claude/claude-4fm-v5.0-multi-merge_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json` (= `4fm-master_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json`) | 2025-10-29 15:12 | Stage 5 — multi-LLM cross-merge (promoted to MASTER per researcher review) |
 
 Source: filesystem mtimes from the original codebook development workspace (iCloud, `~/Library/Mobile Documents/com~apple~CloudDocs/LibreOffice/*EA & LT Codebooks/LLMS/`). Mtimes are preserved at the source files and are verifiable by anyone with access to that workspace.
 
