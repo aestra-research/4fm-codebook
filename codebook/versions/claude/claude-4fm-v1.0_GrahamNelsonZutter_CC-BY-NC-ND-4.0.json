@@ -1,0 +1,290 @@
+{
+  "_attribution": {
+    "created_by": "Graham Nelson-Zutter",
+    "copyright": "©2026 Aestra Inc. except when external source noted.",
+    "license": "CC BY-NC-ND-4.0"
+  },
+  "codebook_metadata": {
+    "title": "EA_LT_4FMs_Codebook",
+    "version": "1.0",
+    "date_created": "2025-10-25",
+    "last_modified": "2025-10-25",
+    "purpose": "Interpretive thematic analysis using 4 Fundamental Motivations of Existential Analysis and Logotherapy",
+    "sources_included": 1,
+    "current_source": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), 306-314.",
+    "created_by": "Graham Nelson-Zutter",
+    "copyright": "©2026 Aestra Inc. except when external source noted.",
+    "license": "CC BY-NC-ND-4.0"
+  },
+  "fundamental_motivations": [
+    {
+      "fm_number": 1,
+      "fm_name": "TRUE (Reality/Ontology)",
+      "description": "Orientation by what is true, what is real, and what is experienced as reality. The fundamental state of being-in-the-world and the will to existence.",
+      "source_quote": "Meaning is therefore always orientation by the true, by what is and by what is experienced as reality. Meaning is unconditionally realistic. The person living meaningfully will face and grasp the facts.",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 312.",
+      "motivation": "Will to be",
+      "epistemological_chain": "know (explain) → facts",
+      "psychological_chain": "perceive",
+      "mode_of_experience": "can",
+      "central_question": "Why is it at all and how does it relate to other things? How do I relate?",
+      "sub_themes": [
+        {
+          "theme_name": "Being-in-the-world",
+          "description": "The fundamental ontological experience of existence within a network of effects",
+          "source_quote": "Man sees that the world is continually effecting him. Acting, he realises that he in turn has an effect on the world. In this way he experiences his special relation with the world, in which he stands. This 'being-in-the-world' (Heidegger) is the fundamental state man finds himself in, his basic ontological experience.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), pp. 309-310.",
+          "indicators": [
+            "Observing effects",
+            "Network of relations",
+            "Coming into being and passing away"
+          ]
+        },
+        {
+          "theme_name": "Ontological question of meaning",
+          "description": "Question about the ground of existence and interrelatedness of things",
+          "source_quote": "The question of meaning on the ontological level is a question to the ground out of which things are and out of which man himself is (Grundfrage)! When man asks about the ground for things and for his own being, he is asking the ontological question of meaning.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 310.",
+          "indicators": [
+            "Wonder at incomprehensibility",
+            "Anticipation that all things must be interrelated",
+            "Seeking to understand existence"
+          ]
+        }
+      ],
+      "existential_needs": [
+        {
+          "need_name": "Ground and support",
+          "description": "Need for factual reality to hold and support in order to act and receive effects",
+          "source_quote": "He needs their ground to hold and support him, in order to act and receive effects.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 312.",
+          "manifestations": [
+            "Seeking facts and conditions",
+            "Wanting to be perceived by others",
+            "Wanting to be seen as what one is with specific faculties"
+          ]
+        }
+      ],
+      "coping_reactions": [],
+      "exclusion_criteria": []
+    },
+    {
+      "fm_number": 2,
+      "fm_name": "ATTRACTIVE (Value/Axiology)",
+      "description": "Experience of different grades of value for things and events. The will to deal with the valuable which one wants to give and receive.",
+      "source_quote": "search for meaning includes the desire for the attractive, the desire for dealing with the valuable which man wants to give as much as to receive.",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 312.",
+      "motivation": "Will to value",
+      "epistemological_chain": "understand → coherence",
+      "psychological_chain": "valuate",
+      "mode_of_experience": "like",
+      "central_question": "What is good about it? What is it good for?",
+      "sub_themes": [
+        {
+          "theme_name": "Axiological question of meaning",
+          "description": "Recognition that it matters what becomes of things and which effects result",
+          "source_quote": "Man continually faces the axiological question of meaning: 'What is good about it?', 'What is it good for?' This expresses what Frankl (1982a, p. 221) calls the 'will to meaning'.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), pp. 310-311.",
+          "indicators": [
+            "Sensing of value",
+            "Experiencing different grades of value",
+            "Things connected with value of being"
+          ]
+        },
+        {
+          "theme_name": "Value of being",
+          "description": "The fundamental experience that it is good to be",
+          "source_quote": "He not only knows that he is, but that in itself it is also good to be (Längle, 1984, pp. 52ff.). With this finality things of the world rise out of the grey dawn of mere presence and receive the colour of value.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 310.",
+          "indicators": [
+            "Things are more or less good",
+            "Recognition of beneficial or harmful",
+            "Useful or obstructive qualities"
+          ]
+        }
+      ],
+      "existential_needs": [
+        {
+          "need_name": "Dealing with the valuable",
+          "description": "Need to engage with that which holds value, both giving and receiving",
+          "source_quote": "the desire for dealing with the valuable which man wants to give as much as to receive.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 312.",
+          "manifestations": [
+            "Order of valuations",
+            "Involvement as sensor of values",
+            "Based on own self-esteem"
+          ]
+        }
+      ],
+      "coping_reactions": [],
+      "exclusion_criteria": []
+    },
+    {
+      "fm_number": 3,
+      "fm_name": "RIGHT (Relations/Ethics)",
+      "description": "Experience of consequences leading to questions of responsibility and justification. The need for relations, both to oneself and to others.",
+      "source_quote": "the need for relations is alive in meaning, for relating to oneself (responsibility) as well as to others, which enables the justification of existence.",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 312.",
+      "motivation": "Will to the right",
+      "epistemological_chain": "recognise → responsibility",
+      "psychological_chain": "choose/decide",
+      "mode_of_experience": "may",
+      "central_question": "What do I do as a free, creative and responsible person in the middle of this world?",
+      "sub_themes": [
+        {
+          "theme_name": "Existential question of meaning",
+          "description": "The challenge to meaningful action and personal contribution",
+          "source_quote": "This is the existential question of meaning. He finds himself up against the question: 'What do I do as a free, creative and responsible person in the middle of this world?' This is how man knows himself as fundamentally questioned in his existence (Längle, 1988, pp. 10ff.), challenged towards his contribution to the formation of this life and this world in the knowledge of an indispensable relation, personal responsibility and justification.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 311.",
+          "indicators": [
+            "Active coming-into-relation-with",
+            "Decision-making",
+            "Personal contribution to life and world"
+          ]
+        },
+        {
+          "theme_name": "Responsibility",
+          "description": "Experience of consequences and accountability for one's actions",
+          "source_quote": "His will to justification arises out of the necessity to be at home and accepted in the social structure, as well as in the structure of biographical life, where everything he has done, finally has to do with himself. This is what man experiences as responsibility.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 311.",
+          "indicators": [
+            "Present and future effects of what has been done",
+            "Accountability in social structure",
+            "Biographical coherence"
+          ]
+        },
+        {
+          "theme_name": "Justification",
+          "description": "The right to live amidst all of life's relations, especially social structure",
+          "source_quote": "His will to justification arises out of the necessity to be at home and accepted in the social structure, as well as in the structure of biographical life",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 311.",
+          "indicators": [
+            "Being at home in social structure",
+            "Being accepted",
+            "Integration in biographical life"
+          ]
+        }
+      ],
+      "existential_needs": [
+        {
+          "need_name": "Personal integrity",
+          "description": "Need to preserve faithfulness to oneself in decision-making",
+          "source_quote": "Throughout this process he is ever looking for possibilities to make decisions in such a way that his personal integrity (in the sense of responsibility and faithfulness to oneself) is preserved.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 313.",
+          "manifestations": [
+            "Transcending oneself",
+            "Entering personal relation by making decisions",
+            "Maintaining responsibility to self"
+          ]
+        }
+      ],
+      "coping_reactions": [],
+      "exclusion_criteria": []
+    },
+    {
+      "fm_number": 4,
+      "fm_name": "MEANING (Commitment/Existence)",
+      "description": "The culmination of the search for meaning through action and personal involvement. Integration of being, values, and justification into meaningful action.",
+      "source_quote": "man finally becomes ready to act, after he has ultimately arrived at the 'will to meaning' by the steps of the three noetic motivations. Knowing at this point what he can do, what he wants to do and what he may do, he finally realises what he should do - ready to engage himself thanks to his will to act.",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), pp. 311-312.",
+      "motivation": "Will to act / Will to meaning",
+      "epistemological_chain": "act/know",
+      "psychological_chain": "work/accomplish",
+      "mode_of_experience": "should/want",
+      "central_question": "What should I do? What do I want to commit to?",
+      "sub_themes": [
+        {
+          "theme_name": "Existential meaning",
+          "description": "Decision about the best possibility in a situation that demands action and personal involvement",
+          "source_quote": "The existential question of meaning leads up to the decision about the best possibility in a situation, which might also stand as a definition for existential meaning.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 311.",
+          "indicators": [
+            "Readiness to act",
+            "Personal involvement",
+            "Integration of can/want/may into should"
+          ]
+        },
+        {
+          "theme_name": "Search for meaning process",
+          "description": "Sequential steps in finding meaning through reality, values, and relations",
+          "source_quote": "The seeker of meaning first looks for reality, searches for facts and conditions. Perception is followed by an order of valuations. The seeker of meaning involves himself as a sensor of values on the basis of his own self-esteem. At the third step, finally, he transcends himself and enters a personal relation by making a decision.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 313.",
+          "indicators": [
+            "Looking for reality and facts",
+            "Order of valuations",
+            "Transcending self through decision"
+          ]
+        }
+      ],
+      "existential_needs": [
+        {
+          "need_name": "Meaningful action",
+          "description": "Need to realize possibilities and engage in action that integrates truth, value, and right relations",
+          "source_quote": "the seeker of meaning is concerned with being, values and justification by ways of relating, which is especially important for psychotherapy.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 313.",
+          "manifestations": [
+            "Utilizing lifetime possibilities",
+            "Realizing opportunities before transitoriness",
+            "Saving possibilities into reality"
+          ]
+        }
+      ],
+      "coping_reactions": [],
+      "exclusion_criteria": []
+    }
+  ],
+  "loss_of_meaning_categories": [
+    {
+      "category_name": "Loss of value",
+      "description": "Loss of meaning during illness, suffering, death, or sorrow",
+      "source_quote": "We observe that the question explicitly forces itself upon man during phases when meaning is lost (Frankl, 1982a, pp. 18ff.; Längle, 1985, p. 85). Here primarily losses of value should be mentioned: During illness, suffering, death or sorrow, which call for a special attitude in man.",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 308.",
+      "related_fm": 2
+    },
+    {
+      "category_name": "Loss of orientation",
+      "description": "Lack of orientation in work, having everything to live from but nothing to live for",
+      "source_quote": "Loss of meaning, however, is also a frequent phenomenon in the area of work. Not even success serves as protection. Just at the point where work loses its quality of necessity for life, a vacuum of orientation is formed and causes the afflicted person to indeed have everything he can live from, but nothing more he can live for (Frankl, 1982b, p. 11; pp. 239ff.).",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 308.",
+      "related_fm": 4
+    },
+    {
+      "category_name": "Loss of relations",
+      "description": "Living without relating, leading to emptiness and lack of meaning",
+      "source_quote": "Besides loss of value and lack of orientation in work, lack of relations is another phenomenon causing the existential vacuum (Frankl, 1982a, pp. 7, 18f.). This abounds wherever life is experienced. Living without relating dwindles to boring and joyless consumption.",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 308.",
+      "related_fm": 3
+    }
+  ],
+  "meaning_characteristics": [
+    {
+      "characteristic": "Objective",
+      "description": "Meaning is based on situational reference",
+      "source_quote": "Accordingly, the psychological understanding of meaning always has four aspects: Firstly it is objective 'on the basis of its situational reference' (Frankl, 1982a, p. 56).",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 308."
+    },
+    {
+      "characteristic": "Relative",
+      "description": "Meaning is relative to the person and situation linkages",
+      "source_quote": "Secondly, meaning is relative, with regard to the person it is relating to, as well as to further linkages of the situation itself.",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 308."
+    },
+    {
+      "characteristic": "Subjective",
+      "description": "Meaning can only be recognized and realized by the person involved",
+      "source_quote": "Thirdly, it is subjective, in that it can only be recognised and realised by the person involved in the respective situation.",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 308."
+    },
+    {
+      "characteristic": "Appellative",
+      "description": "Meaning has a challenging character that urges action",
+      "source_quote": "meaning is, fourthly, always appellative by its character of challenge (Frankl, 1982a, pp. 52-57), urging the subject with its typical call to 'do something with me!'",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 308."
+    }
+  ],
+  "notes": [
+    "This is Version 1.0 based solely on Längle (1992). The 4 Fundamental Motivations structure is derived from Table 1 (p. 312) and the threefold/fourfold description of meaning throughout the text.",
+    "The document presents meaning as arising through three noetic motivations (Will to be, Will to value, Will to the right) that culminate in the Will to meaning/Will to act.",
+    "Future versions will add more detail on coping reactions, exclusion criteria, and additional sub-themes as more sources are incorporated."
+  ]
+}

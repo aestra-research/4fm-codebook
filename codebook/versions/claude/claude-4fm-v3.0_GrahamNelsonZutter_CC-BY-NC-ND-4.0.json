@@ -1,0 +1,493 @@
+{
+  "_attribution": {
+    "created_by": "Graham Nelson-Zutter",
+    "copyright": "©2026 Aestra Inc. except when external source noted.",
+    "license": "CC BY-NC-ND-4.0"
+  },
+  "codebook_metadata": {
+    "title": "Existential Analysis & Logotherapy Four Fundamental Motivations (4FMs) Codebook",
+    "version": "3.0",
+    "date_created": "2025-10-26",
+    "purpose": "Interpretive thematic analysis of therapeutic intervention participant testimony",
+    "methodology": "Thematic analysis using 4FMs as primary domains",
+    "sources_included": 1,
+    "created_by": "Graham Nelson-Zutter",
+    "copyright": "©2026 Aestra Inc. except when external source noted.",
+    "license": "CC BY-NC-ND-4.0"
+  },
+  "sources": [
+    {
+      "source_id": "source_001",
+      "citation": "Längle, A. (2011). The Existential Fundamental Motivations Structuring the Motivational Process. In D. A. Leontiev (Ed.), Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Publishers. https://laengle.info/userfile/doc/FM-+-motivation---Leontev-Mosc-2002-2011-publ.pdf"
+    }
+  ],
+  "theoretical_foundation": {
+    "description": "Four fundamental structures or 'cornerstones of existence' that require continuous dialogical confrontation and exchange",
+    "source_quote": "All preconditions of existence can be summarized in four fundamental structures, the 'cornerstones of existence': the world in its factuality and potentiality; life with its network of relationships and its feelings; being oneself as a unique, autonomous person; the wider context where to place oneself = development through one's activities, opening one's future",
+    "citation": "Längle (2011, p. 35)",
+    "conceptual_basis": {
+      "description": "Motivation emerges from dialogical exchange between subject and environment",
+      "source_quote": "Motivation is a process of continuous exchange between the subject—individual—and the environment. From an existential perspective, we see this exchange as having a dialogical structure, connecting the given reality of both subject and object with the intentions of the individual.",
+      "citation": "Längle (2011, p. 27)"
+    }
+  },
+  "primary_thematic_domains": {
+    "FM1_world": {
+      "code": "FM1",
+      "name": "First Fundamental Motivation: The World",
+      "subtitle": "Dealing with Conditions and Possibilities",
+      "description": "Confrontation with the factuality and potentiality of the world; the foundation of existence",
+      "source_quote": "the world in its factuality and potentiality",
+      "citation": "Längle (2011, p. 35)",
+      "existential_question": {
+        "question": "I am—can I be?",
+        "practical_application": "Can I claim my place in this world under the conditions and with the possibilities I have?",
+        "source_quote": "I am—can I be? For making this question practical, I may apply it to my own situation. Then I may ask myself: Can I claim my place in this world under the conditions and with the possibilities I have?",
+        "citation": "Längle (2011, p. 36)"
+      },
+      "existential_needs": [
+        {
+          "need": "Protection",
+          "description": "Acceptance and feeling at home",
+          "verification_question": "Do I enjoy protection, acceptance, do I feel at home somewhere?",
+          "source_quote": "This demands three things: protection, space and support.—Do I enjoy protection, acceptance, do I feel at home somewhere?",
+          "citation": "Längle (2011, p. 36)"
+        },
+        {
+          "need": "Space",
+          "description": "Having enough space for being there",
+          "verification_question": "Do I have enough space for being there?",
+          "source_quote": "This demands three things: protection, space and support.—Do I enjoy protection, acceptance, do I feel at home somewhere?—Do I have enough space for being there?",
+          "citation": "Längle (2011, p. 36)"
+        },
+        {
+          "need": "Support",
+          "description": "Finding support in life",
+          "verification_question": "Where do I find support in my life?",
+          "source_quote": "This demands three things: protection, space and support.—Do I enjoy protection, acceptance, do I feel at home somewhere?—Do I have enough space for being there?—Where do I find support in my life?",
+          "citation": "Längle (2011, p. 36)"
+        }
+      ],
+      "positive_outcomes": [
+        {
+          "outcome": "Trust in the world",
+          "description": "Confidence in oneself and possibly faith in God",
+          "source_quote": "But if I do have these three things, I will be able to feel trust in the world and confidence in myself, maybe even faith in God.",
+          "citation": "Längle (2011, p. 36)"
+        },
+        {
+          "outcome": "Fundamental trust",
+          "description": "Trust in whatever one feels as being the last support in life",
+          "source_quote": "The sum of these experiences of trust is the fundamental trust, the trust in whatever I feel as being the last support in my life.",
+          "citation": "Längle (2011, p. 36)"
+        }
+      ],
+      "negative_outcomes": [
+        {
+          "outcome": "Restlessness",
+          "source_quote": "If this is not the case, the result will be restlessness, insecurity and fear",
+          "citation": "Längle (2011, p. 36)"
+        },
+        {
+          "outcome": "Insecurity",
+          "source_quote": "If this is not the case, the result will be restlessness, insecurity and fear",
+          "citation": "Längle (2011, p. 36)"
+        },
+        {
+          "outcome": "Fear",
+          "source_quote": "If this is not the case, the result will be restlessness, insecurity and fear",
+          "citation": "Längle (2011, p. 36)"
+        }
+      ],
+      "active_participation": {
+        "action_accept": {
+          "description": "Being ready to occupy space, rely on support, and trust protection",
+          "source_quote": "To accept means to be ready to occupy the space, to rely on the support and to trust the protection; in short 'to be there' and not to flee.",
+          "citation": "Längle (2011, p. 36)"
+        },
+        "action_endure": {
+          "description": "The force to let be whatever is difficult, menacing or unalterable",
+          "source_quote": "To endure means the force to let be whatever is difficult, menacing or unalterable and to 'support' what cannot be changed.",
+          "citation": "Längle (2011, p. 36)"
+        }
+      },
+      "coping_reactions": {
+        "description": "Psychodynamics that secure life when acceptance is not possible",
+        "source_quote": "If this is not the case, psychodynamics takes over the guidance in the form of coping reactions, which are to secure life",
+        "citation": "Längle (2011, p. 36)"
+      }
+    },
+    "FM2_life": {
+      "code": "FM2",
+      "name": "Second Fundamental Motivation: Life",
+      "subtitle": "Dealing with Relationships and Emotions",
+      "description": "Confrontation with the network of relationships and feelings; the pathic dimension of existence",
+      "source_quote": "life with its network of relationships and its feelings",
+      "citation": "Längle (2011, p. 35)",
+      "pathic_dimension": {
+        "description": "Existence is experienced and suffered or enjoyed, not simply happening",
+        "source_quote": "It has a 'pathic dimension,' which means that it does not simply happen, but that we experience and suffer or enjoy it.",
+        "citation": "Längle (2011, p. 37)"
+      },
+      "existential_question": {
+        "question": "I am alive—do I like this fact?",
+        "alternative_form": "Is it good to be there?",
+        "source_quote": "Therefore, I am confronted with the fundamental question of life: I am alive—do I like this fact? Is it good to be there?",
+        "citation": "Längle (2011, p. 37)"
+      },
+      "existential_needs": [
+        {
+          "need": "Relationship",
+          "description": "Having relationships where one feels closeness and community",
+          "verification_question": "Do I have relationships, in which I feel closeness, for which I spend time and in which I experience community?",
+          "source_quote": "In order to seize my life, to love it, I need three things: relationship, time and closeness.—In verifying the presence of life in one's own situation we may ask ourselves questions like this: Do I have relationships, in which I feel closeness, for which I spend time and in which I experience community?",
+          "citation": "Längle (2011, p. 37)"
+        },
+        {
+          "need": "Time",
+          "description": "Taking time for valuable things, giving away part of one's life",
+          "verification_question": "What do I take time for? Do I take time for valuable things, worthy to spend my time for?",
+          "source_quote": "What do I take time for? Do I take time for valuable things, worthy to spend my time for? To take time for something means to give away a part of one's life while spending it with someone or something.",
+          "citation": "Längle (2011, p. 37)"
+        },
+        {
+          "need": "Closeness",
+          "description": "Feeling and maintaining closeness to things, plants, animals, and people",
+          "verification_question": "Can I feel close and maintain closeness to things, plants, animals and people? Can I admit the closeness of someone else?",
+          "source_quote": "Can I feel close and maintain closeness to things, plants, animals and people? Can I admit the closeness of someone else?",
+          "citation": "Längle (2011, p. 37)"
+        }
+      ],
+      "positive_outcomes": [
+        {
+          "outcome": "Harmony with world and self",
+          "description": "Experience of being in harmony with the world and oneself",
+          "source_quote": "But if these three conditions are fulfilled, I experience myself as being in harmony with the world and with myself, and I can sense the depth of life.",
+          "citation": "Längle (2011, p. 37)"
+        },
+        {
+          "outcome": "Fundamental value",
+          "description": "Most profound feeling for the value of life; yardstick for all emotions",
+          "source_quote": "These experiences form the fundamental value, the most profound feeling for the value of life. In each experience of a value this fundamental value is touched upon; it colors the emotions and affects and represents our yardstick for anything we might feel to be of worth.",
+          "citation": "Längle (2011, p. 37)"
+        }
+      ],
+      "negative_outcomes": [
+        {
+          "outcome": "Longing",
+          "source_quote": "If relationships, closeness and time are lacking, longing will arise, then coldness and finally depression.",
+          "citation": "Längle (2011, p. 37)"
+        },
+        {
+          "outcome": "Coldness",
+          "source_quote": "If relationships, closeness and time are lacking, longing will arise, then coldness and finally depression.",
+          "citation": "Längle (2011, p. 37)"
+        },
+        {
+          "outcome": "Depression",
+          "source_quote": "If relationships, closeness and time are lacking, longing will arise, then coldness and finally depression.",
+          "citation": "Längle (2011, p. 37)"
+        }
+      ],
+      "active_participation": {
+        "action_turn_to": {
+          "description": "Turning toward people, things, animals, work, or oneself; getting close and making contact",
+          "source_quote": "I seize life, engage in it, when I turn to other people, to things, animals, intellectual work or to myself, when I go towards it, get close, get into touch or pull it towards me.",
+          "citation": "Längle (2011, p. 37)"
+        },
+        "grief_process": {
+          "description": "Grief arises when turning to a loss",
+          "source_quote": "If I turn to a loss, grief arises.",
+          "citation": "Längle (2011, p. 37)"
+        },
+        "consent_to_feeling": {
+          "description": "Consent to being touched for life to move freely within",
+          "source_quote": "If life is to make me move freely, my consent to being touched (to feeling) is necessary.",
+          "citation": "Längle (2011, pp. 37-38)"
+        }
+      }
+    },
+    "FM3_being_person": {
+      "code": "FM3",
+      "name": "Third Fundamental Motivation: Being a Person",
+      "subtitle": "Dealing with Uniqueness and Conscience",
+      "description": "Confrontation with one's uniqueness as an autonomous person; the plane of identity and ethics",
+      "source_quote": "being oneself as a unique, autonomous person",
+      "citation": "Längle (2011, p. 35)",
+      "existential_question": {
+        "question": "I am myself—may I be like this?",
+        "alternative_form": "Do I feel free to be like that? Do I have the right to be what I am and to behave as I do?",
+        "context": "The plane of identity, of knowing oneself and of ethics",
+        "source_quote": "In the midst of this world, I discover myself unmistakably; I am with myself and I am given to myself. This puts before me the fundamental question of being a person: I am myself—may I be like this? Do I feel free to be like that? Do I have the right to be what I am and to behave as I do?—This is the plane of identity, of knowing oneself and of ethics.",
+        "citation": "Längle (2011, p. 38)"
+      },
+      "existential_needs": [
+        {
+          "need": "Attention",
+          "description": "Being seen; having one's uniqueness considered",
+          "verification_question": "By whom am I seen? Who considers my uniqueness and respects my boundaries?",
+          "source_quote": "In order to succeed here, it is necessary to have experienced three things: attention, justice and appreciation.—Again, one can verify this third cornerstone of existence in one's own existence by asking: by whom am I seen? Who considers my uniqueness and respects my boundaries?",
+          "citation": "Längle (2011, p. 38)"
+        },
+        {
+          "need": "Justice",
+          "description": "Being treated justly",
+          "verification_question": "Do people do me justice?",
+          "source_quote": "Do people do me justice?",
+          "citation": "Längle (2011, p. 38)"
+        },
+        {
+          "need": "Appreciation",
+          "description": "Being appreciated and self-appreciation",
+          "verification_question": "For what am I appreciated—for what can I appreciate myself?",
+          "source_quote": "For what am I appreciated—for what can I appreciate myself?",
+          "citation": "Längle (2011, p. 38)"
+        }
+      ],
+      "positive_outcomes": [
+        {
+          "outcome": "Authenticity",
+          "description": "Finding oneself authentically",
+          "source_quote": "If, on the contrary, these experiences have been made, I will find myself; find my authenticity, my relief and my self-respect.",
+          "citation": "Längle (2011, p. 38)"
+        },
+        {
+          "outcome": "Relief",
+          "description": "Experience of relief in being oneself",
+          "source_quote": "If, on the contrary, these experiences have been made, I will find myself; find my authenticity, my relief and my self-respect.",
+          "citation": "Längle (2011, p. 38)"
+        },
+        {
+          "outcome": "Self-respect",
+          "description": "Respect for oneself",
+          "source_quote": "If, on the contrary, these experiences have been made, I will find myself; find my authenticity, my relief and my self-respect.",
+          "citation": "Längle (2011, p. 38)"
+        },
+        {
+          "outcome": "Self-esteem",
+          "description": "Profoundest worth identifying one's own self at its core",
+          "source_quote": "The sum of these experiences builds one's own worth, the profoundest worth of what identifies my own self at its core: the self-esteem.",
+          "citation": "Längle (2011, p. 38)"
+        }
+      ],
+      "negative_outcomes": [
+        {
+          "outcome": "Solitude",
+          "source_quote": "If these experiences are missing, solitude will be the result, hysteria as well as a need to hide behind the shame.",
+          "citation": "Längle (2011, p. 38)"
+        },
+        {
+          "outcome": "Hysteria",
+          "source_quote": "If these experiences are missing, solitude will be the result, hysteria as well as a need to hide behind the shame.",
+          "citation": "Längle (2011, p. 38)"
+        },
+        {
+          "outcome": "Shame",
+          "description": "Need to hide behind shame",
+          "source_quote": "If these experiences are missing, solitude will be the result, hysteria as well as a need to hide behind the shame.",
+          "citation": "Längle (2011, p. 38)"
+        }
+      ],
+      "active_participation": {
+        "action_encounter": {
+          "description": "Looking at others, encountering them; finding their essence and one's own 'I' in the 'you'",
+          "source_quote": "Encounter and regret are the two means by which we can live our authenticity without ending up in solitude. Encounter represents the necessary bridge to the other, makes me find his essence as well as my own 'I' in the 'you.'",
+          "citation": "Längle (2011, p. 38)"
+        },
+        "action_demarcate": {
+          "description": "Demarcating oneself and standing by one's own",
+          "source_quote": "This requires my active participation: to look at other people, to encounter them and, at the same time, to demarcate myself and to stand by my own, but to refuse whatever does not correspond to me.",
+          "citation": "Längle (2011, p. 38)"
+        },
+        "action_regret": {
+          "description": "Regret as means to live authenticity",
+          "source_quote": "Encounter and regret are the two means by which we can live our authenticity without ending up in solitude.",
+          "citation": "Längle (2011, p. 38)"
+        }
+      }
+    },
+    "FM4_meaning": {
+      "code": "FM4",
+      "name": "Fourth Fundamental Motivation: Meaning",
+      "subtitle": "Dealing with Becoming, Future and Commitment",
+      "description": "Confrontation with the wider context for placing oneself; development through activities and opening one's future",
+      "source_quote": "the wider context where to place oneself = development through one's activities, opening one's future",
+      "citation": "Längle (2011, p. 35)",
+      "existential_question": {
+        "question": "I am there—for what is it good?",
+        "context": "Recognition of what life is all about; need to transcend oneself for fulfillment",
+        "source_quote": "If I can be there, love life and find myself therein, the conditions are fulfilled for the fourth fundamental condition of existence: the recognition of what my life is all about. It does not suffice to simply be there and to have found oneself. In a sense, we have to transcend ourselves, if we want to find fulfillment and to be fruitful... Thus, the transience of life puts before us the question of meaning of our existence: I am there—for what is it good?",
+        "citation": "Längle (2011, p. 39)"
+      },
+      "existential_needs": [
+        {
+          "need": "Field of activity",
+          "description": "A place where one feels needed and can be productive",
+          "verification_question": "Is there a place where I feel needed, where I can be productive?",
+          "source_quote": "For this, three things are necessary: a field of activity, a structural context and a value to be realized in the future.—For a practical application, we can ask ourselves questions of the following type: is there a place where I feel needed, where I can be productive?",
+          "citation": "Längle (2011, p. 39)"
+        },
+        {
+          "need": "Structural context",
+          "description": "A larger context providing structure and orientation to life",
+          "verification_question": "Do I see and experience myself in a larger context that provides structure and orientation to my life? Where I want to be integrated?",
+          "source_quote": "Do I see and experience myself in a larger context that provides structure and orientation to my life? Where I want to be integrated?",
+          "citation": "Längle (2011, p. 39)"
+        },
+        {
+          "need": "Value to be realized in future",
+          "description": "Something that should still be realized in one's life",
+          "verification_question": "Is there anything that should still be realized in my life?",
+          "source_quote": "Is there anything that should still be realized in my life?",
+          "citation": "Längle (2011, p. 39)"
+        }
+      ],
+      "positive_outcomes": [
+        {
+          "outcome": "Dedication",
+          "description": "Capacity for dedication",
+          "source_quote": "If, on the contrary, these conditions are met, I will be capable of dedication and action and, finally, of my own form of religious belief.",
+          "citation": "Längle (2011, p. 39)"
+        },
+        {
+          "outcome": "Action",
+          "description": "Capacity for action",
+          "source_quote": "If, on the contrary, these conditions are met, I will be capable of dedication and action and, finally, of my own form of religious belief.",
+          "citation": "Längle (2011, p. 39)"
+        },
+        {
+          "outcome": "Religious belief",
+          "description": "One's own form of religious belief",
+          "source_quote": "If, on the contrary, these conditions are met, I will be capable of dedication and action and, finally, of my own form of religious belief.",
+          "citation": "Längle (2011, p. 39)"
+        },
+        {
+          "outcome": "Meaning of life",
+          "description": "Sense of fulfillment; sum of meaningful experiences",
+          "source_quote": "The sum of these experiences adds up to the meaning of life and leads to a sense of fulfillment.",
+          "citation": "Längle (2011, p. 39)"
+        }
+      ],
+      "negative_outcomes": [
+        {
+          "outcome": "Emptiness",
+          "source_quote": "If this is not the case, the result will be a feeling of emptiness, frustration, even despair and frequently addiction.",
+          "citation": "Längle (2011, p. 39)"
+        },
+        {
+          "outcome": "Frustration",
+          "source_quote": "If this is not the case, the result will be a feeling of emptiness, frustration, even despair and frequently addiction.",
+          "citation": "Längle (2011, p. 39)"
+        },
+        {
+          "outcome": "Despair",
+          "source_quote": "If this is not the case, the result will be a feeling of emptiness, frustration, even despair and frequently addiction.",
+          "citation": "Längle (2011, p. 39)"
+        },
+        {
+          "outcome": "Addiction",
+          "source_quote": "If this is not the case, the result will be a feeling of emptiness, frustration, even despair and frequently addiction.",
+          "citation": "Längle (2011, p. 39)"
+        }
+      ],
+      "active_participation": {
+        "phenomenological_attitude": {
+          "description": "Attitude of openness; dealing with questions in each situation",
+          "source_quote": "But it does not suffice to have a field of activity, to have one's place within a context and to know of values to be realized in the future. Instead, the phenomenological attitude is needed, which we spoke about at the beginning. This attitude of openness represents the existential access to meaning in life: i.e., dealing with the questions put before me in each situation",
+          "citation": "Längle (2011, p. 39)"
+        },
+        "dialogical_questioning": {
+          "description": "What does this hour want from me, how shall I respond?",
+          "source_quote": "'What does this hour want from me, how shall I respond?' The meaningful thing is not only what I can expect from life, but, in accordance with the dialogical structure of existence, it is equally important what life wants from me and what the moment expects from me and what I could and should do now for others as well as for myself.",
+          "citation": "Längle (2011, p. 39)"
+        },
+        "action_agreement": {
+          "description": "Bringing oneself into agreement with the situation; examining if actions are good",
+          "source_quote": "My active part in this attitude of openness is to bring myself into agreement with the situation, to examine whether what I am doing is really a good thing: for others, for myself, for the future, for my environment. If I act accordingly, my existence will be fulfilling.",
+          "citation": "Längle (2011, p. 39)"
+        }
+      },
+      "meaning_definitions": {
+        "existential_meaning": {
+          "description": "The most valuable, realistic possibility of the given situation, for which one feels one should decide",
+          "source_quote": "This notion of valuable possibilities endorsed with the theory of the fundamental existential motivations, defines meaning even more concretely as 'the most valuable, realistic possibility of the given situation, for which I feel I should decide myself.'",
+          "citation": "Längle (2011, p. 40)"
+        },
+        "frankl_definition": {
+          "description": "A possibility against the background of reality",
+          "source_quote": "Viktor Frankl (1987, p. 315) once defined meaning as 'a possibility against the background of reality.'",
+          "citation": "Längle (2011, p. 39)"
+        },
+        "ontological_meaning": {
+          "description": "Overall meaning independent of the individual; philosophical and religious meaning",
+          "source_quote": "Besides this existential meaning, there is an ontological meaning. This is the overall meaning in which I find myself and which does not depend on me. It is the philosophical and religious meaning, the meaning the creator of the world must have had in mind.",
+          "citation": "Längle (2011, p. 40)"
+        }
+      }
+    }
+  },
+  "motivational_process": {
+    "description": "Three-step process involving the person",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Recognizing",
+        "description": "Recognizing something in its worth or value, as it speaks to us",
+        "source_quote": "Recognizing something in its worth or value, insofar as it speaks to us. This is often a challenge demanding action on our part. To see what a situation provokes in us means to recognize the situational meaning involved.",
+        "citation": "Längle (2011, p. 33)"
+      },
+      {
+        "step": 2,
+        "name": "Harmonizing",
+        "description": "Bringing perceived value into accordance with inner reality",
+        "source_quote": "Harmonizing. Bringing the perceived value, challenge or meaning into accordance with one's inner reality, i.e., examining the consistency with the rest of our values, with attitudes, abilities and capabilities and with our conscience.",
+        "citation": "Längle (2011, p. 33)"
+      },
+      {
+        "step": 3,
+        "name": "Inner consent",
+        "description": "Inner consent to one's own active involvement, bringing presence of the inner person",
+        "source_quote": "The final step in the development of motivation is the inner consent to one's own active involvement. This consent and the act of harmonizing the new value with inner (already existing personal) reality leads to the presence of the inner person in one's actions. It brings up the integration of the new value and the person himself into a wider context (meaning).",
+        "citation": "Längle (2011, p. 33)"
+      }
+    ]
+  },
+  "structure_of_will": {
+    "description": "Free and realistic will based on fundamental elements",
+    "elements": [
+      {
+        "element": "Ability and capacity",
+        "description": "Real ability and capacity of the subject",
+        "source_quote": "on the real ability and capacity of the subject",
+        "citation": "Längle (2011, p. 34)"
+      },
+      {
+        "element": "Emotional perception",
+        "description": "Emotional perception of the situational value",
+        "source_quote": "on the emotional perception of the situational value",
+        "citation": "Längle (2011, p. 34)"
+      },
+      {
+        "element": "Inner permission",
+        "description": "Inner permission for action from agreement with life concepts and morality",
+        "source_quote": "on the inner permission for that act, emerging from an agreement with one's concepts of life and morality",
+        "citation": "Längle (2011, p. 34)"
+      },
+      {
+        "element": "Meaning",
+        "description": "Meaning as the moving part in free will (Frankl's contribution)",
+        "source_quote": "Frankl (1970, pp. 37-44; 1987, pp. 101-104) saw meaning as the moving part in free will.",
+        "citation": "Längle (2011, p. 33)"
+      }
+    ]
+  },
+  "coding_guidelines": {
+    "application": "Use this codebook to identify and code participant testimony related to the four fundamental motivations",
+    "hierarchical_structure": "Code using FM1-FM4 as primary domains, with sub-codes for needs, outcomes, and actions",
+    "temporal_analysis": "Consider participant experiences before, during, and after therapeutic intervention",
+    "exclusion_criteria": "Only code content that directly relates to the described themes with supporting evidence from source materials"
+  },
+  "version_notes": {
+    "v3.0": "Initial codebook based on Längle (2011). Includes all four fundamental motivations with existential questions, needs, positive/negative outcomes, active participation elements, motivational process steps, and structure of will."
+  }
+}

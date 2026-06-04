@@ -1,0 +1,197 @@
+{
+  "_attribution": {
+    "created_by": "Graham Nelson-Zutter",
+    "copyright": "©2026 Aestra Inc. except when external source noted.",
+    "license": "CC BY-NC-ND-4.0"
+  },
+  "codebook_title": "EA LT 4FMs Codebook",
+  "version": "1.0",
+  "source_document_v1_0": {
+    "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), 306–314. https://doi.org/10.3138/uram.15.4.306",
+    "filename": "*3 - Längle - 1992 - What Are We Looking for When We Search for Meaning.pdf"
+  },
+  "primary_domains": [
+    {
+      "fm_number": "First Fundamental Motivation (1st FM)",
+      "theme_name": "The ability to be; to endure/uphold. (FM of World/Reality)",
+      "justification_quote": "The following table: \"Noetic content: 1. TRUE (reality)\" and \"Motivation: Will to be\" and \"Mode of experience: can\"",
+      "justification_citation": "Längle (1992), p. 312 [cite: 167]",
+      "sub_themes": [
+        {
+          "sub_theme_name": "Noetic Content",
+          "concept": "TRUE (reality)",
+          "justification_quote": "Noetic content: 1. TRUE (reality)",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Central Area of Meaning",
+          "concept": "Ontology",
+          "justification_quote": "Central area of stage of meaning: Ontology",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Motivation",
+          "concept": "Will to be",
+          "justification_quote": "Motivation: Will to be",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Epistemological Chain (Process of Finding Meaning)",
+          "concept": "know (explain) → facts",
+          "justification_quote": "Epistemological chain: know (explain) → facts",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Mode of Experience/Ability",
+          "concept": "can",
+          "justification_quote": "Mode of experience: can",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Core Need/Search Focus",
+          "concept": "Orientation by the true, by what is and by what is experienced as reality.",
+          "justification_quote": "Meaning is therefore always orientation by the true, by what is and by what is experienced as reality. Meaning is unconditionally realistic. The person living meaningfully will face and grasp the facts. He needs their ground to hold and support him, in order to act and receive effects.",
+          "justification_citation": "Längle (1992), p. 312 [cite: 159, 160, 161]"
+        }
+      ]
+    },
+    {
+      "fm_number": "Second Fundamental Motivation (2nd FM)",
+      "theme_name": "The ability to feel value/life. (FM of Life/Value)",
+      "justification_quote": "The following table: \"Noetic content: 2. ATTRACTIVE (value)\" and \"Motivation: Will to value\" and \"Mode of experience: like\"",
+      "justification_citation": "Längle (1992), p. 312 [cite: 167]",
+      "sub_themes": [
+        {
+          "sub_theme_name": "Noetic Content",
+          "concept": "ATTRACTIVE (value)",
+          "justification_quote": "Noetic content: 2. ATTRACTIVE (value)",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Central Area of Meaning",
+          "concept": "Axiology",
+          "justification_quote": "Central area of stage of meaning: Axiology",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Motivation",
+          "concept": "Will to value",
+          "justification_quote": "Motivation: Will to value",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Epistemological Chain (Process of Finding Meaning)",
+          "concept": "understand → coherence",
+          "justification_quote": "Epistemological chain: understand → coherence",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Mode of Experience/Ability",
+          "concept": "like",
+          "justification_quote": "Mode of experience: like",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Core Need/Search Focus",
+          "concept": "Desire for the attractive and the valuable (to give and to receive).",
+          "justification_quote": "At the same time, search for meaning includes the desire for the attractive, the desire for dealing with the valuable which man wants to give as much as to receive.",
+          "justification_citation": "Längle (1992), p. 312 [cite: 163]"
+        }
+      ]
+    },
+    {
+      "fm_number": "Third Fundamental Motivation (3rd FM)",
+      "theme_name": "The ability to be oneself; to be just. (FM of Self/Justice)",
+      "justification_quote": "The following table: \"Noetic content: 3. RIGHT (relations)\" and \"Motivation: Will to the right\" and \"Mode of experience: may\"",
+      "justification_citation": "Längle (1992), p. 312 [cite: 167]",
+      "sub_themes": [
+        {
+          "sub_theme_name": "Noetic Content",
+          "concept": "RIGHT (relations)",
+          "justification_quote": "Noetic content: 3. RIGHT (relations)",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Central Area of Meaning",
+          "concept": "Ethics",
+          "justification_quote": "Central area of stage of meaning: Ethics",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Motivation",
+          "concept": "Will to the right",
+          "justification_quote": "Motivation: Will to the right",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Epistemological Chain (Process of Finding Meaning)",
+          "concept": "recognise → responsibility",
+          "justification_quote": "Epistemological chain: recognise → responsibility",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Mode of Experience/Ability",
+          "concept": "may",
+          "justification_quote": "Mode of experience: may",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Core Need/Search Focus",
+          "concept": "Need for relations, responsibility, and justification of existence.",
+          "justification_quote": "Finally, the need for relations is alive in meaning, for relating to oneself (responsibility) as well as to others, which enables the justification of existence.",
+          "justification_citation": "Längle (1992), p. 312 [cite: 164]"
+        },
+        {
+          "sub_theme_name": "Key Concepts (Self-Integration)",
+          "concept": "Personal integrity (responsibility and faithfulness to oneself)",
+          "justification_quote": "Throughout this process he is ever looking for possibilities to make decisions in such a way that his personal integrity (in the sense of responsibility and faithfulness to oneself) is preserved.",
+          "justification_citation": "Längle (1992), p. 313 [cite: 173]"
+        }
+      ]
+    },
+    {
+      "fm_number": "Fourth Fundamental Motivation (4th FM)",
+      "theme_name": "The ability to do good; to be creative/meaning. (FM of Meaning/Future)",
+      "justification_quote": "The following table: \"Noetic content: 4. MEANING\" and \"Motivation: Will to act/Will to meaning\" and \"Mode of experience: should/want\"",
+      "justification_citation": "Längle (1992), p. 312 [cite: 167]",
+      "sub_themes": [
+        {
+          "sub_theme_name": "Noetic Content",
+          "concept": "MEANING (commitment)",
+          "justification_quote": "Noetic content: 4. MEANING (commitment)",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Central Area of Meaning",
+          "concept": "Existence",
+          "justification_quote": "Central area of stage of meaning: Existence",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Motivation",
+          "concept": "Will to act/Will to meaning",
+          "justification_quote": "Motivation: Will to act/Will to meaning",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Epistemological Chain (Process of Finding Meaning)",
+          "concept": "act/know",
+          "justification_quote": "Epistemological chain: act/know",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Mode of Experience/Ability",
+          "concept": "should/want",
+          "justification_quote": "Mode of experience: should/want",
+          "justification_citation": "Längle (1992), p. 312 [cite: 167]"
+        },
+        {
+          "sub_theme_name": "Key Action (Existential Meaning)",
+          "concept": "Decision about the best possibility in a situation.",
+          "justification_quote": "The existential question of meaning leads up to the decision about the best possibility in a situation, which might also stand as a definition for existential meaning.",
+          "justification_citation": "Längle (1992), p. 311 [cite: 151]"
+        }
+      ]
+    }
+  ]
+}

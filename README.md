@@ -27,30 +27,30 @@ README.md                     this file
 CITATION.cff                  machine-readable citation metadata
 .zenodo.json                  Zenodo deposit metadata
 codebook/
-  ├── 4fm-master.json         the canonical MASTER (current)
+  ├── 4fm-master_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json         the canonical MASTER (current)
   └── versions/               full development lineage
       ├── claude/             Claude Sonnet 4.5's v1.0 → v5.0 chain
       ├── chatgpt/            ChatGPT 5 Thinking's v1.0 → v5.0 chain
       └── gemini/             Gemini 2.5 Turbo's v1.0 → v5.0 chain
 docs/
-  ├── lineage.md              how each version was produced (multi-LLM build story)
-  ├── comparison-matrix.md    cross-LLM v5.0 strength comparison
-  ├── integration-summary.md  v5.0 integration rationale
-  ├── quick-reference.md      distilled codebook reference
-  ├── quick-start-guide.md    practitioner-facing how-to
-  ├── merger-summary.md       v4.0 single-LLM merge methodology
-  ├── codebook-comparison.md  early version-to-version differences
+  ├── lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md              how each version was produced (multi-LLM build story)
+  ├── comparison-matrix_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md    cross-LLM v5.0 strength comparison
+  ├── integration-summary_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md  v5.0 integration rationale
+  ├── quick-reference_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md      distilled codebook reference
+  ├── quick-start-guide_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md    practitioner-facing how-to
+  ├── merger-summary_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md       v4.0 single-LLM merge methodology
+  ├── codebook-comparison_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md  early version-to-version differences
   └── build-dialogs/          original LLM dialog exports (.odt, Oct 2025)
 ```
 
 ## How to use it
 
-1. Download `codebook/4fm-master.json`.
+1. Download `codebook/4fm-master_GrahamNelsonZutter_CC-BY-NC-ND-4.0.json`.
 2. Provide it to your LLM of choice alongside your participant testimony (CSV or transcript).
 3. The codebook's `instructions_for_llm` block and `coding_guidelines` section tell the LLM how to apply Längle's 4FM framework, with required quote-anchored justification.
 4. The LLM returns codes with justifications; you (the researcher) verify the quote provenance manually before publishing.
 
-See [`docs/quick-start-guide.md`](docs/quick-start-guide.md) for a worked example.
+See [`docs/quick-start-guide_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md`](docs/quick-start-guide_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md) for a worked example.
 
 The methodology paper above describes the full workflow including multi-LLM cross-validation (Technique A) and quote-anchored source verification (Technique B).
 
@@ -65,9 +65,9 @@ The four Längle sources span the framework's full publication history:
 - **Längle, A. (2003).** The art of involving the person — the existential fundamental motivations as the structure of the motivational process. *European Psychotherapy, 4*(1), 47–58.
 - **Längle, A. (2011).** The Existential Fundamental Motivations Structuring the Motivational Process. In D. Leontiev (Ed.), *Motivation, Consciousness and Self-Regulation* (pp. 27–42). Nova Science Publishers.
 
-**Note on Längle 2002 / 2011:** these two sources contain identical content (the 2011 publication is the English version of the 2002 conference paper, same pages 27–42, same publisher pipeline). Both citations are documented in the codebook for transparency. See [`docs/lineage.md`](docs/lineage.md).
+**Note on Längle 2002 / 2011:** these two sources contain identical content (the 2011 publication is the English version of the 2002 conference paper, same pages 27–42, same publisher pipeline). Both citations are documented in the codebook for transparency. See [`docs/lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md`](docs/lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md).
 
-See [`docs/lineage.md`](docs/lineage.md) for the full build methodology.
+See [`docs/lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md`](docs/lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md) for the full build methodology.
 
 ## How to cite
 
@@ -81,7 +81,7 @@ For a specific version, use the version DOI (v1.0: `10.5281/zenodo.20483208`); f
 
 Each substantive release is a tagged GitHub release. GitHub-→-Zenodo integration archives each release and mints a version DOI. The concept DOI represents the artifact across all versions.
 
-**Important:** the codebook's version lineage is *not* a linear edit chain — it's a multi-LLM consensus process. See [`docs/lineage.md`](docs/lineage.md) for the rationale and methodology.
+**Important:** the codebook's version lineage is *not* a linear edit chain — it's a multi-LLM consensus process. See [`docs/lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md`](docs/lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md) for the rationale and methodology.
 
 ## Contributing
 
@@ -91,13 +91,13 @@ Issues, discussions, and PRs welcome. The intended development workflow:
 - **PR discussions** work through methodology proposals (e.g., adding a new FM sub-theme, extending to a different population's testimony).
 - **Tagged releases** package consensus-validated updates and ship them with a fresh Zenodo DOI.
 
-When proposing a new version: follow the multi-LLM consensus pattern documented in `docs/lineage.md`. Single-LLM unilateral edits should be flagged for review.
+When proposing a new version: follow the multi-LLM consensus pattern documented in `docs/lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md`. Single-LLM unilateral edits should be flagged for review.
 
 ## Authorship and contribution
 
 **Sole author:** Graham Nelson-Zutter (graham@aestra.ca), MSc student, Existential Analysis & Logotherapy, University of Salzburg.
 
-The LLMs used during the methodology (Claude Sonnet 4.5, ChatGPT 5 Thinking, Gemini 2.5 Turbo, and others described in `docs/lineage.md`) are **research instruments**, not contributors or co-authors. They do not receive attribution as contributors in `CITATION.cff`, `.zenodo.json`, or git commit metadata. This follows the position taken by major academic journals (Nature, Science, JAMA, the World Association of Medical Editors) that AI systems cannot meet the criteria for authorship and must not be listed as such.
+The LLMs used during the methodology (Claude Sonnet 4.5, ChatGPT 5 Thinking, Gemini 2.5 Turbo, and others described in `docs/lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md`) are **research instruments**, not contributors or co-authors. They do not receive attribution as contributors in `CITATION.cff`, `.zenodo.json`, or git commit metadata. This follows the position taken by major academic journals (Nature, Science, JAMA, the World Association of Medical Editors) that AI systems cannot meet the criteria for authorship and must not be listed as such.
 
 If a future contributor proposes a PR, they should be added to `CITATION.cff` as a co-author of that version (with their consent). The "LLMs as tools, not authors" rule applies to AI systems specifically and is not negotiable.
 

@@ -1,0 +1,1075 @@
+{
+  "_attribution": {
+    "created_by": "Graham Nelson-Zutter",
+    "copyright": "©2026 Aestra Inc. except when external source noted.",
+    "license": "CC BY-NC-ND-4.0"
+  },
+  "codebook_metadata": {
+    "title": "Existential Analysis & Logotherapy Four Fundamental Motivations (4FMs) Codebook - Version 5.0 Comprehensive Edition",
+    "version": "5.0",
+    "date_created": "2025-10-29",
+    "purpose": "Comprehensive interpretive thematic analysis framework for understanding participant experiences in therapeutic interventions using the Four Fundamental Motivations of Existential Analysis and Logotherapy",
+    "methodology": "Integrative thematic analysis combining existential-phenomenological and person-centered approaches",
+    "theoretical_foundation": "Four Fundamental Motivations of Existential Analysis (Längle)",
+    "citation_format": "APA 7th Edition",
+    "sources_included": 4,
+    "merged_from_versions": {
+      "v4.0_ChatGPT": "Detailed sub-theme coding structure with specific code IDs, direct quotes with precise citations, comprehensive inclusion/exclusion criteria, PEA steps, practical coding examples",
+      "v4.0_Claude": "Theoretical foundation with phenomenological approach, comprehensive version history, merge rationale, meaning framework with four characteristics, applications beyond therapy",
+      "v4.0_Gemini": "Clean organizational structure, epistemological chains, noetic content/motivation/mode framework, transcendent layer for FM4, general concepts section, critique of Frankl"
+    },
+    "version_history": {
+      "1.0": "Initial codebook based on Längle (1992) - established 4FM structure",
+      "1.1": "Added Längle (2002) - expanded with prerequisites, coping reactions, pathological outcomes",
+      "1.2": "Added Längle (2003) - integrated motivational process structure, dialogical paradigm, assessment questions",
+      "1.3": "Metadata update - added Längle (2011) citation",
+      "2.0": "Restructured with systematic FM organization, application guidelines, temporal analysis",
+      "3.0-3.3": "Progressive integration of all sources with enhanced theoretical depth",
+      "4.0": "Three parallel developments (ChatGPT, Claude, Gemini) each with unique strengths",
+      "5.0": "Comprehensive integration of all three v4.0 versions, combining theoretical depth, practical coding structure, and clean organization"
+    },
+    "v5_integration_rationale": "Version 5.0 synthesizes the theoretical rigor of Claude's v4.0, the practical coding granularity of ChatGPT's v4.0, and the conceptual clarity of Gemini's v4.0 to create a unified framework suitable for both rigorous academic research and practical therapeutic application.",
+    "source_notes": {
+      "duplicate_sources": "Längle (2002) and Längle (2011) contain identical content. Both citations documented for transparency."
+    },
+    "created_by": "Graham Nelson-Zutter",
+    "copyright": "©2026 Aestra Inc. except when external source noted.",
+    "license": "CC BY-NC-ND-4.0"
+  },
+  "sources": [
+    {
+      "source_id": "source_001",
+      "citation_key": "Längle_2011",
+      "citation": "Längle, A. (2011). The Existential Fundamental Motivations Structuring the Motivational Process. In D. A. Leontiev (Ed.), Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Publishers. https://laengle.info/userfile/doc/FM-+-motivation---Leontev-Mosc-2002-2011-publ.pdf",
+      "summary": "Defines the four fundamental themes/conditions of existence (4FMs) as the cornerstones of existence that challenge a person to respond and activate inner freedom."
+    },
+    {
+      "source_id": "source_002",
+      "citation_key": "Längle_2003",
+      "citation": "Längle, A. (2003). The Art of Involving the Person – Fundamental Existential Motivations as the Structure of the Motivational Process. European Psychotherapy, 4(1), 25–36.",
+      "summary": "Details the core existential motivations, their corresponding fundamental questions, core concepts, and the objective (goal of dialogue) of successfully dealing with each motivation."
+    },
+    {
+      "source_id": "source_003",
+      "citation_key": "Längle_2002",
+      "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Pub Inc. https://laengle.info/userfile/doc/FM-+-motivation---Leontev-Mosc-2002-2011-publ.pdf",
+      "summary": "Provides detailed breakdowns of the four types of coping reactions (psychodynamics) and failure results for each of the four fundamental motivations."
+    },
+    {
+      "source_id": "source_004",
+      "citation_key": "Längle_1992",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), 306–314. https://doi.org/10.3138/uram.15.4.306",
+      "summary": "Introduces the noetic (spiritual/existential) dimensions and the sequence of the three noetic motivations (True, Attractive, Right) leading to the will to meaning/act and a final transcendent commitment."
+    }
+  ],
+  "existential_analysis_definition": {
+    "description": "Scientific definition of Existential Analysis as a psychotherapy approach",
+    "source_quote": "A scientifically definition of Existential Analysis describes it as a phenomenological-personal psychotherapy with the aim of enabling a person to experience his life freely at the spiritual and emotional levels, to arrive at authentic decisions and to come to a responsible way of dealing with himself and the world around.",
+    "citation": "Längle, 2002, p. 3"
+  },
+  "general_concepts": [
+    {
+      "concept_name": "Motivation (Existential Definition)",
+      "definition": "A process of continuous exchange between the subject individual and the environment, seen as a dialogical movement from the present, given reality towards the person's goals and intentions.",
+      "focus": "An expression of the (mostly unconscious) human intention to be-come, to come into existence.",
+      "supporting_quote": "From an existential point of view, motivation essentially involves the person (with his or her specific ability to make decisions) in his or her world. Thus, motivation may thus be defined as a process in dialogical movement from the present, given reality towards the person's goals and intentions.",
+      "citation": "Längle, 2003, p. 25"
+    },
+    {
+      "concept_name": "The Existential Paradigm",
+      "focus": "An interpersonal paradigm (a complement and counterweight to the individualistic paradigm of freedom and personal will). The most original activity of personhood: Our being essentially dialogical, prone to and directed towards exchange with others.",
+      "structure_function": "The four cornerstones of existence form a matrix for the psychopathological understanding of psychological disorders and represent the structural model for modern Existential Analytical Psychotherapy.",
+      "supporting_quote": "Being oneself as a person means being in communication – being in a continuous intrapersonal and interpersonal exchange of contents and values.",
+      "citation": "Längle, 2003, p. 28"
+    },
+    {
+      "concept_name": "Critique of Frankl's 'Will to Meaning'",
+      "längle_critique": "In the motivational angle of his theory, Frankl may have adopted some individualistic thinking by tracing back and reducing the concept of existential motivation to the concept of will.",
+      "shift_to_dialogical": "Modern Existential Analysis emphasizes the interpersonal and dialogical nature of motivation rather than purely individual will."
+    },
+    {
+      "concept_name": "Phenomenological Approach",
+      "description": "Phenomenological method and its role in Existential Analysis",
+      "phenomenology_explanation": {
+        "source_quote": "phenomenology tries to ensure its findings by using the subjective intelligence, feeling and sensing, which the old Greek called 'nous'. This is the individual capacity of understanding and for evidence and needs dialogical exchange. To come along with this it implies a trained viewing of the facts as they are and as they show themselves to be.",
+        "citation": "Längle, 2002, pp. 1-2"
+      },
+      "epoche": {
+        "description": "Setting aside judgements, theories and knowledge",
+        "source_quote": "This phenomenological attitude implies to let aside all judgements, theories and knowledge (this activity is called 'epoché').",
+        "citation": "Längle, 2002, p. 2"
+      },
+      "phenomenological_results": {
+        "source_quote": "phenomenology results in understanding the subjective, individual, unique – the 'essence' and its specific way to be related and to appear in the world.",
+        "citation": "Längle, 2002, p. 2"
+      },
+      "central_theme": {
+        "source_quote": "Our approach being phenomenological has as a consequence the central theme of existential psychotherapy being the essence of the person: his free will. The human potential to decide represents the basic tool for a fulfilling existence.",
+        "citation": "Längle, 2002, p. 2"
+      }
+    },
+    {
+      "concept_name": "Four Cornerstones of Existence",
+      "description": "Human existence is based on fundamental realities that are the cornerstones of existence",
+      "supporting_quote": "Human existence is based on these fundamental realities – they are the four cornerstones of existence according to the modern existential analytical theory.",
+      "citation": "Längle, 2002, p. 4"
+    }
+  ],
+  "meaning_framework": {
+    "definition_existential": {
+      "text": "The Most Valuable, Realistic Possibility in the Given Situation, for which I feel I should decide myself.",
+      "source_quote": "We define meaning as 'the most valuable, realistic possibility of the given situation, for which I feel I should decide myself'.",
+      "citation": "Längle, 2002"
+    },
+    "phenomenological_understanding": {
+      "description": "Meaning is discovered through personal evidence, not invented or subjectively attributed",
+      "source_quote": "Meaning is not invented – it is discovered. It is detected through the personal evidence. From the phenomenological point of view, meaning is not 'subjective', nor is it something we only 'attribute'. Meaning is, by all means, trans-subjective, i.e. it is experienced as something which is not dependent on the individual person alone.",
+      "citation": "Längle, 1992, p. 307"
+    },
+    "four_characteristics_of_meaning": [
+      {
+        "characteristic": "Objective",
+        "description": "Meaning is trans-subjective and experienced as independent of personal perspective",
+        "source_quote": "Meaning is firstly trans-subjective: it is experienced as independent of ourselves. It is not only a subjective interpretation.",
+        "citation": "Längle, 1992, p. 308"
+      },
+      {
+        "characteristic": "Relative",
+        "description": "Meaning is specific to person and situation, not absolute",
+        "source_quote": "meaning is, secondly, always concrete and relative... it is relative to the concrete person in a concrete situation.",
+        "citation": "Längle, 1992, p. 308"
+      },
+      {
+        "characteristic": "Subjective (Personally Evident)",
+        "description": "Meaning must be personally experienced and felt as evident",
+        "source_quote": "meaning is, thirdly, always individually experienceable... it is actually 'my' meaning if it is personally evident to me.",
+        "citation": "Längle, 1992, p. 308"
+      },
+      {
+        "characteristic": "Appellative",
+        "description": "Meaning has a challenging character that urges action",
+        "source_quote": "meaning is, fourthly, always appellative by its character of challenge (Frankl, 1982a, pp. 52-57), urging the subject with its typical call to 'do something with me!'",
+        "citation": "Längle, 1992, p. 308"
+      }
+    ],
+    "threefold_question_of_meaning": {
+      "description": "Three levels of meaning inquiry corresponding to FM1-FM4",
+      "ontological_question": {
+        "question": "What is the meaning?",
+        "corresponds_to": "FM1 - Reality/Truth",
+        "epistemological_act": "know (explain)",
+        "result": "facts"
+      },
+      "axiological_question": {
+        "question": "What is it worth to me?",
+        "corresponds_to": "FM2 - Value/Life and FM3 - Justice/Relations",
+        "epistemological_act": "understand and recognize",
+        "result": "coherence and responsibility"
+      },
+      "existential_ethical_question": {
+        "question": "What should I do?",
+        "corresponds_to": "FM4 - Meaning/Future",
+        "epistemological_act": "act/know",
+        "result": "commitment"
+      }
+    },
+    "existential_vs_ontological_meaning": {
+      "existential_meaning": {
+        "description": "What is possible here and now; depends on personal decision",
+        "source_quote": "Existential meaning is therefore what is possible here and now... it is the most valuable, realistic possibility of the given situation, for which I feel I should decide myself.",
+        "citation": "Längle, 2003"
+      },
+      "ontological_meaning": {
+        "description": "Overall meaning not dependent on personal action",
+        "source_quote": "Apart from this existential meaning we may also consider an ontological meaning... which does not depend on me.",
+        "citation": "Längle, 2003"
+      }
+    }
+  },
+  "motivational_process": {
+    "description": "Three-step Personal Existential Analysis (PEA) process for developing motivation",
+    "steps": [
+      {
+        "step_number": 1,
+        "name": "Recognizing",
+        "description": "Perceiving what the situation offers or demands",
+        "source_quote": "Recognizing something in its worth or value, insofar as it speaks to us... To see what a situation provokes in us means to recognize the situational meaning involved.",
+        "citation": "Längle, 2011, p. 41"
+      },
+      {
+        "step_number": 2,
+        "name": "Harmonizing",
+        "description": "Evaluating consistency with inner reality",
+        "source_quote": "Bringing the perceived value, challenge or meaning into accordance with one's inner reality, i.e., examining the consistency with the rest of our values, with attitudes, abilities and capabilities and with our conscience.",
+        "citation": "Längle, 2011, p. 41"
+      },
+      {
+        "step_number": 3,
+        "name": "Inner Consent",
+        "description": "Giving consent to one's own active involvement",
+        "source_quote": "The final step in the development of motivation is the inner consent to one's own active involvement.",
+        "citation": "Längle, 2011, p. 41"
+      }
+    ],
+    "goal_of_existential_analysis": {
+      "quote": "to help man to find a way of living where he can give his inner consent to his own actions.",
+      "citation": "Längle, 2002, p. 4"
+    }
+  },
+  "applications_beyond_therapy": {
+    "description": "Fundamental existential motivations apply to all person-centered relations",
+    "source_quote": "As existential basics they are important in all relations where the person stands in the center: education, pastoral counselling, management trainings, prevention of diseases, coaching, organisational structures etc.",
+    "citation": "Längle, 2002, p. 4"
+  },
+  "fundamental_motivations": [
+    {
+      "FM_order": 1,
+      "domain_id": "FM1",
+      "code": "1FM_WORLD_CONDITIONS",
+      "name": "First Fundamental Motivation: The World – Dealing with Conditions and Possibilities",
+      "theme_name": "The ability to be; to endure/uphold",
+      "subtitle": "Fundamental Motivation of World/Reality",
+      "core_task": "Coming to terms with the reality of one's existence, or 'being in the world'",
+      "existential_question": "I am – can I be?",
+      "noetic_framework": {
+        "noetic_content": "TRUE (reality)",
+        "noetic_motivation": "Will to be (Will to existence)",
+        "noetic_mode_of_experience": "can",
+        "epistemological_chain": "know (explain) → facts"
+      },
+      "existential_needs": [
+        "Support",
+        "Space",
+        "Protection",
+        "Security",
+        "Orientation to Facts",
+        "Ground to Hold"
+      ],
+      "positive_outcomes": [
+        "Fundamental Trust",
+        "Confidence in Self",
+        "Faith",
+        "Sense of security in existence"
+      ],
+      "negative_outcomes_if_unmet": [
+        "Restlessness",
+        "Insecurity",
+        "Fear",
+        "Groundlessness",
+        "Loss of orientation"
+      ],
+      "psychopathology_correlations": {
+        "extreme_failure": "Phobic and anxiety disorders",
+        "description": "When fundamental trust in existence is severely compromised"
+      },
+      "coping_reactions_when_blocked": {
+        "basic_reaction": {
+          "type": "Avoidance or Flight",
+          "description": "Primary response to threat to existence"
+        },
+        "activism": {
+          "type": "Paradoxical Overactivity",
+          "examples": [
+            "Compulsive Washing",
+            "Hypervigilance"
+          ],
+          "source_quote": "If man fails systematically to reach the fundamental of this FM1, his coping reactions will be avoidance or flight as basic reaction... and overactivity (e.g. compulsive washing) as main forms of activism",
+          "citation": "Längle, 2002"
+        },
+        "aggression": {
+          "type": "Destructive Aggression",
+          "examples": [
+            "Hate",
+            "Destructive behavior"
+          ],
+          "description": "Aggressive response to perceived threat to existence"
+        },
+        "freezing": {
+          "type": "Denial or Pretending Non-Existence",
+          "description": "Paralytic response where person denies reality or pretends not to exist",
+          "source_quote": "denial or pretending to be non-existent as reaction of freezing",
+          "citation": "Längle, 2002"
+        }
+      },
+      "sub_themes": [
+        {
+          "code_id": "FM1.ST1",
+          "name": "Being-in-the-world & Network of Effects",
+          "definition": {
+            "description": "Fundamental ontological experience of being situated in world with mutual effects",
+            "quote": "Man sees that the world is continually effecting him. Acting, he realises that he in turn has an effect on the world. In this way he experiences his special relation with the world, in which he stands. This 'being-in-the-world' (Heidegger) is the fundamental state man finds himself in, his basic ontological experience.",
+            "citation": "Längle, 1992, p. 309"
+          },
+          "inclusion_criteria": [
+            "References to grasping facts, reality testing, or needing ground/support from facts",
+            "Mentions of being affected by the world and affecting it",
+            "Descriptions of fundamental state as 'being-in-the-world'"
+          ],
+          "exclusion_criteria": [
+            "Emotional or relational content without reference to physical reality or facts (code under FM2)",
+            "Identity or self-worth issues (code under FM3)"
+          ],
+          "indicators": [
+            "Seeking factual information or clarity about situation",
+            "Concerns about physical safety or material conditions",
+            "Need for stability, predictability, or structure"
+          ],
+          "example_quotes": [
+            {
+              "quote": "The seeker of meaning first looks for reality, searches for facts and conditions.",
+              "citation": "Längle, 1992, p. 312"
+            }
+          ]
+        },
+        {
+          "code_id": "FM1.ST2",
+          "name": "Space & Protection (Holding Environment)",
+          "definition": {
+            "description": "Need for safe space and protection to exist without threat",
+            "quote": "Man needs space, security and protection in order to be able to exist.",
+            "citation": "Längle, 2011"
+          },
+          "inclusion_criteria": [
+            "Concerns about physical or psychological safety",
+            "Need for boundaries, containment, or protected space",
+            "Seeking shelter, refuge, or secure environment"
+          ],
+          "exclusion_criteria": [
+            "Emotional closeness or intimacy needs (code under FM2)",
+            "Need for respect or recognition (code under FM3)"
+          ],
+          "indicators": [
+            "References to feeling safe or unsafe",
+            "Descriptions of protective relationships or environments",
+            "Concerns about threats or dangers"
+          ]
+        },
+        {
+          "code_id": "FM1.ST3",
+          "name": "Fundamental Trust vs. Anxiety",
+          "definition": {
+            "description": "Development of basic trust in existence or anxiety when this is absent",
+            "quote": "If these conditions are met the person will experience fundamental trust and confidence in him/herself and may also have faith.",
+            "citation": "Längle, 2011"
+          },
+          "inclusion_criteria": [
+            "Expressions of trust or mistrust in world/existence",
+            "Descriptions of feeling grounded or groundless",
+            "References to faith or absence of faith"
+          ],
+          "exclusion_criteria": [
+            "Trust in specific relationships (code under FM2)",
+            "Self-trust or self-confidence issues (code under FM3)"
+          ],
+          "indicators": [
+            "Feeling able or unable to cope with life",
+            "Sense of having or lacking foundation",
+            "Existential security or insecurity"
+          ]
+        },
+        {
+          "code_id": "FM1.ST4",
+          "name": "Meaning as Orientation by Reality/Truth",
+          "definition": {
+            "description": "Meaning requires orientation to what is true and real",
+            "quote": "Meaning is therefore always orientation by the true, by what is and by what is experienced as reality. Meaning is unconditionally realistic. The person living meaningfully will face and grasp the facts.",
+            "citation": "Längle, 1992, p. 312"
+          },
+          "inclusion_criteria": [
+            "Seeking truth or reality as foundation for decisions",
+            "Reality testing or fact-checking behavior",
+            "Commitment to facing facts rather than avoiding them"
+          ],
+          "exclusion_criteria": [
+            "Evaluating whether reality is good/pleasant (code under FM2)",
+            "Judging whether reality is fair/just (code under FM3)"
+          ],
+          "indicators": [
+            "Emphasis on seeing things as they really are",
+            "Distinguishing fact from fiction or wishful thinking",
+            "Grounding decisions in reality"
+          ]
+        }
+      ],
+      "assessment_questions": [
+        "Can I be here?",
+        "Is there space for me?",
+        "Do I feel protected and supported?",
+        "Can I trust in my existence?"
+      ]
+    },
+    {
+      "FM_order": 2,
+      "domain_id": "FM2",
+      "code": "2FM_LIFE_EMOTIONS",
+      "name": "Second Fundamental Motivation: Life – Dealing with Relationships and Emotions",
+      "theme_name": "The ability to feel value/life",
+      "subtitle": "Fundamental Motivation of Life/Value",
+      "core_task": "Coming to terms with the reality of one's life",
+      "existential_question": "I am alive – do I like this fact? Is it good to be there?",
+      "noetic_framework": {
+        "noetic_content": "ATTRACTIVE (value)",
+        "noetic_motivation": "Will to value",
+        "noetic_mode_of_experience": "like",
+        "epistemological_chain": "understand → coherence"
+      },
+      "existential_needs": [
+        "Value",
+        "Feeling",
+        "Value-Relation",
+        "Relationship",
+        "Time",
+        "Closeness",
+        "Being appreciated for what one is"
+      ],
+      "positive_outcomes": [
+        "Fundamental Value",
+        "Harmony",
+        "Sense of Depth of Life",
+        "Joy in living",
+        "Emotional resonance"
+      ],
+      "negative_outcomes_if_unmet": [
+        "Longing",
+        "Coldness",
+        "Depression",
+        "Emotional Death",
+        "Emptiness in relationships"
+      ],
+      "psychopathology_correlations": {
+        "extreme_failure": "Depression (affective disorder, mood disorder)",
+        "description": "When fundamental value in life and relationships is severely compromised"
+      },
+      "coping_reactions_when_blocked": {
+        "basic_reaction": {
+          "type": "Regression",
+          "description": "Returning to earlier, more dependent modes of relating"
+        },
+        "activism": {
+          "type": "Overprotection or Achievement",
+          "description": "Attempting to create value through excessive caretaking or accomplishment",
+          "source_quote": "overprotection or achievement as main forms of activism",
+          "citation": "Längle, 2002"
+        },
+        "aggression": {
+          "type": "Fury or Rage",
+          "description": "Aggressive response to obtain or improve relationship",
+          "source_quote": "fury or rage (to obtain or improve relationship)",
+          "citation": "Längle, 2002"
+        },
+        "freezing": {
+          "type": "Resignation",
+          "description": "Giving up on possibility of value and relationship",
+          "source_quote": "resignation (feigned death paralyzed half-way)",
+          "citation": "Längle, 2002"
+        }
+      },
+      "sub_themes": [
+        {
+          "code_id": "FM2.ST1",
+          "name": "Feeling & Emotional Resonance",
+          "definition": {
+            "description": "Capacity to feel life and be moved by values",
+            "quote": "Man needs to feel, to be emotionally moved and touched by values in order to experience that life is worth living.",
+            "citation": "Längle, 2011"
+          },
+          "inclusion_criteria": [
+            "Descriptions of feeling moved or touched emotionally",
+            "Experiences of joy, pleasure, or appreciation",
+            "Sense of emotional aliveness or deadness"
+          ],
+          "exclusion_criteria": [
+            "Physical sensations without emotional component (code under FM1)",
+            "Ethical feelings of right/wrong (code under FM3)"
+          ],
+          "indicators": [
+            "References to feeling alive or emotionally dead",
+            "Descriptions of emotional depth or shallowness",
+            "Capacity to be moved by beauty, goodness, or value"
+          ]
+        },
+        {
+          "code_id": "FM2.ST2",
+          "name": "Relationship & Closeness",
+          "definition": {
+            "description": "Need for genuine connection and closeness with others",
+            "quote": "Man needs relationship, time and closeness to something or someone valuable.",
+            "citation": "Längle, 2011"
+          },
+          "inclusion_criteria": [
+            "Descriptions of relational connection or isolation",
+            "Experiences of intimacy or distance in relationships",
+            "Need for belonging and being valued by others"
+          ],
+          "exclusion_criteria": [
+            "Physical proximity without emotional connection (code under FM1)",
+            "Respect and recognition issues (code under FM3)"
+          ],
+          "indicators": [
+            "Seeking or avoiding emotional closeness",
+            "Quality of emotional bonds with others",
+            "Feeling loved or unloved, valued or devalued"
+          ]
+        },
+        {
+          "code_id": "FM2.ST3",
+          "name": "Time & Presence (Carpe Diem)",
+          "definition": {
+            "description": "Taking time to be present with what has value",
+            "quote": "The relation to time, whereby man feels time in his body, reverberation of life, carpe diem...",
+            "citation": "Längle, 2003"
+          },
+          "inclusion_criteria": [
+            "References to taking time, slowing down, being present",
+            "Descriptions of rushing or inability to enjoy moment",
+            "Experiences of savoring or losing touch with present"
+          ],
+          "exclusion_criteria": [
+            "Time management or planning issues (code under FM4)",
+            "Concerns about having enough time to exist (code under FM1)"
+          ],
+          "indicators": [
+            "Ability to be present vs. constantly future-oriented",
+            "Savoring experiences vs. rushing through them",
+            "Quality of attention given to valued things"
+          ]
+        },
+        {
+          "code_id": "FM2.ST4",
+          "name": "Fundamental Value vs. Depression",
+          "definition": {
+            "description": "Experience that life is fundamentally valuable or depressive absence of value",
+            "quote": "If these conditions are met, the person will have a sense for the depth of life and will perceive a fundamental value in living and relationships.",
+            "citation": "Längle, 2011"
+          },
+          "inclusion_criteria": [
+            "Expressions of life being worth living or not worth living",
+            "Sense of fundamental value or lack of value in existence",
+            "Joy in living or depressive loss of interest"
+          ],
+          "exclusion_criteria": [
+            "Concerns about whether one can be (code under FM1)",
+            "Concerns about whether one may be oneself (code under FM3)"
+          ],
+          "indicators": [
+            "Fundamental mood about life itself",
+            "Sense that living has intrinsic value or is pointless",
+            "Capacity for joy and vitality vs. depression"
+          ]
+        },
+        {
+          "code_id": "FM2.ST5",
+          "name": "Meaning as Value & Attraction",
+          "definition": {
+            "description": "Meaning involves orientation toward what is good and attractive",
+            "quote": "The second step is to find what is 'good'. Good is what we 'like', what 'touches' us... Perception is followed by an order of valuations.",
+            "citation": "Längle, 1992, p. 312"
+          },
+          "inclusion_criteria": [
+            "Evaluating what is valuable or good",
+            "Being drawn toward what touches or moves one",
+            "Making choices based on what one values"
+          ],
+          "exclusion_criteria": [
+            "Seeking truth without evaluating goodness (code under FM1)",
+            "Choosing based on duty or rightness (code under FM3)"
+          ],
+          "indicators": [
+            "Assessing whether something is good/valuable",
+            "Being attracted to or repelled by values",
+            "Emotional response guiding valuation"
+          ]
+        }
+      ],
+      "assessment_questions": [
+        "Do I like being here?",
+        "Is it good that I am alive?",
+        "Do I feel valued and appreciated?",
+        "Can I experience the depth and value of life?"
+      ]
+    },
+    {
+      "FM_order": 3,
+      "domain_id": "FM3",
+      "code": "3FM_PERSON_SELF",
+      "name": "Third Fundamental Motivation: Being a Person – Dealing with Uniqueness and Conscience",
+      "theme_name": "The ability to be oneself; to be just",
+      "subtitle": "Fundamental Motivation of Self/Justice",
+      "core_task": "Coming to terms with an awareness of one's identity",
+      "existential_question": "I am myself – may I be like this?",
+      "noetic_framework": {
+        "noetic_content": "RIGHT (relations)",
+        "noetic_motivation": "Will to the right",
+        "noetic_mode_of_experience": "may",
+        "epistemological_chain": "recognize → responsibility"
+      },
+      "existential_needs": [
+        "Justice",
+        "Respect",
+        "Appreciation",
+        "Self-Worth",
+        "Attention",
+        "Being seen for who one uniquely is"
+      ],
+      "positive_outcomes": [
+        "Self-Esteem",
+        "Authenticity",
+        "Relief",
+        "Self-Respect",
+        "Integrity"
+      ],
+      "negative_outcomes_if_unmet": [
+        "Solitude",
+        "Hysteria",
+        "Need to Hide behind Shame",
+        "Loneliness",
+        "Loss of authenticity"
+      ],
+      "psychopathology_correlations": {
+        "extreme_failure": "Histrionic or borderline personality disorders",
+        "description": "When fundamental right to be oneself is severely compromised"
+      },
+      "coping_reactions_when_blocked": {
+        "basic_reaction": {
+          "type": "Distancing Oneself",
+          "description": "Creating distance from situations that threaten authentic selfhood"
+        },
+        "activism": {
+          "type": "Stubborn Insistence and Functional Life",
+          "description": "Rigidly insisting on one's position or living functionally without authenticity",
+          "source_quote": "stubborn insistence and functional life as main forms of activism",
+          "citation": "Längle, 2002"
+        },
+        "aggression": {
+          "type": "Indignation, Annoyance, Anger, Reproach",
+          "description": "Aggressive response to perceived injustice or lack of respect",
+          "source_quote": "indignation, annoyance, anger, reproach",
+          "citation": "Längle, 2002"
+        },
+        "freezing": {
+          "type": "Dissociation and Splitting",
+          "description": "Splitting of bodily integrity, emotion and cognition",
+          "source_quote": "dissociation (of bodily integrity), dividing and splitting (of emotion and cognition)",
+          "citation": "Längle, 2002"
+        }
+      },
+      "sub_themes": [
+        {
+          "code_id": "FM3.ST1",
+          "name": "Being Seen & Attended To",
+          "definition": {
+            "description": "Need to be perceived and attended to as unique person one is",
+            "quote": "Man needs attention, respect and just appreciation in order to feel his person valued.",
+            "citation": "Längle, 2011"
+          },
+          "inclusion_criteria": [
+            "Concerns about being noticed or ignored",
+            "Need to be seen for who one uniquely is",
+            "Experiences of being recognized or overlooked"
+          ],
+          "exclusion_criteria": [
+            "General need for relationship without emphasis on being uniquely seen (code under FM2)",
+            "Need for having meaningful role or contribution (code under FM4)"
+          ],
+          "indicators": [
+            "Feeling visible or invisible to others",
+            "Being acknowledged or dismissed",
+            "Having one's uniqueness recognized"
+          ]
+        },
+        {
+          "code_id": "FM3.ST2",
+          "name": "Justice & Fair Treatment",
+          "definition": {
+            "description": "Need to be treated justly and with appropriate respect",
+            "quote": "Man needs justice, respect, and just appreciation.",
+            "citation": "Längle, 2011"
+          },
+          "inclusion_criteria": [
+            "Concerns about fair vs. unfair treatment",
+            "Experiences of justice or injustice",
+            "Need for ethical relations where one is respected"
+          ],
+          "exclusion_criteria": [
+            "Concerns about whether relationships are valuable (code under FM2)",
+            "Concerns about whether actions are morally right (code under FM4)"
+          ],
+          "indicators": [
+            "Feeling treated fairly or unfairly",
+            "Receiving appropriate respect or disrespect",
+            "Ethical quality of how one is treated by others"
+          ]
+        },
+        {
+          "code_id": "FM3.ST3",
+          "name": "Self-Worth & Self-Esteem",
+          "definition": {
+            "description": "Development of genuine self-worth and self-esteem",
+            "quote": "If these conditions are met, the person will have self-esteem and will feel authentic, and this will bring relief and self-respect.",
+            "citation": "Längle, 2011"
+          },
+          "inclusion_criteria": [
+            "Expressions of self-worth or lack thereof",
+            "Feeling good about who one is",
+            "Authentic self-acceptance or self-rejection"
+          ],
+          "exclusion_criteria": [
+            "Confidence in ability to exist/cope (code under FM1)",
+            "Sense that life is valuable (code under FM2)"
+          ],
+          "indicators": [
+            "Self-respect and self-appreciation",
+            "Feeling entitled to exist as oneself",
+            "Authentic self-expression vs. hiding"
+          ]
+        },
+        {
+          "code_id": "FM3.ST4",
+          "name": "Authenticity vs. Shame",
+          "definition": {
+            "description": "Living authentically as oneself vs. hiding behind shame",
+            "quote": "If this is not the case, the result will be solitude and loneliness; the person will feel he must hide, and will experience shame and hysteria.",
+            "citation": "Längle, 2011"
+          },
+          "inclusion_criteria": [
+            "Being genuine vs. putting on a false self",
+            "Shame about who one is",
+            "Hiding true self vs. revealing it"
+          ],
+          "exclusion_criteria": [
+            "Emotional isolation without shame component (code under FM2)",
+            "Lack of meaningful contribution (code under FM4)"
+          ],
+          "indicators": [
+            "Authentic presence vs. performing",
+            "Shame and need to hide",
+            "Feeling one may or may not be oneself"
+          ]
+        },
+        {
+          "code_id": "FM3.ST5",
+          "name": "Meaning as Right Relations & Responsibility",
+          "definition": {
+            "description": "Meaning involves orientation toward what is right in relations",
+            "quote": "The third step is to find the 'right'. What is right is that which corresponds to the relations I have in my surrounding world and in myself... it has to match with my conscience.",
+            "citation": "Längle, 1992, p. 312"
+          },
+          "inclusion_criteria": [
+            "Evaluating whether something corresponds to conscience",
+            "Assessing rightness of relations and actions",
+            "Taking responsibility for one's ethical stance"
+          ],
+          "exclusion_criteria": [
+            "Factual correctness without ethical dimension (code under FM1)",
+            "Choosing what is good/valuable without ethical consideration (code under FM2)"
+          ],
+          "indicators": [
+            "Consulting conscience about rightness",
+            "Assessing ethical appropriateness of actions",
+            "Taking responsibility for one's choices"
+          ]
+        }
+      ],
+      "assessment_questions": [
+        "May I be as I am?",
+        "Am I treated with respect and justice?",
+        "Do I have self-worth?",
+        "Can I be authentic?"
+      ]
+    },
+    {
+      "FM_order": 4,
+      "domain_id": "FM4",
+      "code": "4FM_MEANING_FUTURE",
+      "name": "Fourth Fundamental Motivation: Meaning – Dealing with Becoming, Future and Commitment",
+      "theme_name": "The ability to do good; to be creative/meaning",
+      "subtitle": "Fundamental Motivation of Meaning/Future",
+      "core_task": "To participate and be open to relationships and wider contexts (horizon) from which personal meanings are discovered",
+      "existential_question": "I am there – for what is it good?",
+      "noetic_framework": {
+        "noetic_content": "MEANING (commitment)",
+        "noetic_motivation": "Will to act / Will to meaning",
+        "noetic_mode_of_experience": "should/want",
+        "epistemological_chain": "act/know"
+      },
+      "existential_needs": [
+        "Meaning",
+        "Goal",
+        "Purpose",
+        "Future",
+        "A Field of Activity",
+        "A Structural Context",
+        "A Value to be Realized in the Future"
+      ],
+      "positive_outcomes": [
+        "Sense of Fulfillment",
+        "Dedication",
+        "Action",
+        "Religious Belief",
+        "Sense of contribution"
+      ],
+      "negative_outcomes_if_unmet": [
+        "Feeling of Emptiness",
+        "Frustration",
+        "Despair",
+        "Addiction",
+        "Absurdity"
+      ],
+      "psychopathology_correlations": {
+        "extreme_failure": "Addictions, loss of identity (psychosis), and suicidal intentions",
+        "description": "When fundamental meaning and future orientation is severely compromised"
+      },
+      "coping_reactions_when_blocked": {
+        "basic_reaction": {
+          "type": "Provisional/Planless Attitude, Collective Thinking",
+          "description": "Living day-to-day without long-term meaning or following collective without personal decision",
+          "source_quote": "his coping reactions will be a provisional attitude towards life as basic reaction, together with a 'planless, day-to-day attitude toward life' and 'collective thinking'",
+          "citation": "Längle, 2002"
+        },
+        "activism": {
+          "type": "Idealisation and Fanaticism",
+          "description": "Clinging to idealized meanings or becoming fanatic",
+          "source_quote": "idealisation and fanaticism as main forms of activism",
+          "citation": "Längle, 2002"
+        },
+        "aggression": {
+          "type": "Aggressive Games and Cynicism",
+          "description": "Cynical attitude or aggressive manipulation",
+          "source_quote": "aggressive games and cynicism",
+          "citation": "Längle, 2002"
+        },
+        "freezing": {
+          "type": "Fatalism, Loss of Interest, Apathy, Nihilism",
+          "description": "Giving up on possibility of meaning",
+          "source_quote": "Fatalism..., loss of interest, apathy and probably nihilism can be seen as forms of freezing reactions",
+          "citation": "Längle, 2002"
+        }
+      },
+      "sub_themes": [
+        {
+          "code_id": "FM4.ST1",
+          "name": "Answering the Situation's Call",
+          "definition": {
+            "description": "Openness to what the situation asks and demands",
+            "quote": "This attitude of openness represents the existential access to meaning in life: 'What does this hour want from me, how shall I respond?'",
+            "citation": "Längle, 2011"
+          },
+          "inclusion_criteria": [
+            "Questioning what situation calls for",
+            "Responding to demands of the moment",
+            "Openness to what is asked of oneself"
+          ],
+          "exclusion_criteria": [
+            "Reacting to threats without sense of call (code under FM1)",
+            "Responding to emotional pull without future orientation (code under FM2)"
+          ],
+          "indicators": [
+            "Sensing an appeal from situation",
+            "Asking 'what is asked of me here?'",
+            "Responding to situational meaning"
+          ]
+        },
+        {
+          "code_id": "FM4.ST2",
+          "name": "Self-Transcendence & Contribution",
+          "definition": {
+            "description": "Moving beyond oneself toward greater context and making contribution",
+            "quote": "We have to transcend ourselves, if we want to find fulfillment in life and to be fertile. Without this self-transcendence... we are condemned to a life of loneliness and triviality.",
+            "citation": "Längle, 2003"
+          },
+          "inclusion_criteria": [
+            "Moving beyond self-interest toward larger context",
+            "Making contributions to others or world",
+            "Orienting toward something beyond oneself"
+          ],
+          "exclusion_criteria": [
+            "Self-sacrifice without genuine transcendence (code under FM2 or FM3)",
+            "Following rules without personal commitment (code under FM3)"
+          ],
+          "indicators": [
+            "Focus on what one can give or contribute",
+            "Transcending personal concerns",
+            "Fertility and fruitfulness in life"
+          ]
+        },
+        {
+          "code_id": "FM4.ST3",
+          "name": "Meaning as Most Valuable Realistic Possibility",
+          "definition": {
+            "description": "Existential meaning as best possibility in situation requiring personal decision",
+            "quote": "[Meaning is] 'the most valuable, realistic possibility of the given situation, for which I feel I should decide myself.'",
+            "citation": "Längle, 2011"
+          },
+          "inclusion_criteria": [
+            "Identifying best possibility in situation",
+            "Making decisions toward valued future",
+            "Committing to realistic meaningful action"
+          ],
+          "exclusion_criteria": [
+            "Idealistic wishes disconnected from reality (may be coping reaction)",
+            "Possibilities not requiring personal decision/commitment"
+          ],
+          "indicators": [
+            "Evaluating what is most valuable and realistic",
+            "Personal decision for meaningful possibility",
+            "Integration of true, good, and right in commitment"
+          ]
+        },
+        {
+          "code_id": "FM4.ST4",
+          "name": "Field of Activity & Structural Context",
+          "definition": {
+            "description": "Need for larger context and field in which to act meaningfully",
+            "quote": "Man needs a field of activity and a structural context in order to be able to act and to realize values.",
+            "citation": "Längle, 2011"
+          },
+          "inclusion_criteria": [
+            "Seeking or having meaningful work or activity",
+            "Finding or lacking larger context for action",
+            "Having structure that enables meaningful contribution"
+          ],
+          "exclusion_criteria": [
+            "Structure for safety without meaning dimension (code under FM1)",
+            "Belonging without contribution element (code under FM2)"
+          ],
+          "indicators": [
+            "Having purposeful activity or lacking it",
+            "Structural context for realizing values",
+            "Opportunity to contribute meaningfully"
+          ]
+        },
+        {
+          "code_id": "FM4.ST5",
+          "name": "Fulfillment vs. Emptiness",
+          "definition": {
+            "description": "Experience of fulfillment through meaning or existential emptiness",
+            "quote": "If these conditions are met, the person will be capable of dedication and action and, finally, of his own form of religious belief. This adds up to the meaning of life and leads to a sense of fulfillment.",
+            "citation": "Längle, 2011"
+          },
+          "inclusion_criteria": [
+            "Sense of fulfillment or emptiness in life",
+            "Dedication to meaningful commitments",
+            "Purpose and direction vs. aimlessness"
+          ],
+          "exclusion_criteria": [
+            "Emotional emptiness without meaning deficit (code under FM2)",
+            "Lack of self-worth (code under FM3)"
+          ],
+          "indicators": [
+            "Fulfillment through meaningful action",
+            "Existential frustration or emptiness",
+            "Sense of life having or lacking purpose"
+          ]
+        },
+        {
+          "code_id": "FM4.ST6",
+          "name": "Sequence of Meaning Discovery",
+          "definition": {
+            "description": "Process of finding meaning through true, valuable, and right toward decision",
+            "quote": "The seeker of meaning first looks for reality, searches for facts and conditions... Perception is followed by an order of valuations... at the third step... enters a personal relation by making a decision.",
+            "citation": "Längle, 1992"
+          },
+          "inclusion_criteria": [
+            "Following sequence: reality → value → rightness → decision",
+            "Integrating all three noetic motivations in finding meaning",
+            "Process of discernment leading to commitment"
+          ],
+          "exclusion_criteria": [
+            "Decisions made without proper grounding in reality, value, or rightness",
+            "Impulsive action without meaning discovery process"
+          ],
+          "indicators": [
+            "Systematic approach to finding meaning",
+            "Integration of facts, values, and ethics",
+            "Personal decision emerging from full process"
+          ]
+        }
+      ],
+      "transcendent_dimension": {
+        "name": "Transcendent Meaning (Will to final commitment)",
+        "description": "Beyond existential meaning toward metaphysical transcendence",
+        "central_area": "Transcendence",
+        "epistemological_chain": "believe",
+        "noetic_mode_of_experience": "pray",
+        "source_quote": "The seeker of meaning will then have to decide whether his search demands action and personal involvement (existential meaning) or refers to a 'meaning beyond' (Frankl) and the metaphysical transcendence.",
+        "citation": "Längle, 1992"
+      },
+      "assessment_questions": [
+        "What is it good for that I am here?",
+        "Do I have a purpose?",
+        "Can I contribute something meaningful?",
+        "What does the situation ask of me?"
+      ]
+    }
+  ],
+  "coding_guidelines": {
+    "purpose": "Use this codebook to identify and code participant testimony related to the four fundamental motivations",
+    "hierarchical_structure": "Code using FM1-FM4 as primary domains, with sub-codes (e.g., FM1.ST1) for specific themes",
+    "application_principles": [
+      "Identify which FM(s) are being addressed in participant testimony",
+      "Note whether existential needs are being met or unmet",
+      "Recognize coping reactions when FMs are blocked",
+      "Track progression through personal activities toward positive outcomes",
+      "Identify presence of negative outcomes when needs unmet",
+      "Consider both existential and ontological dimensions of meaning",
+      "Attend to phenomenological understanding - meaning as discovered not invented",
+      "Use direct quotes from sources to support coding decisions"
+    ],
+    "temporal_analysis_framework": {
+      "before_intervention": "Assess baseline state across all 4 FMs, noting blocked needs, coping reactions, and negative outcomes",
+      "during_intervention": "Track engagement with FM-related themes and needs, noting shifts in how FMs are being addressed",
+      "after_intervention": "Evaluate changes in fulfillment of FMs and outcomes, comparing to baseline"
+    },
+    "integration_notes": [
+      "All 4 FMs are interconnected and build upon each other hierarchically",
+      "Earlier FMs provide foundation for later ones (FM1→FM2→FM3→FM4)",
+      "Blockages in earlier FMs may prevent fulfillment of later ones",
+      "Meaning (FM4) requires adequate resolution of FMs 1-3",
+      "Each FM contributes its dimension to finding meaning: reality (FM1), value (FM2), rightness (FM3), commitment (FM4)"
+    ],
+    "coping_reactions_framework": {
+      "description": "Four types of coping reactions when FM is blocked",
+      "types": [
+        "Basic Reaction: Primary response pattern specific to each FM",
+        "Activism: Paradoxical overactivity attempting to force fulfillment",
+        "Aggression: Aggressive response specific to the blocked need",
+        "Freezing: Paralytic withdrawal or giving up"
+      ],
+      "coding_note": "Identify which type(s) of coping reaction present when needs unmet"
+    },
+    "exclusion_criteria": {
+      "general": "Only code content that directly relates to described themes with supporting evidence from source materials",
+      "specific_exclusions": [
+        "Themes or sub-themes not directly supported by source documents",
+        "Contemporary psychological constructs not mentioned in sources (unless explicitly present)",
+        "Unsubstantiated interpretations beyond what is stated in sources"
+      ]
+    }
+  },
+  "research_applications": {
+    "qualitative_coding": "Use FM codes and sub-codes to systematically analyze participant transcripts",
+    "mixed_methods": "Combine with quantitative measures of existential fulfillment or psychopathology",
+    "intervention_assessment": "Track changes across FMs before, during, and after therapeutic intervention",
+    "case_formulation": "Use FM framework to understand individual's existential situation and therapeutic needs",
+    "outcome_evaluation": "Assess whether intervention addressed blocked FMs and facilitated positive outcomes"
+  },
+  "clinical_applications": {
+    "assessment": "Use FM questions to assess client's existential situation across all four domains",
+    "treatment_planning": "Identify which FMs are blocked and plan interventions accordingly",
+    "process_monitoring": "Track client's progress in addressing FM-related needs during therapy",
+    "relational_focus": "Emphasize dialogical nature of therapy - therapist's presence addresses FM1-FM3 needs",
+    "meaning_facilitation": "Support client's process of discovering (not inventing) personal meaning through FM4 work"
+  },
+  "notes": [
+    "Version 5.0 represents comprehensive integration of three parallel v4.0 developments",
+    "ChatGPT v4.0 contributed detailed coding structure with specific sub-theme IDs and extensive quotes",
+    "Claude v4.0 contributed theoretical depth, phenomenological approach, and comprehensive documentation",
+    "Gemini v4.0 contributed clean organization, noetic framework, and conceptual clarity",
+    "This codebook is grounded exclusively in the four source documents by Alfried Längle",
+    "Längle (2002) and Längle (2011) contain identical content - both citations maintained for transparency",
+    "The shift from Frankl's individualistic 'will to meaning' to modern EA's interpersonal/dialogical paradigm is documented",
+    "Phenomenological approach emphasizes meaning as discovered through personal evidence, not invented or subjectively attributed",
+    "All four FMs work together in hierarchical fashion to enable full existential fulfillment",
+    "Future versions may add clinical examples and additional indicators based on research application"
+  ]
+}

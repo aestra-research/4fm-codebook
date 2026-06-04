@@ -1,0 +1,1319 @@
+{
+  "_attribution": {
+    "created_by": "Graham Nelson-Zutter",
+    "copyright": "©2026 Aestra Inc. except when external source noted.",
+    "license": "CC BY-NC-ND-4.0"
+  },
+  "codebook_metadata": {
+    "title": "Existential Analysis & Logotherapy Four Fundamental Motivations (4FMs) Codebook",
+    "version": "3.3",
+    "date_created": "2025-10-26",
+    "date_updated": "2025-10-26",
+    "purpose": "Interpretive thematic analysis of therapeutic intervention participant testimony",
+    "methodology": "Thematic analysis using 4FMs as primary domains",
+    "sources_included": 4,
+    "created_by": "Graham Nelson-Zutter",
+    "copyright": "©2026 Aestra Inc. except when external source noted.",
+    "license": "CC BY-NC-ND-4.0"
+  },
+  "sources": [
+    {
+      "source_id": "source_001",
+      "citation": "Längle, A. (2011). The Existential Fundamental Motivations Structuring the Motivational Process. In D. A. Leontiev (Ed.), Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Publishers. https://laengle.info/userfile/doc/FM-+-motivation---Leontev-Mosc-2002-2011-publ.pdf"
+    },
+    {
+      "source_id": "source_002",
+      "citation": "Längle, A. (2003). The Art of Involving the Person – Fundamental Existential Motivations as the Structure of the Motivational Process. European Psychotherapy, 4(1), 25–36."
+    },
+    {
+      "source_id": "source_003",
+      "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27–42). Nova Science Pub Inc. https://laengle.info/userfile/doc/FM-+-motivation---Leontev-Mosc-2002-2011-publ.pdf"
+    },
+    {
+      "source_id": "source_004",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), 306–314. https://doi.org/10.3138/uram.15.4.306"
+    }
+  ],
+  "existential_analysis_definition": {
+    "description": "Scientific definition of Existential Analysis as a psychotherapy approach",
+    "source_quote": "A scientifically definition of Existential Analysis describes it as a phenomenological-personal psychotherapy with the aim of enabling a person to experience his life freely at the spiritual and emotional levels, to arrive at authentic decisions and to come to a responsible way of dealing with himself and the world around.",
+    "citation": "Längle (2002, p. 3)"
+  },
+  "theoretical_foundation": {
+    "description": "Four fundamental structures or 'cornerstones of existence' that require continuous dialogical confrontation and exchange",
+    "source_quotes": [
+      {
+        "quote": "All preconditions of existence can be summarized in four fundamental structures, the 'cornerstones of existence': the world in its factuality and potentiality; life with its network of relationships and its feelings; being oneself as a unique, autonomous person; the wider context where to place oneself = development through one's activities, opening one's future",
+        "citation": "Längle (2011, p. 35)"
+      },
+      {
+        "quote": "All preconditions of existence can be summarized in four fundamental structures, the 'cornerstones of existence': • the world in its factuality and potentiality • life with its network of relationships and its feelings • being oneself as a unique, autonomous person • the wider context in which to place oneself = development through one's activities, opening one's activities, opening one's future",
+        "citation": "Längle (2003, p. 31)"
+      },
+      {
+        "quote": "Human existence is based on these fundamental realities – they are the four cornerstones of existence according to the modern existential analytical theory.",
+        "citation": "Längle (2002, p. 4)"
+      }
+    ],
+    "phenomenological_approach": {
+      "description": "Phenomenological method and its role in Existential Analysis",
+      "phenomenology_explanation": {
+        "source_quote": "phenomenology tries to ensure its findings by using the subjective intelligence, feeling and sensing, which the old Greek called 'nous'. This is the individual capacity of understanding and for evidence and needs dialogical exchange. To come along with this it implies a trained viewing of the facts as they are and as they show themselves to be. Phenomena ('things') are 'speaking to us' and they 'speak themselves' (Heidegger). If we don't give way to that we are already manipulating them, trying to control or to possess them.",
+        "citation": "Längle (2002, pp. 1-2)"
+      },
+      "epoche": {
+        "description": "Setting aside judgements, theories and knowledge",
+        "source_quote": "This phenomenological attitude implies to let aside all judgements, theories and knowledge (this activity is called 'epoché').",
+        "citation": "Längle (2002, p. 2)"
+      },
+      "phenomenological_results": {
+        "source_quote": "phenomenology results in understanding the subjective, individual, unique – the 'essence' and its specific way to be related and to appear in the world.",
+        "citation": "Längle (2002, p. 2)"
+      },
+      "central_theme": {
+        "source_quote": "Our approach being phenomenological has as a consequence the central theme of existential psychotherapy being the essence of the person: his free will. The human potential to decide represents the basic tool for a fulfilling existence.",
+        "citation": "Längle (2002, p. 2)"
+      },
+      "phenomenological_understanding_of_meaning": {
+        "description": "Meaning is not purely subjectivistic attribution but phenomenologically grounded",
+        "source_quotes": [
+          {
+            "quote": "According to this practical experience meaning may be subjective in relation to standpoint, chosen perspective and broadness of horizon, in which a problem is seen. It is, however, not only subjective, but also correlatively bound to a trans-subjective object. Meaning is therefore comparable to perception in that a great portion of it is also - but never entirely - subjectively determined.",
+            "citation": "Längle (1992, p. 307)"
+          },
+          {
+            "quote": "Therefore any understanding of meaning, where it is reduced to mere subjectivistic attribution, must be left behind for reasons of the one-sidedness mentioned and replaced by a phenomenological understanding of meaning. Out of 'responsibility to the thing itself' it will not wilfully and arbitrarily deal with (subjective and objective!) reality.",
+            "citation": "Längle (1992, p. 307)"
+          },
+          {
+            "quote": "When the suffering person cries out that he can 'see' no meaning in life, he means exactly that: the meaning of life cannot be invented, but must be found (Frankl, 1982a, p. 57).",
+            "citation": "Längle (1992, p. 307)"
+          }
+        ]
+      },
+      "personal_evidence": {
+        "description": "Meaning must pass the 'needle's eye of personal evidence'",
+        "source_quote": "Experience shows that meaning can only be accepted when it has passed the 'needle's eye of personal evidence' (Längle, 1985, pp. 84ff.), whereby alone the relevance of a new meaning becomes intelligible.",
+        "citation": "Längle (1992, p. 307)"
+      }
+    },
+    "conceptual_basis": {
+      "dialogical_structure": [
+        {
+          "description": "Motivation emerges from dialogical exchange between subject and environment",
+          "source_quote": "Motivation is a process of continuous exchange between the subject—individual—and the environment. From an existential perspective, we see this exchange as having a dialogical structure, connecting the given reality of both subject and object with the intentions of the individual.",
+          "citation": "Längle (2011, p. 27)"
+        },
+        {
+          "description": "Motivation as dialogical movement toward goals",
+          "source_quote": "motivation essentially involves the person (with his or her specific ability to make decisions) in his or her world. Thus, motivation may thus be defined as a process in dialogical movement from the present, given reality towards the person's goals and intentions.",
+          "citation": "Längle (2003, p. 25)"
+        }
+      ],
+      "being_in_the_world": [
+        {
+          "description": "Being-in-the-world as basis for motivation",
+          "source_quote": "Seen in that light, the notion of 'being-in-the-world' provides the ground, on which personal forces are activated. This happens by a perceptive encounter with some form of otherness or with oneself.",
+          "citation": "Längle (2003, p. 30)"
+        },
+        {
+          "description": "Heidegger's concept of Dasein applied to motivation",
+          "source_quote": "Or as Heidegger has defined it: Being a person, 'Dasein', means 'being-in-the-world', means dealing with 'otherness'.",
+          "citation": "Längle (2003, p. 28)"
+        },
+        {
+          "description": "Being-in-the-world as fundamental ontological experience",
+          "source_quote": "This 'being-in-the-world' (Heidegger) is the fundamental state man finds himself in, his basic ontological experience.",
+          "citation": "Längle (1992, p. 310)"
+        }
+      ],
+      "interpersonal_paradigm": {
+        "description": "Dialogical essence of personhood as complement to individualistic paradigm",
+        "source_quote": "We have enlarged our motivational concept by basing it on the most original activity of personhood: Our being essentially dialogical, prone to and directed towards exchange with others. Being oneself, finding oneself needs the field of tension of the 'inter-', the 'between', the 'aida' as the Japanese say",
+        "citation": "Längle (2003, p. 28)"
+      },
+      "provocation": [
+        {
+          "description": "Provocation as starting point for motivation",
+          "source_quote": "Being provoked means being called. This provocation is the starting point for any motivation.",
+          "citation": "Längle (2003, p. 29)"
+        },
+        {
+          "description": "How provocation occurs through confrontation",
+          "source_quote": "We get the necessary provocation through everything which confronts us, which challenges us, which engages us. At exactly that moment the object before us starts 'speaking' to us.",
+          "citation": "Längle (2003, p. 29)"
+        },
+        {
+          "description": "Dialogical beings waiting for completion by partner",
+          "source_quote": "As dialogical beings we expect and look for something or someone who 'speaks' to us, calls us, needs us, talks to us, looks for us, challenges us.",
+          "citation": "Längle (2003, p. 29)"
+        }
+      ],
+      "existential_claim": {
+        "description": "Fundamental realities claim our inner position and decision",
+        "source_quote": "They can be called 'existential' for one central reason: they claim our own inner position towards them. They ask for our decision on how we want to relate to them, thus challenging our activity and our response to change and work on our reality until we can give our inner consent – a consent which we give no longer merely to what we do but also to what we live.",
+        "citation": "Längle (2002, p. 4)"
+      }
+    },
+    "fundamental_motivations_definition": {
+      "description": "Relationship between existential structure and motivation",
+      "source_quote": "As the structure of human existence these realities are basically involved in every motivation and can therefore also be called the 'fundamental existential motivations'",
+      "citation": "Längle (2002, p. 4)"
+    }
+  },
+  "meaning_framework": {
+    "description": "Comprehensive framework for understanding the search for meaning in Existential Analysis",
+    "four_aspects_of_meaning": {
+      "description": "Psychological understanding of meaning has four aspects",
+      "source_quote": "Accordingly, the psychological understanding of meaning always has four aspects: Firstly it is objective 'on the basis of its situational reference' (Frankl, 1982a, p. 56). Secondly, meaning is relative, with regard to the person it is relating to, as well as to further linkages of the situation itself. Thirdly, it is subjective, in that it can only be recognised and realised by the person involved in the respective situation. Beyond these characteristics (Frankl, 1982a, pp. 55ff.) meaning is, fourthly, always appellative by its character of challenge (Frankl, 1982a, pp. 52-57), urging the subject with its typical call to 'do something with me!'",
+      "citation": "Längle (1992, p. 308)",
+      "aspects": [
+        {
+          "aspect": "Objective",
+          "description": "Meaning is objective on the basis of its situational reference",
+          "source_quote": "Firstly it is objective 'on the basis of its situational reference' (Frankl, 1982a, p. 56).",
+          "citation": "Längle (1992, p. 308)"
+        },
+        {
+          "aspect": "Relative",
+          "description": "Meaning is relative to the person and situation linkages",
+          "source_quote": "Secondly, meaning is relative, with regard to the person it is relating to, as well as to further linkages of the situation itself.",
+          "citation": "Längle (1992, p. 308)"
+        },
+        {
+          "aspect": "Subjective",
+          "description": "Meaning can only be recognized and realized by the person involved",
+          "source_quote": "Thirdly, it is subjective, in that it can only be recognised and realised by the person involved in the respective situation.",
+          "citation": "Längle (1992, p. 308)"
+        },
+        {
+          "aspect": "Appellative",
+          "description": "Meaning has a challenging character that calls for action",
+          "source_quote": "Beyond these characteristics (Frankl, 1982a, pp. 55ff.) meaning is, fourthly, always appellative by its character of challenge (Frankl, 1982a, pp. 52-57), urging the subject with its typical call to 'do something with me!'",
+          "citation": "Längle (1992, p. 308)"
+        }
+      ]
+    },
+    "when_meaning_poses_itself": {
+      "description": "The question of meaning presents itself explicitly and implicitly",
+      "explicit_loss_of_meaning": {
+        "description": "Meaning question forces itself upon man during phases when meaning is lost",
+        "source_quote": "We observe that the question explicitly forces itself upon man during phases when meaning is lost (Frankl, 1982a, pp. l 8ff.; Längle, 1985, p. 85).",
+        "citation": "Längle (1992, p. 308)",
+        "categories_of_loss": [
+          {
+            "category": "Loss of value",
+            "description": "Loss during illness, suffering, death or sorrow",
+            "source_quote": "Here primarily losses of value should be mentioned: During illness, suffering, death or sorrow, which call for a special attitude in man.",
+            "citation": "Längle (1992, p. 308)",
+            "frankl_value_category": "Attitudinal values in the face of inevitable suffering"
+          },
+          {
+            "category": "Loss of orientation",
+            "description": "Lack of orientation in work, even with success",
+            "source_quote": "Loss of meaning, however, is also a frequent phenomenon in the area of work. Not even success serves as protection. Just at the point where work loses its quality of necessity for life, a vacuum of orientation is formed and causes the afflicted person to indeed have everything he can live from, but nothing more he can live for (Frankl, 1982b, p. 11; pp. 239ff.).",
+            "citation": "Längle (1992, p. 308)",
+            "frankl_value_category": "Creative values"
+          },
+          {
+            "category": "Loss of relations",
+            "description": "Lack of relations causing existential vacuum",
+            "source_quote": "Besides loss of value and lack of orientation in work, lack of relations is another phenomenon causing the existential vacuum (Frankl, 1982a, pp. 7, 18f.). This abounds wherever life is experienced. Living without relating dwindles to boring and joyless consumption.",
+            "citation": "Längle (1992, p. 308)",
+            "frankl_value_category": "Experiential values",
+            "manifestations": {
+              "source_quote": "The accompanying emptiness and lack of meaning cannot even be denied by our 'culture of consumption', manifesting itself more and more in drug-addiction, alcoholism, vandalism, emigration from society and higher suicide rates.",
+              "citation": "Längle (1992, p. 308)"
+            }
+          }
+        ]
+      },
+      "implicit_presence": {
+        "description": "Meaning is implicitly present at all times",
+        "source_quote": "The question of meaning poses itself explicitly not only in times of loss, but is also always implicitly present at all those times of life, when in case of trouble its missing is painfully experienced.",
+        "citation": "Längle (1992, pp. 308-309)"
+      },
+      "fundamental_orientation": {
+        "description": "Man is fundamentally oriented towards meaning",
+        "source_quotes": [
+          {
+            "quote": "In Frankl's view man is fundamentally oriented towards meaning. Our search for meaning is 'so highly integrated in the human condition, that we cannot avoid 'looking for meaning' until we believe we have found it' (Frankl, 1982a, p. 253).",
+            "citation": "Längle (1992, p. 309)"
+          },
+          {
+            "quote": "According to Frankl, therefore, 'human being is always a being toward meaning, however little it might know it ... Whether he wants it or not, whether he thinks it true or not, man believes in a meaning as long as he breathes' (Frankl, 1982a, p. 221).",
+            "citation": "Längle (1992, p. 309)"
+          },
+          {
+            "quote": "For Frankl (1982a, p. 253) the struggle for meaning is such a fundamental anthropological category, that he terms it as an 'a priori' with reference to Kant or as an 'Existential' according to Heidegger.",
+            "citation": "Längle (1992, p. 309)"
+          }
+        ]
+      }
+    },
+    "why_man_asks_for_meaning": {
+      "description": "Man is equipped with subjective criteria showing that actions are not of equal value",
+      "source_quote": "Man is equipped with clear subjective criteria to show him and to make him realise that what he does and does not do is not of equal value.",
+      "citation": "Längle (1992, p. 309)",
+      "experiential_verification": {
+        "source_quote": "as long as I experience my life as meaningful, what I do and not do is never of equal value; when everything, however, seems 'one and the same', my life loses its features of preference, necessity and secondary things, and I will experience it as meaningless.",
+        "citation": "Längle (1992, p. 309)"
+      }
+    },
+    "three_experiences_preceding_meaning": {
+      "description": "Three phenomena precede the question of meaning, enclosing its essence like a three-sided pyramid",
+      "source_quote": "Three phenomena precede the question of meaning, enclosing the essence of the question like a three-sided pyramid. These are the three experiences man is always exposed to: 1) He observes effects. 2) He experiences different grades of value for things and events. 3) He experiences consequences.",
+      "citation": "Längle (1992, p. 309)",
+      "relief_of_meaning": {
+        "source_quote": "Life receives a structure of heights and depths by these experiences, forming its (e.g., biographically) characteristic plasticity. These three experiences (Figure 1) form a 'relief' of heights and shadows out of each situation, which consequently leads to the discovery of relations through orientation in the midst of recognized values. It is this relief of meaning that lifts a human life out of the animalistic flatness of causal sequences of drives and instincts and endows one with a spiritual dimension.",
+        "citation": "Längle (1992, p. 309)"
+      },
+      "experiences": [
+        {
+          "experience": 1,
+          "name": "Recognizing effects",
+          "description": "Recognizing the network of effects between man and world: coming into being and passing away",
+          "citation": "Längle (1992, Figure 1, p. 310)"
+        },
+        {
+          "experience": 2,
+          "name": "Experiencing value",
+          "description": "Experiencing the different value of things",
+          "citation": "Längle (1992, Figure 1, p. 310)"
+        },
+        {
+          "experience": 3,
+          "name": "Experiencing consequences",
+          "description": "Experiencing consequences in: a) present and future effects on life by what has been done (responsibility), b) the right to live amidst all of life's relations, especially the social structure (justification)",
+          "citation": "Längle (1992, Figure 1, p. 310)"
+        }
+      ],
+      "challenging_character": {
+        "source_quote": "(In Sum:) being moved by the challenging character of things",
+        "citation": "Längle (1992, Figure 1, p. 310)"
+      }
+    },
+    "threefold_question_of_meaning": {
+      "description": "Meaning appears as a complex term requiring discussion of three noetic areas: the true, the valuable, and the right",
+      "source_quote": "At a closer view meaning appears as a complex term, requiring a discussion of three noetic areas: the true, the valuable, and the right. All of this is present in a real sense: with only one of these three sides missing, the meaning of life turns into a frustrating semblance of meaning.",
+      "citation": "Längle (1992, p. 312)",
+      "ontological_question": {
+        "level": "Ontological",
+        "central_area": "TRUE (reality)",
+        "question": "Why is it at all and how does it relate to other things? How do I relate?",
+        "description": "Question to the ground out of which things are and out of which man himself is",
+        "source_quotes": [
+          {
+            "quote": "Man sees that the world is continually effecting him. Acting, he realises that he in turn has an effect on the world. In this way he experiences his special relation with the world, in which he stands.",
+            "citation": "Längle (1992, p. 309)"
+          },
+          {
+            "quote": "In this way the very fact that things exist in their network of effects on one's own existence is a reason to ask about the meaning of being. Man asks: 'Why is it at all and how does it relate to other things? How do I relate?'",
+            "citation": "Längle (1992, pp. 309-310)"
+          },
+          {
+            "quote": "The question of meaning on the ontological level is a question to the ground out of which things are and out of which man himself is (Grundfrage)! When man asks about the ground for things and for his own being, he is asking the ontological question of meaning.",
+            "citation": "Längle (1992, p. 310)"
+          },
+          {
+            "quote": "It is carried by the wonder at the incomprehensibility and the anticipation that all things in the universe must be interrelated. What man can grasp of it, is the only question. He looks for the answer given to him by religion and the 'philosophical astonishment' (Jaspers).",
+            "citation": "Längle (1992, p. 310)"
+          }
+        ],
+        "motivation": "Will to be",
+        "epistemological_chain": "know (explain) → facts",
+        "psychological_chain": "perceive",
+        "mode_of_experience": "can",
+        "relational_modes": "see ↔ be seen",
+        "meaning_as_orientation": {
+          "source_quote": "Meaning is therefore always orientation by the true, by what is and by what is experienced as reality. Meaning is unconditionally realistic. The person living meaningfully will face and grasp the facts. He needs their ground to hold and support him, in order to act and receive effects. He wants to be perceived by others in the same way, wants to be seen as what he is with his specific faculties.",
+          "citation": "Längle (1992, p. 312)"
+        },
+        "value_of_being": {
+          "source_quote": "He not only knows that he is, but that in itself it is also good to be (Längle, 1984, pp. 52ff.).",
+          "citation": "Längle (1992, p. 310)"
+        }
+      },
+      "axiological_question": {
+        "level": "Axiological",
+        "central_area": "ATTRACTIVE (value)",
+        "question": "What is good about it? What is it good for?",
+        "description": "Question about the value and goodness of things",
+        "source_quotes": [
+          {
+            "quote": "This is not only a factual experience, however, but fundamentally an experience of value. He not only knows that he is, but that in itself it is also good to be (Längle, 1984, pp. 52ff.). With this finality things of the world rise out of the grey dawn of mere presence and receive the colour of value.",
+            "citation": "Längle (1992, p. 310)"
+          },
+          {
+            "quote": "Because now they are connected with the value of being - and with regard to that, things are more or less good, beneficial or harmful, useful or obstructive. Man senses that it matters what becomes of things and which effects result.",
+            "citation": "Längle (1992, p. 310)"
+          },
+          {
+            "quote": "For reasons of his axiological predisposition, based on the ability to experience the value of his own life, man knows the exceptional preciousness of human existence, the value of being addressed by the incentive of his world. He knows that it is not the same, which effects he causes, and that it makes a difference whether something is and what becomes of it.",
+            "citation": "Längle (1992, p. 310)"
+          },
+          {
+            "quote": "Man continually faces the axiological question of meaning: 'What is good about it?', 'What is it good for?' This expresses what Frankl (1982a, p. 221) calls the 'will to meaning'.",
+            "citation": "Längle (1992, pp. 310-311)"
+          }
+        ],
+        "motivation": "Will to value",
+        "epistemological_chain": "understand → coherence",
+        "psychological_chain": "valuate",
+        "mode_of_experience": "like",
+        "relational_modes": "give ↔ receive",
+        "quality_of_good": {
+          "source_quote": "The quality 'good' arises from the sensing of value and out of the relation in which the observed object on the basis of highly personal intuition is seen together with everything that holds value. This synopsis is achieved by conscience which Frankl (1982a, p. 56) therefore also calls the 'organ to find meaning' (Sinn-Organ).",
+          "citation": "Längle (1992, p. 311)"
+        },
+        "projective_design": {
+          "source_quote": "In this way the 'will to value' is no more concerned with a final-genetic web of relations, but with a projective-axiological design of future possibilities.",
+          "citation": "Längle (1992, p. 311)"
+        },
+        "meaning_as_value": {
+          "source_quote": "At the same time, search for meaning includes the desire for the attractive, the desire for dealing with the valuable which man wants to give as much as to receive.",
+          "citation": "Längle (1992, p. 312)"
+        }
+      },
+      "existential_ethical_question": {
+        "level": "Existential/Ethical",
+        "central_area": "RIGHT (relations)",
+        "question": "What should I do with it? What do I do as a free, creative and responsible person?",
+        "description": "Question about active coming-into-relation-with, responsibility and justification",
+        "source_quotes": [
+          {
+            "quote": "Now, in full daylight, things receive their full depth and plasticity in a third step, at the point when mans asks: 'What should I do with them?' With this question he reaches the level of active coming-into-relation-with (relational aspect of the question of meaning)",
+            "citation": "Längle (1992, p. 311)"
+          },
+          {
+            "quote": "It is a need pointing toward action, which man has developed a special sense for: He experiences things not only as ontologically given and not only as an axiological incentive but also knows the world as existentially challenging. The things that are there continually face him as the deciding person with the question: 'What are you doing to do with it?' This is the existential question of meaning.",
+            "citation": "Längle (1992, p. 311)"
+          },
+          {
+            "quote": "He finds himself up against the question: 'What do I do as a free, creative and responsible person in the middle of this world?' This is how man knows himself as fundamentally questioned in his existence (Längle, 1988, pp. lOff.), challenged towards his contribution to the formation of this life and this world in the knowledge of an indispensable relation, personal responsibility and justification.",
+            "citation": "Längle (1992, p. 311)"
+          },
+          {
+            "quote": "He himself must give the answer by his active existence (Frankl, 1973, p. 6lf). Here man knows himself as no more dependent on any answer to meaning outside of himself (e.g., depending from a Creator), but realises that existential meaning comes out of himself - his own free person.",
+            "citation": "Längle (1992, p. 311)"
+          }
+        ],
+        "motivation": "Will to the right",
+        "epistemological_chain": "recognise → responsibility",
+        "psychological_chain": "choose/decide",
+        "mode_of_experience": "may",
+        "relational_modes": "do ↔ experience",
+        "responsibility_and_justification": {
+          "source_quotes": [
+            {
+              "quote": "By investing and realising himself in this way, man is satisfying his will to justify his existence. His will to justification arises out of the necessity to be at home and accepted in the social structure, as well as in the structure of biographical life, where everything he has done, finally has to do with himself. This is what man experiences as responsibility.",
+              "citation": "Längle (1992, p. 311)"
+            },
+            {
+              "quote": "Finally, the need for relations is alive in meaning, for relating to oneself (responsibility) as well as to others, which enables the justification of existence.",
+              "citation": "Längle (1992, p. 312)"
+            }
+          ]
+        },
+        "existential_meaning_definition": {
+          "source_quote": "The existential question of meaning leads up to the decision about the best possibility in a situation, which might also stand as a definition for existential meaning.",
+          "citation": "Längle (1992, p. 311)"
+        }
+      },
+      "integration_to_action": {
+        "description": "The three questions lead to will to meaning and will to act",
+        "source_quotes": [
+          {
+            "quote": "In this way man finally becomes ready to act, after he has ultimately arrived at the 'will to meaning' by the steps of the three noetic motivations. Knowing at this point what he can do, what he wants to do and what he may do, he finally realises what he should do - ready to engage himself thanks to his will to act.",
+            "citation": "Längle (1992, pp. 311-312)"
+          },
+          {
+            "quote": "In the way he actively answers, however, he shows all of his understanding and sensing of the preceding ontological and axiological questions of meaning. The law of the universe, apprehended in the ontological sense, is valid for the world as well as for him. It unfolds in the creative power of the Nous, striving to put meaning into action along axiological tracks.",
+            "citation": "Längle (1992, p. 311)"
+          }
+        ],
+        "level": "Existence/Action",
+        "central_area": "MEANING (commitment)",
+        "motivation": "Will to act / Will to meaning / Will to final commitment",
+        "epistemological_chain": "act/know / believe",
+        "psychological_chain": "work/accomplish / pray",
+        "mode_of_experience": "should/want"
+      }
+    },
+    "steps_to_finding_meaning": {
+      "description": "Psychotherapy leads to the finding of meaning via several steps corresponding to fundamental aspects",
+      "source_quote": "According to the fundamental aspects of meaning (Table l), psychotherapy leads to the finding of meaning via several steps (Längle, 1988, pp. 42ff.).",
+      "citation": "Längle (1992, p. 313)",
+      "steps": [
+        {
+          "step": 1,
+          "name": "Search for reality",
+          "description": "Looking for facts and conditions through perception",
+          "source_quote": "The seeker of meaning first looks for reality, searches for facts and conditions. Perception is followed by an order of valuations.",
+          "citation": "Längle (1992, p. 313)"
+        },
+        {
+          "step": 2,
+          "name": "Valuation",
+          "description": "Involving oneself as sensor of values based on self-esteem",
+          "source_quote": "The seeker of meaning involves himself as a sensor of values on the basis of his own self-esteem.",
+          "citation": "Längle (1992, p. 313)"
+        },
+        {
+          "step": 3,
+          "name": "Personal relation through decision",
+          "description": "Transcending oneself and entering personal relation by making a decision",
+          "source_quote": "At the third step, finally, he transcends himself and enters a personal relation by making a decision. Throughout this process he is ever looking for possibilities to make decisions in such a way that his personal integrity (in the sense of responsibility and faithfulness to oneself) is preserved.",
+          "citation": "Längle (1992, p. 313)"
+        },
+        {
+          "step": 4,
+          "name": "Existential or metaphysical meaning",
+          "description": "Deciding whether search demands action or refers to meaning beyond",
+          "source_quote": "The seeker of meaning will then have to decide whether his search demands action and personal involvement (existential meaning) or refers to a 'meaning beyond' (Frankl) and the metaphysical transcendence.",
+          "citation": "Längle (1992, p. 313)"
+        }
+      ],
+      "central_concern": {
+        "source_quote": "In both cases, however - (and this is the actual thesis based on observations of the essence of personhood) the seeker of meaning is concerned with being, values and justification by ways of relating, which is especially important for psychotherapy.",
+        "citation": "Längle (1992, p. 313)"
+      }
+    },
+    "dynamics_of_search": {
+      "description": "Transitoriness of human life as impulse for search for meaning",
+      "source_quote": "The real impulse, however, and the dynamics of the search for meaning might stem from the transitoriness of human life (Frankl, 1973, pp. 63ff.). Life exists in time and is as such always unique. This is exactly what gives it the quality of urgency",
+      "citation": "Längle (1992, p. 313)",
+      "urgency_quote": {
+        "source_quote": "' ... in the face of death as absolute finis to our future and boundary to our possibilities, we are under the imperative of utilizing our lifetimes to the utmost, not letting the singular opportunities - whose 'finite' sum constitutes the whole of life - pass by unused' (Frankl 1973, p. 64).",
+        "citation": "Längle (1992, p. 313)"
+      },
+      "finiteness_and_direction": {
+        "source_quote": "Just because of its finiteness, man must give his life a special direction and take hold of possibilities, where they offer themselves, before they are overcome by their transitoriness.",
+        "citation": "Längle (1992, p. 313)"
+      },
+      "realized_possibilities": {
+        "source_quote": "The realised opportunity, however, which has been saved into reality (Frankl 1973, p. 33), has been lifted out of transitoriness, because it has been irreversibly done. For 'having been is also a kind of being - perhaps the surest kind' (Frankl 1973, p. 33).",
+        "citation": "Längle (1992, p. 313)"
+      }
+    },
+    "death_and_transcendence": {
+      "description": "Understanding of death and dying in existential analysis",
+      "death_as_failure": {
+        "source_quote": "In light of existential analysis, however, death means failure to transcend oneself and critically deal with the world. In the solitude of solipsism man cannot come to life.",
+        "citation": "Längle (1992, p. 313)"
+      },
+      "dying_as_deciding": {
+        "source_quote": "Dying, on the other hand, is an essential part of life, being continually practised by man in his existence, with every decision anew. Deciding also means saying good-bye and leaving behind all possibilities that have not been realised.",
+        "citation": "Längle (1992, p. 313)"
+      },
+      "spiritual_transcendence": {
+        "source_quote": "Yet those possibilities, which were realised in the spirit of truth, value and justice, are a spiritual transcendence of the limit of death into an area where life's design remains.",
+        "citation": "Längle (1992, p. 313)"
+      }
+    }
+  },
+  "fundamental_motivations": {
+    "FM1": {
+      "name": "First Fundamental Motivation: Existence - Can I Be?",
+      "domain": "World and Existence",
+      "existential_question": "Can I be? - May I be here?",
+      "existential_questions_extended": [
+        {
+          "question": "Can I be?",
+          "citation": "Längle (2011, p. 28)"
+        },
+        {
+          "question": "May I be here?",
+          "citation": "Längle (2003, p. 31)"
+        }
+      ],
+      "cornerstone_of_existence": {
+        "description": "The world in its factuality and potentiality",
+        "source_quotes": [
+          {
+            "quote": "the world in its factuality and potentiality",
+            "citation": "Längle (2011, p. 35)"
+          },
+          {
+            "quote": "• the world in its factuality and potentiality",
+            "citation": "Längle (2003, p. 31)"
+          },
+          {
+            "quote": "1. the world (our environment) with the questions of space, support and protection",
+            "citation": "Längle (2002, p. 4)"
+          }
+        ]
+      },
+      "ontological_correspondence": {
+        "description": "FM1 corresponds to the ontological level of meaning",
+        "related_question": "Why is it at all and how does it relate to other things?",
+        "central_area": "TRUE (reality)",
+        "motivation": "Will to be",
+        "mode_of_experience": "can",
+        "source_quote": "Man sees that the world is continually effecting him. Acting, he realises that he in turn has an effect on the world. In this way he experiences his special relation with the world, in which he stands. This 'being-in-the-world' (Heidegger) is the fundamental state man finds himself in, his basic ontological experience. In the theory of motivation its correlate is the will to existence, with its yes or no to the world, its will to unfold or refuse action.",
+        "citation": "Längle (1992, p. 310)"
+      },
+      "existential_need": {
+        "description": "Space and protection in the world",
+        "source_quotes": [
+          {
+            "quote": "The need for space and protection",
+            "citation": "Längle (2011, p. 28)"
+          },
+          {
+            "quote": "The need for space and protection",
+            "citation": "Längle (2003, p. 31)"
+          }
+        ]
+      },
+      "fundamental_capacity": {
+        "description": "Fundamental capacity to tolerate and endure",
+        "source_quotes": [
+          {
+            "quote": "The fundamental capacity to tolerate and endure",
+            "citation": "Längle (2011, p. 28)"
+          },
+          {
+            "quote": "Fundamental capacity to tolerate and endure",
+            "citation": "Längle (2003, p. 31)"
+          }
+        ]
+      },
+      "positive_outcome": {
+        "description": "Fundamental trust in being, accepting existence",
+        "source_quotes": [
+          {
+            "quote": "When this fundamental existential need is met, the basic emotion of 'fundamental trust' appears, as well as the attitude and experience of 'being allowed to be.'",
+            "citation": "Längle (2011, p. 28)"
+          },
+          {
+            "quote": "When this fundamental existential need is met, the basic emotion of 'fundamental trust' appears, as well as the attitude and experience of 'being allowed to be'.",
+            "citation": "Längle (2003, p. 31)"
+          },
+          {
+            "quote": "The positive result is accepting oneself as BEING-THERE, as existence, with the experience of protection and space.",
+            "citation": "Längle (2002, p. 5)"
+          }
+        ]
+      },
+      "negative_outcome": {
+        "description": "Fear, anxiety, panic when fundamental need is not met",
+        "source_quotes": [
+          {
+            "quote": "If one does not find this existential fundament, one feels confronted with nothingness and no longer in possession of his being. The result is fear, anxiety, and panic.",
+            "citation": "Längle (2011, p. 28)"
+          },
+          {
+            "quote": "If one does not find this existential fundament, one feels confronted with nothingness and no longer in possession of his being. The result is fear, anxiety, and panic.",
+            "citation": "Längle (2003, p. 31)"
+          },
+          {
+            "quote": "Missing this dialogue we don't feel well, being full of fear or rage. Threatened by 'nothingness' we try to cope with it, finally producing phobias, psychosomatic diseases and panic attacks.",
+            "citation": "Längle (2002, p. 5)"
+          }
+        ]
+      },
+      "active_participation": {
+        "description": "Tolerate - accept and endure the conditions of existence",
+        "source_quotes": [
+          {
+            "quote": "We feel called to respond to these questions with the most elementary movement of existence which can be formulated in one verb: tolerate - accept and endure the conditions of existence which are exposed to us. We have to integrate their effects to us.",
+            "citation": "Längle (2002, p. 5)"
+          }
+        ]
+      },
+      "pathic_dimension": {
+        "description": "The suffering, enduring aspect of relating to reality",
+        "source_quotes": [
+          {
+            "quote": "The suffering, enduring aspect of dialogue is described by the Greek as 'pathein' (= suffering) and will be called the 'pathic' aspect of dialogue",
+            "citation": "Längle (2002, p. 4)"
+          },
+          {
+            "quote": "On the first level of existence, our ability to suffer and to endure is addressed: Can we hold on to that and can we deal with it? The pathic dimension of the person is called on.",
+            "citation": "Längle (2002, p. 5)"
+          }
+        ]
+      },
+      "coping_reactions": {
+        "description": "When person does not have/find space and protection, coping mechanisms emerge",
+        "source_quote": "If the person does not have or find space and protection, some typical coping reactions appear as a means of bringing the first FM into action to a minimal degree.",
+        "citation": "Längle (2002, pp. 5-6)",
+        "basic_reaction": {
+          "name": "Actionism",
+          "description": "Keeping oneself busy with action to fill up space",
+          "source_quote": "The 'basic reaction' (which we will find on every FM-level) is an 'actionism' – keeping oneself busy so much that there is no space left where something new and strange could 'fall in'. One tries to keep control of the world by doing all the time and filling up space.",
+          "citation": "Längle (2002, p. 6)"
+        },
+        "activism": {
+          "name": "Isolating and avoiding",
+          "description": "Isolating from the world by withdrawal or avoiding activities",
+          "source_quote": "'Activism' as the next coping-reaction is isolating from the world by withdrawal (staying at home or in bed) or by avoiding certain places and activities.",
+          "citation": "Längle (2002, p. 6)"
+        },
+        "aggression": {
+          "name": "Active aggression",
+          "description": "Destruction of threatening aspects of the world",
+          "source_quote": "'Aggression', as the third step of coping, is in this case the destruction of those aspects of the world which provoke threat.",
+          "citation": "Längle (2002, p. 6)"
+        },
+        "freezing": {
+          "name": "Paralysing despair",
+          "description": "Depression without suicidal fantasy but with desperate empty feeling",
+          "source_quote": "'Freezing' as a sign of the complete breakdown of coping: a paralysing despair (without yet the wish to die) forms a depressive way of being – a depression which can be called a 'despairing empty depression' because of the characteristic desperate empty feeling. It is different from 'sad, mourning depression' (FM 2) or from 'cold, resigned depression' (FM 3).",
+          "citation": "Längle (2002, p. 6)"
+        },
+        "insufficient_coping": {
+          "description": "Pathologies when coping is insufficient",
+          "source_quote": "The pathologies, when coping is not sufficient, are psychosomatic reactions, phobias and panic attacks, trying to create in that way some place of security ('secondary benefit') or to mark the 'not tolerable' place or person, being unable to avoid or to leave that conditions",
+          "citation": "Längle (2002, p. 6)"
+        }
+      }
+    },
+    "FM2": {
+      "name": "Second Fundamental Motivation: Life - Do I Like to Live?",
+      "domain": "Relationship and Life",
+      "existential_question": "Do I like to live? - Is life of value to me?",
+      "existential_questions_extended": [
+        {
+          "question": "Do I like to live?",
+          "citation": "Längle (2011, p. 29)"
+        },
+        {
+          "question": "Is life of value to me?",
+          "citation": "Längle (2003, p. 32)"
+        }
+      ],
+      "cornerstone_of_existence": {
+        "description": "Life with its network of relationships and its feelings",
+        "source_quotes": [
+          {
+            "quote": "life with its network of relationships and its feelings",
+            "citation": "Längle (2011, p. 35)"
+          },
+          {
+            "quote": "• life with its network of relationships and its feelings",
+            "citation": "Längle (2003, p. 31)"
+          },
+          {
+            "quote": "2. life with relationships and feelings",
+            "citation": "Längle (2002, p. 6)"
+          }
+        ]
+      },
+      "axiological_correspondence": {
+        "description": "FM2 corresponds to the axiological level of meaning",
+        "related_question": "What is good about it? What is it good for?",
+        "central_area": "ATTRACTIVE (value)",
+        "motivation": "Will to value",
+        "mode_of_experience": "like",
+        "source_quote": "Man continually faces the axiological question of meaning: 'What is good about it?', 'What is it good for?' This expresses what Frankl (1982a, p. 221) calls the 'will to meaning'. In the context of this discussion the term should be reserved for the totality of the noetic fundamental strivings. In motivation theory, 'will to value' would apply to this level.",
+        "citation": "Längle (1992, pp. 310-311)",
+        "frankl_value_category": "Experiential values"
+      },
+      "existential_need": {
+        "description": "Relationship and feeling of life",
+        "source_quotes": [
+          {
+            "quote": "The need for relationship and for feelings through which life is felt and experienced",
+            "citation": "Längle (2011, p. 29)"
+          },
+          {
+            "quote": "The need for relationship and for feelings through which life is felt and experienced",
+            "citation": "Längle (2003, p. 32)"
+          }
+        ]
+      },
+      "fundamental_capacity": {
+        "description": "Fundamental capacity to turn towards and engage with life",
+        "source_quotes": [
+          {
+            "quote": "The fundamental capacity to turn towards something, to relate to something and to receive it with feeling",
+            "citation": "Längle (2011, p. 29)"
+          },
+          {
+            "quote": "Fundamental capacity to turn towards something, to relate to something and to receive it with feeling",
+            "citation": "Längle (2003, p. 32)"
+          }
+        ]
+      },
+      "positive_outcome": {
+        "description": "Fundamental valuation, experiencing life as valuable and joyful",
+        "source_quotes": [
+          {
+            "quote": "When we find this dialogue with life by relating and getting in relation, we come to the experience, that 'life is good', 'has value', 'is important'. This 'fundamental valuation' constitutes the basis of motivation.",
+            "citation": "Längle (2011, p. 29)"
+          },
+          {
+            "quote": "When we find this dialogue with life by relating and getting in relation, we come to the experience, that 'life is good', 'has value', 'is important'. This 'fundamental valuation' constitutes the basis of motivation.",
+            "citation": "Längle (2003, p. 32)"
+          },
+          {
+            "quote": "The positive result is experiencing life in oneself and in the other beings as something valuable, as something which delights us, which is – although full of troubles and daily difficulties – principally GOOD.",
+            "citation": "Längle (2002, p. 7)"
+          }
+        ]
+      },
+      "negative_outcome": {
+        "description": "Lack of relationships leads to emptiness, depression, and addictions",
+        "source_quotes": [
+          {
+            "quote": "If one does not enter into this exchange, one experiences an inner emptiness and distance from life which the person tries to fill with substitute values (such as with addiction or agitation), or fall into deep feelings of grief and depression.",
+            "citation": "Längle (2011, p. 29)"
+          },
+          {
+            "quote": "If one does not enter into this exchange, one experiences an inner emptiness and distance from life which the person tries to fill with substitute values (such as with addiction or agitation), or fall into deep feelings of grief and depression.",
+            "citation": "Längle (2003, p. 32)"
+          },
+          {
+            "quote": "We will not feel well, having the feeling of getting lost and loosing oneself in an inner emptiness, keeping distance to the world. The lack of motivation will bring us to depressions, to addictions or emotional disorders like histrionic behaviour.",
+            "citation": "Längle (2002, p. 7)"
+          }
+        ]
+      },
+      "active_participation": {
+        "description": "Delimitate - actively turn toward and enter into relationship",
+        "source_quotes": [
+          {
+            "quote": "We are requested to respond by going nearer, coming closer and finally touch it – put in one verb: 'delimitate' (Latin: limen = threshold): crossing the border between oneself and the otherness, getting in touch and in relationship with the world around.",
+            "citation": "Längle (2002, p. 7)"
+          }
+        ]
+      },
+      "pathic_dimension": {
+        "description": "Emotional and relational capacity to experience value",
+        "source_quotes": [
+          {
+            "quote": "On the second level of our existence the emotional and relational capacity is called on. It is the pathic-emotional dimension of the person.",
+            "citation": "Längle (2002, p. 7)"
+          }
+        ]
+      },
+      "time_and_life": {
+        "description": "Fundamental relationship to time and life engagement",
+        "source_quotes": [
+          {
+            "quote": "When life gets in touch with us and touches us, we are moved. This very moment we realize that we are ALIVE and that SOMETHING IS GOING ON WITH US. In that experience we feel our relationship to the time we live in: When life and its contents is touching us, we can accept the Present moment and can say yes to what is just now (Carpe Diem!).",
+            "citation": "Längle (2003, p. 32)"
+          },
+          {
+            "quote": "In relationships, in feelings and emotions which contain values and qualities, life reverberates in such a way that our existence comes alive. This liveliness of our existence is the essence of the second fundamental motivation!",
+            "citation": "Längle (2003, p. 32)"
+          }
+        ]
+      },
+      "coping_reactions": {
+        "description": "When person cannot enter into relationship and value exchange, coping mechanisms emerge",
+        "source_quote": "If the person does not find this exchange with life, he produces the same kind of coping-reactions",
+        "citation": "Längle (2002, p. 7)",
+        "basic_reaction": {
+          "name": "Hyperactivity",
+          "description": "Activating oneself to produce feelings and experiences",
+          "source_quote": "'Basic reaction': Activating oneself to produce feelings and experiences (which don't come from inside) by activities in order to avoid the emptiness of not being alive inside.",
+          "citation": "Längle (2002, p. 7)"
+        },
+        "activism": {
+          "name": "Distancing and flooding",
+          "description": "Distancing from feelings or flooding oneself with feelings",
+          "source_quote": "'Activism': By distancing from the inner emptiness (flight into activities) or trying to overflood oneself by so many emotions that one has to feel something.",
+          "citation": "Längle (2002, p. 7)"
+        },
+        "aggression": {
+          "name": "Acting out feelings",
+          "description": "Discharging feelings through emotional outbursts",
+          "source_quote": "'Aggression': Acting out of feelings to 'get rid of them', for example by emotional outbursts, drama and exaggerations.",
+          "citation": "Längle (2002, p. 7)"
+        },
+        "freezing": {
+          "name": "Mourning depression",
+          "description": "Sad depression with mourning quality, may include suicidal tendencies",
+          "source_quote": "'Freezing': collapsing into 'mourning depression' (a sad depression with the quality of mourning, different from the 'despairing empty depression' of FM1). Suicidal tendencies may emerge as ultimate coping attempt.",
+          "citation": "Längle (2002, p. 7)"
+        },
+        "insufficient_coping": {
+          "description": "Pathologies when coping is insufficient",
+          "source_quote": "The pathology of an insufficiency in the second FM are histrionic disorders and addictions, the last caused by and producing the inner feeling of 'emptiness'. Somatic consequences will be psychovegetative and functional disturbances.",
+          "citation": "Längle (2002, p. 7)"
+        }
+      }
+    },
+    "FM3": {
+      "name": "Third Fundamental Motivation: Self-Being - May I Be Myself?",
+      "domain": "Justice and Self-Worth",
+      "existential_question": "May I be myself? - Do I have the right to be as I am?",
+      "existential_questions_extended": [
+        {
+          "question": "May I be myself?",
+          "citation": "Längle (2011, p. 30)"
+        },
+        {
+          "question": "Do I have the right to be as I am?",
+          "citation": "Längle (2003, p. 33)"
+        }
+      ],
+      "cornerstone_of_existence": {
+        "description": "Being oneself as a unique, autonomous person",
+        "source_quotes": [
+          {
+            "quote": "being oneself as a unique, autonomous person",
+            "citation": "Längle (2011, p. 35)"
+          },
+          {
+            "quote": "• being oneself as a unique, autonomous person",
+            "citation": "Längle (2003, p. 31)"
+          },
+          {
+            "quote": "3. being oneself as a unique person",
+            "citation": "Längle (2002, p. 7)"
+          }
+        ]
+      },
+      "existential_ethical_correspondence": {
+        "description": "FM3 corresponds to the existential/ethical level of meaning",
+        "related_question": "What should I do? What do I do as a free, creative and responsible person?",
+        "central_area": "RIGHT (relations)",
+        "motivation": "Will to the right",
+        "mode_of_experience": "may",
+        "source_quote": "By investing and realising himself in this way, man is satisfying his will to justify his existence. His will to justification arises out of the necessity to be at home and accepted in the social structure, as well as in the structure of biographical life, where everything he has done, finally has to do with himself. This is what man experiences as responsibility.",
+        "citation": "Längle (1992, p. 311)"
+      },
+      "existential_need": {
+        "description": "Attention and just acknowledgement of one's being",
+        "source_quotes": [
+          {
+            "quote": "The need for attention and just acknowledgement of one's being",
+            "citation": "Längle (2011, p. 30)"
+          },
+          {
+            "quote": "The need for attention and just acknowledgement of one's being",
+            "citation": "Längle (2003, p. 33)"
+          }
+        ]
+      },
+      "fundamental_capacity": {
+        "description": "Fundamental capacity for just and adequate self-perception",
+        "source_quotes": [
+          {
+            "quote": "The fundamental capacity for just and adequate self-perception",
+            "citation": "Längle (2011, p. 30)"
+          },
+          {
+            "quote": "Fundamental capacity for just and adequate self-perception",
+            "citation": "Längle (2003, p. 33)"
+          }
+        ]
+      },
+      "positive_outcome": {
+        "description": "Self-worth and authentic being-oneself",
+        "source_quotes": [
+          {
+            "quote": "From this develops the basic feeling of 'self-worth,' which is essential for the autonomous 'being-oneself.'",
+            "citation": "Längle (2011, p. 30)"
+          },
+          {
+            "quote": "From this develops the basic feeling of 'self-worth,' which is essential for the autonomous 'being-oneself.'",
+            "citation": "Längle (2003, p. 33)"
+          },
+          {
+            "quote": "The positive result is experiencing oneself being AT HOME with the 'inner' Person, the authentic Self ('Selbst-Sein'), finally resulting in one's individual lifestyle.",
+            "citation": "Längle (2002, p. 8)"
+          }
+        ]
+      },
+      "negative_outcome": {
+        "description": "Shame, feelings of guilt, and loss of self when need not met",
+        "source_quotes": [
+          {
+            "quote": "If one does not find this exchange, one experiences feelings of shame and guilt. In extreme cases, one loses oneself, feels excluded or even feels 'nothing.'",
+            "citation": "Längle (2011, p. 30)"
+          },
+          {
+            "quote": "If one does not find this exchange, one experiences feelings of shame and guilt. In extreme cases, one loses oneself, feels excluded or even feels 'nothing.'",
+            "citation": "Längle (2003, p. 33)"
+          },
+          {
+            "quote": "Missing this dialogue will let us feel rejected, loosing our authenticity and partiality – developing feelings of shame, of guilt and anger. We tend to loose ourselves in roles or in dissociation. We produce different kinds of personality or narcissistic disorders.",
+            "citation": "Längle (2002, p. 8)"
+          }
+        ]
+      },
+      "active_participation": {
+        "description": "Correspondence - taking a position and expressing one's authentic self",
+        "source_quotes": [
+          {
+            "quote": "The answer to these questions is the behaviour to 'correspond' – to find one's own position in relations to the needs of a situation and to respond by one's own unique way of authentic being ('Selbst-Sein' – literally translated as 'self-being', better as being authentic).",
+            "citation": "Längle (2002, p. 8)"
+          }
+        ]
+      },
+      "pathic_dimension": {
+        "description": "Existential dimension of authentic selfhood and inner dialogue",
+        "source_quotes": [
+          {
+            "quote": "This third level of existence refers to the existential dimension of the person ('Person' in the narrower sense = man as a unique, singular being) in an inner dialogue with oneself to get clear about one's stand and position as well as about one's feelings and attitudes.",
+            "citation": "Längle (2002, p. 8)"
+          }
+        ]
+      },
+      "coping_reactions": {
+        "description": "When person does not find just acknowledgement and self-worth, coping mechanisms emerge",
+        "source_quote": "Not finding the just acknowledgement, the person will produce",
+        "citation": "Längle (2002, p. 8)",
+        "basic_reaction": {
+          "name": "Self-presentation activism",
+          "description": "Overemphasizing oneself and talking about oneself",
+          "source_quote": "'Basic reaction': Activism of self-presentation – for example, overemphasising and talking of oneself.",
+          "citation": "Längle (2002, p. 8)"
+        },
+        "activism": {
+          "name": "Egocentrism and roles",
+          "description": "Egocentric behavior or hiding behind roles and facades",
+          "source_quote": "'Activism': Egocentrism or playing roles and facades to present a 'pseudo-person'.",
+          "citation": "Längle (2002, p. 8)"
+        },
+        "aggression": {
+          "name": "Devaluation",
+          "description": "Devaluing others to maintain self-worth",
+          "source_quote": "'Aggression': Devaluation of the others (in extreme cases with violence) as they are perceived as a danger to one's fragile self-esteem and pseudo-self-worth.",
+          "citation": "Längle (2002, p. 8)"
+        },
+        "freezing": {
+          "name": "Cold resignation depression",
+          "description": "Resigned depression where person lives without being truly themselves",
+          "source_quote": "'Freezing': Collapse of coping, leading to a 'cold, resigned depression', where the person 'lives' (survives) without being him- or herself.",
+          "citation": "Längle (2002, p. 8)"
+        },
+        "insufficient_coping": {
+          "description": "Pathologies when coping is insufficient",
+          "source_quote": "Pathologies of insufficient coping may produce dissociation, personality-, narcissistic- or borderline-disorders. Frequently, these persons suffer from psychosomatic complaints, especially from the cardiovascular-system.",
+          "citation": "Längle (2002, p. 8)"
+        }
+      }
+    },
+    "FM4": {
+      "name": "Fourth Fundamental Motivation: Meaning - What Should I Do? What Am I Here For?",
+      "domain": "Future and Meaning",
+      "existential_question": "What should I do? - What am I here for? - What is the call of the future to me?",
+      "existential_questions_extended": [
+        {
+          "question": "What should I do?",
+          "citation": "Längle (2011, p. 31)"
+        },
+        {
+          "question": "What am I here for?",
+          "citation": "Längle (2003, p. 34)"
+        },
+        {
+          "question": "What is the call of the future to me?",
+          "citation": "Längle (2003, p. 34)"
+        }
+      ],
+      "cornerstone_of_existence": {
+        "description": "The wider context in which to place oneself through activities and opening one's future",
+        "source_quotes": [
+          {
+            "quote": "the wider context where to place oneself = development through one's activities, opening one's future",
+            "citation": "Längle (2011, p. 35)"
+          },
+          {
+            "quote": "• the wider context in which to place oneself = development through one's activities, opening one's future",
+            "citation": "Längle (2003, p. 31)"
+          },
+          {
+            "quote": "4. the context and the future with the tasks which have to be fulfilled",
+            "citation": "Längle (2002, p. 8)"
+          }
+        ]
+      },
+      "meaning_integration_correspondence": {
+        "description": "FM4 integrates the three levels (ontological, axiological, existential) into action and commitment",
+        "related_question": "What should I do? What is demanded of me?",
+        "central_area": "MEANING (commitment)",
+        "motivation": "Will to act / Will to meaning / Will to final commitment",
+        "mode_of_experience": "should/want",
+        "source_quote": "In this way man finally becomes ready to act, after he has ultimately arrived at the 'will to meaning' by the steps of the three noetic motivations. Knowing at this point what he can do, what he wants to do and what he may do, he finally realises what he should do - ready to engage himself thanks to his will to act.",
+        "citation": "Längle (1992, pp. 311-312)",
+        "frankl_value_categories": "Creative values and Self-transcendence"
+      },
+      "existential_need": {
+        "description": "Meaningful field of activity and task to fulfill",
+        "source_quotes": [
+          {
+            "quote": "The need for a context of a meaningful field of activity and tasks within which one can get involved",
+            "citation": "Längle (2011, p. 31)"
+          },
+          {
+            "quote": "The need for a context of a meaningful field of activity and tasks within which one can get involved",
+            "citation": "Längle (2003, p. 34)"
+          }
+        ]
+      },
+      "fundamental_capacity": {
+        "description": "Fundamental capacity to perceive demands and find best possibilities",
+        "source_quotes": [
+          {
+            "quote": "The fundamental capacity of the person to perceive and respond to demands, tasks, and values (that in given situations one can find the better, the best possibilities, and to act on them).",
+            "citation": "Längle (2011, p. 31)"
+          },
+          {
+            "quote": "Fundamental capacity of the person to perceive and respond to demands, tasks, and values (that in given situations one can find the better, the best possibilities, and to act on them).",
+            "citation": "Längle (2003, p. 34)"
+          }
+        ]
+      },
+      "positive_outcome": {
+        "description": "Experience of meaningful life in larger context",
+        "source_quotes": [
+          {
+            "quote": "From this develops a positive relationship to a future that is experienced as meaningful and valuable, which provides orientation for action. One experiences one's own activities and life in a larger context in which they are embedded.",
+            "citation": "Längle (2011, p. 31)"
+          },
+          {
+            "quote": "From this develops a positive relationship to a future that is experienced as meaningful and valuable, which provides orientation for action. One experiences one's own activities and life in a larger context in which they are embedded.",
+            "citation": "Längle (2003, p. 34)"
+          },
+          {
+            "quote": "The positive outcome is a feeling of MEANINGFULNESS because one got INVOLVED into a wider structure and context (e.g. family, project, values etc.) which is valuable and important for oneself and transcends oneself (V. Frankl's: self-transcendence).",
+            "citation": "Längle (2002, p. 9)"
+          }
+        ]
+      },
+      "negative_outcome": {
+        "description": "Existential vacuum, meaninglessness, purposelessness",
+        "source_quotes": [
+          {
+            "quote": "If one does not enter into this final existential dialogue, life appears meaningless. One experiences an 'existential vacuum,' purposelessness, boredom, possibly even despair.",
+            "citation": "Längle (2011, p. 31)"
+          },
+          {
+            "quote": "If one does not enter into this final existential dialogue, life appears meaningless. One experiences an 'existential vacuum,' purposelessness, boredom, possibly even despair.",
+            "citation": "Längle (2003, p. 34)"
+          },
+          {
+            "quote": "Not finding or not being able to respond to this calling of the world, we feel bored, purposeless and finally desperately meaningless. This so called 'Existential Vacuum' (emptiness of meaning) is trying to be filled up or to be escaped by restlessness and activities.",
+            "citation": "Längle (2002, p. 9)"
+          }
+        ]
+      },
+      "active_participation": {
+        "description": "Responding to the call of the situation with committed action",
+        "source_quotes": [
+          {
+            "quote": "We are called on to find the best possibility given in the larger and wider context and to get involved and committed with this task – this is the answer to the fourth FM",
+            "citation": "Längle (2002, p. 9)"
+          }
+        ]
+      },
+      "pathic_dimension": {
+        "description": "Noetic dimension perceiving meaning through conscience",
+        "source_quotes": [
+          {
+            "quote": "This fourth level of our existence belongs to the 'noetic dimension' which V.E. Frankl (1982) described as the dimension of meaning (Greek: nous = mind). Our 'organ' of perception for meaning (as we have seen above) is called 'conscience'.",
+            "citation": "Längle (2002, p. 9)"
+          }
+        ]
+      },
+      "self_transcendence": {
+        "description": "Meaning found through self-transcendence beyond oneself",
+        "source_quotes": [
+          {
+            "quote": "This orientation towards 'something beyond ourselves' was described by Frankl as 'self-transcendence'. We need to transcend ourselves in order to find ourself and our meaning.",
+            "citation": "Längle (2003, p. 34)"
+          },
+          {
+            "quote": "The final level of existence, where we transcend ourselves, places ourselves into a wider context beyond ourselves. This transcendence is not only important as an existential reality to survive, but because it is the level where meaning is found.",
+            "citation": "Längle (2003, p. 34)"
+          }
+        ]
+      },
+      "coping_reactions": {
+        "description": "When person cannot find meaningful activity and purpose, coping mechanisms emerge",
+        "source_quote": "Not finding this wider context for one's activity and one's life, the person is trying to cope with it by:",
+        "citation": "Längle (2002, p. 9)",
+        "basic_reaction": {
+          "name": "Restless activity",
+          "description": "Keeping busy with superficial activities to fill the void",
+          "source_quote": "'Basic reaction': Activism (e.g. restless activity) to escape the 'emptiness of meaning' and to feel oneself being involved in 'something' important.",
+          "citation": "Längle (2002, p. 9)"
+        },
+        "activism": {
+          "name": "Fanaticism",
+          "description": "Clinging to rigid beliefs or ideologies",
+          "source_quote": "'Activism': Fanaticism – clinging to a definite belief, ideology or religion in order to have an (pseudo-) orientation.",
+          "citation": "Längle (2002, p. 9)"
+        },
+        "aggression": {
+          "name": "Cynicism and nihilism",
+          "description": "Negating meaning and devaluing everything as meaningless",
+          "source_quote": "'Aggression': Cynicism and nihilism. As an expression of the despair about not finding any meaning, every attempt and every statement of meaning will be negated or destroyed: 'Everything is meaningless!'",
+          "citation": "Längle (2002, p. 9)"
+        },
+        "freezing": {
+          "name": "Despairing depression",
+          "description": "Apathetic, despairing depression, may include suicidality",
+          "source_quote": "'Freezing': Collapse of the last FM-coping: 'Despairing depression' – a 4th phenomenologically different form of depression – which is more apathetic. In some cases suicidality may become a real danger.",
+          "citation": "Längle (2002, p. 9)"
+        },
+        "insufficient_coping": {
+          "description": "Pathologies when coping is insufficient",
+          "source_quote": "The pathology of insufficient coping attempts may result in addictions and 'activity as drug'. Compulsions may develop as an expression of the desperate trial to find an orientation by oneself. As a last consequence suicide as an effect of despair may become a tragical end.",
+          "citation": "Längle (2002, p. 9)"
+        }
+      }
+    }
+  },
+  "motivational_process": {
+    "description": "Three-step process of personal decision-making in motivation",
+    "theoretical_basis": {
+      "description": "Personal component in motivation and theory of action",
+      "source_quotes": [
+        {
+          "quote": "Our theory is based on a theory of action, which says that to become activated to do a certain act, the person has to respond to three inner dialogues by giving an inner consent.",
+          "citation": "Längle (2011, p. 33)"
+        },
+        {
+          "quote": "Our theory is based on a theory of action, which says that to become activated to do a certain act, the person has to respond to three inner dialogues by giving his inner consent.",
+          "citation": "Längle (2003, p. 29)"
+        }
+      ]
+    },
+    "inner_consent_framework": {
+      "description": "Double dialogue structure producing inner consent for action",
+      "source_quote": "The inner consent (to become active) has to be produced in a 'double dialogue' with oneself, examining on the one hand the internal readiness and permission to act, on the other hand the adequacy and moral permission of the external reality, especially if the act would be the response to a requirement of that situation. We will find the same double dialogue-structure in every FM.",
+      "citation": "Längle (2002, p. 3)"
+    },
+    "steps": [
+      {
+        "step": 1,
+        "name": "Perception and sensation",
+        "description": "Perceiving value and meaningfulness through sensation and feeling",
+        "source_quotes": [
+          {
+            "quote": "Perception and sensation. Perceiving the sense appeal and value of things or of the meaningfulness of situational possibilities through sensation, feelings and emotional participation.",
+            "citation": "Längle (2011, p. 33)"
+          },
+          {
+            "quote": "Perceiving the sense appeal and value of things or of the meaningfulness of situational possibilities through sensation, feelings and emotional participation.",
+            "citation": "Längle (2003, p. 29)"
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "name": "Harmonizing",
+        "description": "Bringing perceived value into accordance with inner reality",
+        "source_quotes": [
+          {
+            "quote": "Harmonizing. Bringing the perceived value, challenge or meaning into accordance with one's inner reality, i.e., examining the consistency with the rest of our values, with attitudes, abilities and capabilities and with our conscience.",
+            "citation": "Längle (2011, p. 33)"
+          },
+          {
+            "quote": "Harmonizing. Bringing the perceived value, challenge or meaning into accordance with our inner reality (i.e. examining the congruence with the rest of our values, with attitudes, abilities and capabilities and with our conscience etc.).",
+            "citation": "Längle (2003, p. 29)"
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "name": "Inner consent",
+        "description": "Inner consent to one's own active involvement, bringing presence of the inner person",
+        "source_quotes": [
+          {
+            "quote": "The final step in the development of motivation is the inner consent to one's own active involvement. This consent and the act of harmonizing the new value with inner (already existing personal) reality leads to the presence of the inner person in one's actions. It brings up the integration of the new value and the person himself into a wider context (meaning).",
+            "citation": "Längle (2011, p. 33)"
+          },
+          {
+            "quote": "Giving inner consent to one's own active involvement. This consent and the act of harmonizing the new value with one's personal reality lead to the presence of the inner person in one's actions and to the integration of the new value and the person into a wider context (meaning).",
+            "citation": "Längle (2003, p. 29)"
+          }
+        ]
+      }
+    ],
+    "omitting_person": {
+      "description": "Without person's involvement, there is only reflex or reaction, not action",
+      "source_quote": "Omitting the person in the motivational process, according to our opinion, misses the main thrust of human motivation. Instead it focuses on a sort of reflex or reaction, but no 'action'. Any act or deed is defined as a decided act and is therefore voluntary and free.",
+      "citation": "Längle (2003, p. 29)"
+    }
+  },
+  "structure_of_will": {
+    "description": "Free and realistic will based on fundamental elements",
+    "elements": [
+      {
+        "element": "Ability and capacity",
+        "description": "Real ability and capacity of the subject",
+        "source_quotes": [
+          {
+            "quote": "on the real ability and capacity of the subject",
+            "citation": "Längle (2011, p. 34)"
+          },
+          {
+            "quote": "On the real ability and capacity of the subject",
+            "citation": "Längle (2003, p. 30)"
+          }
+        ]
+      },
+      {
+        "element": "Emotional perception",
+        "description": "Emotional perception of the situational value",
+        "source_quotes": [
+          {
+            "quote": "on the emotional perception of the situational value",
+            "citation": "Längle (2011, p. 34)"
+          },
+          {
+            "quote": "On the emotional perception of the situational value",
+            "citation": "Längle (2003, p. 30)"
+          }
+        ]
+      },
+      {
+        "element": "Inner permission",
+        "description": "Inner permission for action from agreement with life concepts and morality",
+        "source_quotes": [
+          {
+            "quote": "on the inner permission for that act, emerging from an agreement with one's concepts of life and morality",
+            "citation": "Längle (2011, p. 34)"
+          },
+          {
+            "quote": "On the inner permission for that act, emerging from an agreement with one's concepts of life and morality",
+            "citation": "Längle (2003, p. 30)"
+          }
+        ]
+      },
+      {
+        "element": "Meaning",
+        "description": "Meaning as the moving part in free will (Frankl's contribution)",
+        "source_quotes": [
+          {
+            "quote": "Frankl (1970, pp. 37-44; 1987, pp. 101-104) saw meaning as the moving part in free will.",
+            "citation": "Längle (2011, p. 33)"
+          },
+          {
+            "quote": "FRANKL (1970, 37-44; 1987, 101-104) saw meaning as the motor in free will.",
+            "citation": "Längle (2003, p. 29)"
+          }
+        ]
+      }
+    ]
+  },
+  "applications_beyond_therapy": {
+    "description": "Fundamental existential motivations apply to all person-centered relations",
+    "source_quote": "As existential basics they are important in all relations where the person stands in the center: education, pastoral counselling, management trainings, prevention of diseases, coaching, organisational structures etc.",
+    "citation": "Längle (2002, p. 4)"
+  },
+  "coding_guidelines": {
+    "application": "Use this codebook to identify and code participant testimony related to the four fundamental motivations",
+    "hierarchical_structure": "Code using FM1-FM4 as primary domains, with sub-codes for needs, outcomes, actions, and coping reactions",
+    "temporal_analysis": "Consider participant experiences before, during, and after therapeutic intervention",
+    "coping_reactions_framework": "Identify four types of coping reactions (basic, activism, aggression, freezing) and outcomes when coping is insufficient",
+    "meaning_analysis": "Apply the threefold question of meaning (ontological, axiological, existential) to understand participant's search for meaning across all four FMs",
+    "phenomenological_coding": "Attend to phenomenological understanding of meaning - not as subjective attribution but as discovered through personal evidence and trans-subjective reality",
+    "exclusion_criteria": "Only code content that directly relates to the described themes with supporting evidence from source materials"
+  },
+  "version_notes": {
+    "v3.0": "Initial codebook based on Längle (2011). Includes all four fundamental motivations with existential questions, needs, positive/negative outcomes, active participation elements, motivational process steps, and structure of will.",
+    "v3.1": "Integrated Längle (2003). Added: expanded theoretical foundation with being-in-the-world, interpersonal paradigm, provocation concept; refined motivational process descriptions; expanded FM2 with carpe diem and life reverberation; added histrionic disorders and suicidal tendencies to negative outcomes; expanded FM4 with self-transcendence emphasis and organ of perception for meaning; enhanced all four FMs with additional source quotes and refined descriptions.",
+    "v3.2": "Integrated Längle (2002). MAJOR ADDITIONS: Definition of Existential Analysis; phenomenological approach explanation (nous, epoché); inner consent framework with double dialogue; comprehensive coping reactions framework for ALL four FMs (basic reaction, activism, aggression, freezing, insufficient coping outcomes); existential claim concept; motivation components; applications beyond therapy; refined active participation terminology (tolerate, delimitate, correspondence); enhanced pathic dimension descriptions.",
+    "v3.3": "Integrated Längle (1992). MAJOR ADDITIONS: Comprehensive meaning framework including four aspects of meaning (objective, relative, subjective, appellative); phenomenological understanding of meaning as discovered rather than invented; personal evidence concept; threefold question of meaning (ontological, axiological, existential/ethical) with direct correspondence to FM1-FM4; three experiences preceding meaning (effects, value, consequences); loss of meaning categories (loss of value, loss of orientation, loss of relations) linked to Frankl's value categories; steps to finding meaning in psychotherapy; will to be, will to value, will to the right integrated into motivational theory; dynamics of search for meaning including transitoriness and urgency; death and transcendence understanding; enhanced each FM with corresponding level of meaning question; added meaning as orientation, meaning as value, meaning as relations descriptions."
+  }
+}

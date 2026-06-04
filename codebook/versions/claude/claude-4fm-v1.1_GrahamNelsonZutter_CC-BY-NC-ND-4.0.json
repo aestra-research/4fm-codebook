@@ -1,0 +1,809 @@
+{
+  "_attribution": {
+    "created_by": "Graham Nelson-Zutter",
+    "copyright": "©2026 Aestra Inc. except when external source noted.",
+    "license": "CC BY-NC-ND-4.0"
+  },
+  "codebook_metadata": {
+    "title": "EA_LT_4FMs_Codebook",
+    "version": "1.1",
+    "date_created": "2025-10-25",
+    "last_modified": "2025-10-25",
+    "purpose": "Interpretive thematic analysis using 4 Fundamental Motivations of Existential Analysis and Logotherapy",
+    "sources_included": 2,
+    "sources": [
+      "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), 306-314.",
+      "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42). Nova Science Pub Inc."
+    ],
+    "version_history": {
+      "1.0": "Initial codebook based on Längle (1992) - established 4FM structure",
+      "1.1": "Added Längle (2002) - expanded with prerequisites, coping reactions, pathological outcomes"
+    },
+    "created_by": "Graham Nelson-Zutter",
+    "copyright": "©2026 Aestra Inc. except when external source noted.",
+    "license": "CC BY-NC-ND-4.0"
+  },
+  "core_concepts": {
+    "inner_consent": {
+      "description": "The continuous activity of living with agreement to what one does, commits, or omits",
+      "source_quote": "Seen more from the inside, i.e. seen more from a psychological point of view, we can describe the key for a fulfilling existence in finding a way of living with inner consent to what we do, to what we commit or omit.",
+      "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 3."
+    },
+    "dialogical_structure": {
+      "description": "Double dialogue - outer (with world/situation) and inner (with deepest feelings)",
+      "source_quote": "In other words: to live with inner consent means that there is a continuous activity. It consists in a double dialogue: the one directed towards the outside with the question: What appeals me? What attracts or challenges me? Where am I needed, what do I want to do in this situation?... The other side of the dialogue runs inwardly. Whatever I decide to do – I cannot leave myself aside, if I want to experience my existence (and find meaning).",
+      "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 3."
+    },
+    "existential_analysis_definition": {
+      "description": "Phenomenological-personal psychotherapy enabling free experience, authentic decisions, and responsible dealing with self and world",
+      "source_quote": "A scientifically definition of Existential Analysis describes it as a phenomenological-personal psychotherapy with the aim of enabling a person to experience his life freely at the spiritual and emotional levels, to arrive at authentic decisions and to come to a responsible way of dealing with himself and the world around.",
+      "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 3."
+    }
+  },
+  "fundamental_motivations": [
+    {
+      "fm_number": 1,
+      "fm_name": "CAN I BE? (World/Being There)",
+      "alternative_names": [
+        "TRUE (Reality/Ontology)",
+        "First Fundamental Condition"
+      ],
+      "description": "The fundamental question of whether one can claim one's place in the world under given conditions and possibilities. Concerns protection, space, and support in existence.",
+      "fundamental_question": "I am - can I be?",
+      "source_quote_2002": "The first condition arises from the simple fact that I am here at all, that I am in the world... This puts the fundamental question of existence before me: I am - can I be? Can I claim my place in this world under the conditions and with the possibilities I have?",
+      "citation_2002": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), pp. 4-5.",
+      "source_quote_1992": "Meaning is therefore always orientation by the true, by what is and by what is experienced as reality. Meaning is unconditionally realistic. The person living meaningfully will face and grasp the facts.",
+      "citation_1992": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 312.",
+      "motivation": "Will to be",
+      "epistemological_chain": "know (explain) → facts",
+      "psychological_chain": "perceive",
+      "mode_of_experience": "can",
+      "prerequisites": [
+        {
+          "name": "Protection",
+          "description": "Experiencing acceptance and feeling at home",
+          "source_quote": "This demands three things: protection, space and support. - Do I enjoy protection, acceptance, do I feel at home somewhere?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5."
+        },
+        {
+          "name": "Space",
+          "description": "Having enough space for being there",
+          "source_quote": "- Do I have enough space for being there?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5."
+        },
+        {
+          "name": "Support",
+          "description": "Finding support in life",
+          "source_quote": "- Where do I find support in my life?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5."
+        }
+      ],
+      "positive_outcomes_if_fulfilled": [
+        {
+          "outcome": "Trust in the world",
+          "source_quote": "if I do have these three things, I will be able to feel trust in the world and confidence in myself, maybe even faith in God. The sum of these experiences of trust is the fundamental trust, the trust in whatever I feel as being the last support in my life.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5."
+        },
+        {
+          "outcome": "Confidence in oneself",
+          "source_quote": "I will be able to feel trust in the world and confidence in myself",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5."
+        },
+        {
+          "outcome": "Fundamental trust",
+          "source_quote": "The sum of these experiences of trust is the fundamental trust, the trust in whatever I feel as being the last support in my life.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5."
+        }
+      ],
+      "negative_outcomes_if_not_fulfilled": [
+        {
+          "outcome": "Restlessness",
+          "source_quote": "If this is not the case, the result will be restlessness, insecurity and fear.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5."
+        },
+        {
+          "outcome": "Insecurity",
+          "source_quote": "If this is not the case, the result will be restlessness, insecurity and fear.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5."
+        },
+        {
+          "outcome": "Fear and anxiety",
+          "source_quote": "If these coping reactions do not suffice fear and anxiety arise.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5."
+        }
+      ],
+      "active_participation_required": {
+        "accept": {
+          "description": "Readiness to occupy space, rely on support, trust protection, and 'be there'",
+          "source_quote": "To accept means to be ready to occupy the space, to rely on the support and to trust the protection; in short 'to be there' and not to flee.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5."
+        },
+        "endure": {
+          "description": "Force to let be whatever is difficult, menacing, or unalterable",
+          "source_quote": "To endure means the force to let be whatever is difficult, menacing or unalterable and to 'tolerate' what cannot be changed.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5."
+        }
+      },
+      "coping_reactions": [
+        {
+          "type": "Basic reaction",
+          "reaction": "Avoidance or flight",
+          "source_quote": "Each fundamental motivation has four types of coping reactions: the basic reaction type – here this would be avoidance or flight",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5."
+        },
+        {
+          "type": "Paradoxical/Activism",
+          "reaction": "Overactivity like fighting bacteria by compulsive washing",
+          "source_quote": "the paradoxical reaction type or activism – here this would be overactivity like fighting bacteria by compulsive washing",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5."
+        },
+        {
+          "type": "Aggression",
+          "reaction": "Destructive aggression such as hate",
+          "source_quote": "the third type of coping reaction is a specific aggression (Längle 1998b) – here it would be a destructive aggression such as hate",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5."
+        },
+        {
+          "type": "Freezing/Death imitation",
+          "reaction": "Denial or pretending to be non-existent",
+          "source_quote": "the last type of coping reaction is a reflex of freezing, of death imitation with paralysis – here denial or pretending to be non-existent.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5."
+        }
+      ],
+      "sub_themes": [
+        {
+          "theme_name": "Being-in-the-world",
+          "description": "The fundamental ontological experience of existence within a network of effects",
+          "source_quote": "Man sees that the world is continually effecting him. Acting, he realises that he in turn has an effect on the world. In this way he experiences his special relation with the world, in which he stands. This 'being-in-the-world' (Heidegger) is the fundamental state man finds himself in, his basic ontological experience.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), pp. 309-310.",
+          "indicators": [
+            "Observing effects",
+            "Network of relations",
+            "Coming into being and passing away"
+          ]
+        },
+        {
+          "theme_name": "Ontological question of meaning",
+          "description": "Question about the ground of existence and interrelatedness of things",
+          "source_quote": "The question of meaning on the ontological level is a question to the ground out of which things are and out of which man himself is (Grundfrage)! When man asks about the ground for things and for his own being, he is asking the ontological question of meaning.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 310.",
+          "indicators": [
+            "Wonder at incomprehensibility",
+            "Anticipation that all things must be interrelated",
+            "Seeking to understand existence"
+          ]
+        },
+        {
+          "theme_name": "Astonishment",
+          "description": "The appropriate attitude toward the incomprehensible fact of existence",
+          "source_quote": "The most adequate and traditional attitude towards the incomprehensible is one of astonishment. Basically, I can only be astonished that I am here at all.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 5.",
+          "indicators": [
+            "Wonder at being here at all",
+            "Recognition of incomprehensibility",
+            "Existence as island in ocean of ignorance"
+          ]
+        }
+      ],
+      "existential_needs": [
+        {
+          "need_name": "Ground and support",
+          "description": "Need for factual reality to hold and support in order to act and receive effects",
+          "source_quote": "He needs their ground to hold and support him, in order to act and receive effects.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 312.",
+          "manifestations": [
+            "Seeking facts and conditions",
+            "Wanting to be perceived by others",
+            "Wanting to be seen as what one is with specific faculties"
+          ]
+        }
+      ],
+      "exclusion_criteria": []
+    },
+    {
+      "fm_number": 2,
+      "fm_name": "DO I LIKE LIVING? (Life/Relationships)",
+      "alternative_names": [
+        "ATTRACTIVE (Value/Axiology)",
+        "Second Fundamental Condition"
+      ],
+      "description": "The fundamental question of whether it is good to be alive. Concerns the pathic dimension of existence - experiencing and suffering/enjoying life through relationships, time, and closeness.",
+      "fundamental_question": "I am alive – do I like this fact? Is it good to be there?",
+      "source_quote_2002": "Therefore I am confronted with the fundamental question of life: I am alive – do I like this fact? Is it good to be there? It is not only strain and suffering that can take away the joy of life. It may as well be the shallowness of daily life and the negligence in one's life style that make life stale.",
+      "citation_2002": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6.",
+      "source_quote_1992": "search for meaning includes the desire for the attractive, the desire for dealing with the valuable which man wants to give as much as to receive.",
+      "citation_1992": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 312.",
+      "motivation": "Will to value",
+      "epistemological_chain": "understand → coherence",
+      "psychological_chain": "valuate",
+      "mode_of_experience": "like",
+      "pathic_dimension": {
+        "description": "Existence that does not simply happen but is experienced, suffered, or enjoyed",
+        "source_quote": "Simply being there is not enough. We want our existence to be good, since it is more than a mere fact. It has a 'pathic dimension', which means that it does not simply happen, but that we experience and suffer or enjoy it. Being alive means to cry and to laugh, to experience joy and suffering, to go through pleasant and unpleasant things, to be lucky or unlucky and to experience worth and worthlessness.",
+        "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+      },
+      "prerequisites": [
+        {
+          "name": "Relationship",
+          "description": "Having relationships where closeness and community are experienced",
+          "source_quote": "In order to seize my life, to love it, I need three things: relationship, time and closeness. Do I have relationships, in which I feel closeness, for which I spend time and in which I experience community?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+        },
+        {
+          "name": "Time",
+          "description": "Taking time for valuable things, giving away part of one's life",
+          "source_quote": "– What do I take time for? Do I take time for valuable things, worthy to spend my time for? To take time for something means to give away a part of one's life while spending it with someone or something.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+        },
+        {
+          "name": "Closeness",
+          "description": "Ability to feel and maintain closeness to things, animals, and people",
+          "source_quote": "- Can I feel close and maintain closeness to things, plants, animals and people? Can I admit the closeness of someone else?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+        }
+      ],
+      "positive_outcomes_if_fulfilled": [
+        {
+          "outcome": "Harmony with world and self",
+          "source_quote": "if these three conditions are fulfilled, I experience myself as being in harmony with the world and with myself and I can sense the depth of life.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+        },
+        {
+          "outcome": "Sensing depth of life",
+          "source_quote": "I can sense the depth of life.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+        },
+        {
+          "outcome": "Fundamental value",
+          "source_quote": "These experiences form the fundamental value, the most profound feeling for the value of life. In each experience of value this fundamental value is touched upon, it colours the emotions and affects and represents our yardstick for anything we might feel to be of worth.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+        }
+      ],
+      "negative_outcomes_if_not_fulfilled": [
+        {
+          "outcome": "Longing",
+          "source_quote": "If relationships, closeness and time are lacking, longing will arise, then coldness and finally depression.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+        },
+        {
+          "outcome": "Coldness",
+          "source_quote": "If relationships, closeness and time are lacking, longing will arise, then coldness and finally depression.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+        },
+        {
+          "outcome": "Depression",
+          "source_quote": "If these reactions cannot neutralize the problem or the loss, depression arises.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+        }
+      ],
+      "active_participation_required": {
+        "turn_to": {
+          "description": "Turning toward people, things, animals, intellectual work, or self; getting close and into touch",
+          "source_quote": "I seize life, engage in it, when I turn to other people, to things, animals, intellectual work or to myself, when I go towards it, get close, get into touch or pull it towards me.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+        },
+        "consent_to_being_touched": {
+          "description": "Allowing life to make one move freely; accepting being touched",
+          "source_quote": "This 'to turn to' will make life vibrate within me. If life is to make me move freely, my consent to being touched is necessary.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+        }
+      },
+      "coping_reactions": [
+        {
+          "type": "Basic reaction",
+          "reaction": "Regression",
+          "source_quote": "The basic coping reaction on this level is regression.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+        },
+        {
+          "type": "Paradoxical/Activism",
+          "reaction": "Overprotection or achievement, typical forms of combating evil",
+          "source_quote": "The activism here is overprotection or achievement, typical forms of combating evil",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+        },
+        {
+          "type": "Aggression",
+          "reaction": "Fury, rage to agitate and improve relationship",
+          "source_quote": "the typical aggression is fury, rage which does not lead to destruction, but wants to agitate the other person with the impulse to obtain or to improve the relationship.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+        },
+        {
+          "type": "Freezing/Death imitation",
+          "reaction": "Resignation, paralyzed half-way",
+          "source_quote": "Resignation reaction of feigned death paralyzed half-way.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6."
+        }
+      ],
+      "sub_themes": [
+        {
+          "theme_name": "Axiological question of meaning",
+          "description": "Recognition that it matters what becomes of things and which effects result",
+          "source_quote": "Man continually faces the axiological question of meaning: 'What is good about it?', 'What is it good for?' This expresses what Frankl (1982a, p. 221) calls the 'will to meaning'.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), pp. 310-311.",
+          "indicators": [
+            "Sensing of value",
+            "Experiencing different grades of value",
+            "Things connected with value of being"
+          ]
+        },
+        {
+          "theme_name": "Value of being",
+          "description": "The fundamental experience that it is good to be",
+          "source_quote": "He not only knows that he is, but that in itself it is also good to be (Längle, 1984, pp. 52ff.). With this finality things of the world rise out of the grey dawn of mere presence and receive the colour of value.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 310.",
+          "indicators": [
+            "Things are more or less good",
+            "Recognition of beneficial or harmful",
+            "Useful or obstructive qualities"
+          ]
+        },
+        {
+          "theme_name": "Amplitude of emotionality",
+          "description": "Equal capacity for happiness and suffering",
+          "source_quote": "As much as we can be happy, as deeply can we suffer, and vice-versa. The amplitude of emotionality is equal in both directions, whether this suits us or not.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 6.",
+          "indicators": [
+            "Crying and laughing",
+            "Joy and suffering",
+            "Worth and worthlessness"
+          ]
+        }
+      ],
+      "existential_needs": [
+        {
+          "need_name": "Dealing with the valuable",
+          "description": "Need to engage with that which holds value, both giving and receiving",
+          "source_quote": "the desire for dealing with the valuable which man wants to give as much as to receive.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 312.",
+          "manifestations": [
+            "Order of valuations",
+            "Involvement as sensor of values",
+            "Based on own self-esteem"
+          ]
+        }
+      ],
+      "exclusion_criteria": []
+    },
+    {
+      "fm_number": 3,
+      "fm_name": "MAY I BE LIKE THIS? (Being Oneself/Person)",
+      "alternative_names": [
+        "RIGHT (Relations/Ethics)",
+        "Third Fundamental Condition"
+      ],
+      "description": "The fundamental question of whether one has the right to be what one is and behave as one does. Concerns identity, self-knowledge, ethics, and authenticity through attention, justice, and appreciation.",
+      "fundamental_question": "I am myself – may I be like this? Do I feel free to be like that? Do I have the right to be what I am and to behave as I do?",
+      "source_quote_2002": "This puts before me the fundamental question of being a person: I am myself – may I be like this? Do I feel free to be like that? Do I have the right to be what I am and to behave as I do? – This is the plane of identity, of knowing oneself and of ethics.",
+      "citation_2002": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7.",
+      "source_quote_1992": "the need for relations is alive in meaning, for relating to oneself (responsibility) as well as to others, which enables the justification of existence.",
+      "citation_1992": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 312.",
+      "motivation": "Will to the right",
+      "epistemological_chain": "recognise → responsibility",
+      "psychological_chain": "choose/decide",
+      "mode_of_experience": "may",
+      "singularity_and_separateness": {
+        "description": "Awareness of being separate, different, on one's own in existence",
+        "source_quote": "In spite of my being related to life and to people, I am aware of my being separate, different. There is a singularity that makes me an 'I' and distinguishes me from everybody else. I realize that I am on my own, that I have to master my existence myself and that, basically, I am alone and maybe even solitary.",
+        "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+      },
+      "prerequisites": [
+        {
+          "name": "Attention",
+          "description": "Being seen, having one's uniqueness considered and boundaries respected",
+          "source_quote": "In order to succeed here, it is necessary to have experienced three things: attention, justice and appreciation. – By whom am I seen? Who considers my uniqueness and respects my boundaries?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        },
+        {
+          "name": "Justice",
+          "description": "Being treated justly",
+          "source_quote": "– Do people justice to me?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        },
+        {
+          "name": "Appreciation",
+          "description": "Being appreciated and able to appreciate oneself",
+          "source_quote": "- For what am I appreciated – for what can I appreciate myself?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        }
+      ],
+      "positive_outcomes_if_fulfilled": [
+        {
+          "outcome": "Finding oneself",
+          "source_quote": "If, on the contrary, these experiences have been made, I will find myself, find my authenticity, my relief and my self-respect.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        },
+        {
+          "outcome": "Authenticity",
+          "source_quote": "I will find myself, find my authenticity, my relief and my self-respect.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        },
+        {
+          "outcome": "Self-respect",
+          "source_quote": "I will find myself, find my authenticity, my relief and my self-respect.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        },
+        {
+          "outcome": "Self-esteem",
+          "source_quote": "The sum of these experiences builds one's own worth, the profoundest worth of what identifies my own self at its core: the self-esteem.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        }
+      ],
+      "negative_outcomes_if_not_fulfilled": [
+        {
+          "outcome": "Solitude",
+          "source_quote": "If these experiences are missing, solitude will be the result, hysteria as well as a need to hide behind the shame.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        },
+        {
+          "outcome": "Hysteria",
+          "source_quote": "If these experiences are missing, solitude will be the result, hysteria as well as a need to hide behind the shame.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        },
+        {
+          "outcome": "Shame",
+          "source_quote": "If these experiences are missing, solitude will be the result, hysteria as well as a need to hide behind the shame.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        },
+        {
+          "outcome": "Histrionic symptoms and personality disorders",
+          "source_quote": "If these reactions don't suffice to neutralize the hurt, histrionic symptoms and/or personality disorders arise.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        }
+      ],
+      "active_participation_required": {
+        "say_yes_to_myself": {
+          "description": "Looking at others, encountering them, while delimiting self and standing by one's own",
+          "source_quote": "I also have to say 'yes to myself'. This requires again my active participation: to look at other people, to encounter them and, at the same time, to delimitate myself and to stand by my own, but to refuse whatever does not correspond to myself.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        },
+        "encounter": {
+          "description": "Bridge to the other, finding essence in the 'you' and creating appreciation",
+          "source_quote": "Encounter represents the necessary bridge to the other, brings me out of the possible isolation, makes me find his essence as well as my own 'I' in the 'you'. Thus I create for myself the appreciation requisite for feeling entitled to be what I am.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        },
+        "regret": {
+          "description": "Refusing what does not correspond to oneself",
+          "source_quote": "but to refuse whatever does not correspond to myself. Encounter and regret are the two means by which we can live our authenticity without ending up in solitude.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        }
+      },
+      "coping_reactions": [
+        {
+          "type": "Basic reaction",
+          "reaction": "Distancing oneself",
+          "source_quote": "The coping reactions of this motivation are: distancing oneself as the basic reaction",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        },
+        {
+          "type": "Paradoxical/Activism",
+          "reaction": "Stubborn insistence and leading a functional life",
+          "source_quote": "stubborn insistence and leading a functional life as form of activism.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        },
+        {
+          "type": "Aggression",
+          "reaction": "Indignation, annoyance, anger, reproach",
+          "source_quote": "The typical aggressive reaction consists in indignation, annoyance – anger, reproach.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        },
+        {
+          "type": "Freezing/Death imitation",
+          "reaction": "Dissociation of bodily integrity, dividing and splitting of emotion and cognition",
+          "source_quote": "The freezing type of reaction at this level are dissociation of the bodily integrity, dividing and splitting of emotion and cognition.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 7."
+        }
+      ],
+      "sub_themes": [
+        {
+          "theme_name": "Existential question of meaning",
+          "description": "The challenge to meaningful action and personal contribution",
+          "source_quote": "This is the existential question of meaning. He finds himself up against the question: 'What do I do as a free, creative and responsible person in the middle of this world?' This is how man knows himself as fundamentally questioned in his existence (Längle, 1988, pp. 10ff.), challenged towards his contribution to the formation of this life and this world in the knowledge of an indispensable relation, personal responsibility and justification.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 311.",
+          "indicators": [
+            "Active coming-into-relation-with",
+            "Decision-making",
+            "Personal contribution to life and world"
+          ]
+        },
+        {
+          "theme_name": "Responsibility",
+          "description": "Experience of consequences and accountability for one's actions",
+          "source_quote": "His will to justification arises out of the necessity to be at home and accepted in the social structure, as well as in the structure of biographical life, where everything he has done, finally has to do with himself. This is what man experiences as responsibility.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 311.",
+          "indicators": [
+            "Present and future effects of what has been done",
+            "Accountability in social structure",
+            "Biographical coherence"
+          ]
+        },
+        {
+          "theme_name": "Justification",
+          "description": "The right to live amidst all of life's relations, especially social structure",
+          "source_quote": "His will to justification arises out of the necessity to be at home and accepted in the social structure, as well as in the structure of biographical life",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 311.",
+          "indicators": [
+            "Being at home in social structure",
+            "Being accepted",
+            "Integration in biographical life"
+          ]
+        }
+      ],
+      "existential_needs": [
+        {
+          "need_name": "Personal integrity",
+          "description": "Need to preserve faithfulness to oneself in decision-making",
+          "source_quote": "Throughout this process he is ever looking for possibilities to make decisions in such a way that his personal integrity (in the sense of responsibility and faithfulness to oneself) is preserved.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 313.",
+          "manifestations": [
+            "Transcending oneself",
+            "Entering personal relation by making decisions",
+            "Maintaining responsibility to self"
+          ]
+        }
+      ],
+      "exclusion_criteria": []
+    },
+    {
+      "fm_number": 4,
+      "fm_name": "FOR WHAT IS IT GOOD? (Future/Meaning)",
+      "alternative_names": [
+        "MEANING (Commitment/Existence)",
+        "Fourth Fundamental Condition"
+      ],
+      "description": "The fundamental question of what one's life is about. Recognition of meaning through field of activity, structural context, and value to be realized. Concerns transcending oneself to find fulfillment and be fruitful.",
+      "fundamental_question": "I am there – for what is it good?",
+      "source_quote_2002": "Thus the transience of life puts before us the question of meaning of our existence: I am there – for what is it good?",
+      "citation_2002": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8.",
+      "source_quote_1992": "man finally becomes ready to act, after he has ultimately arrived at the 'will to meaning' by the steps of the three noetic motivations. Knowing at this point what he can do, what he wants to do and what he may do, he finally realises what he should do - ready to engage himself thanks to his will to act.",
+      "citation_1992": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), pp. 311-312.",
+      "motivation": "Will to act / Will to meaning",
+      "epistemological_chain": "act/know",
+      "psychological_chain": "work/accomplish",
+      "mode_of_experience": "should/want",
+      "transcendence_necessity": {
+        "description": "Need to transcend oneself for fulfillment and fruitfulness",
+        "source_quote": "It does not suffice to simply be there and to have found oneself. In a sense, we have to transcend ourselves, if we want to find fulfillment and to be fruitful. Otherwise we would live as if in a house where nobody ever visits.",
+        "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+      },
+      "prerequisites": [
+        {
+          "name": "Field of activity",
+          "description": "A place where one feels needed and can be productive",
+          "source_quote": "For this three things are needed: a field of activity, a structural context and a value to be realized in the future. – Is there a place where I feel needed, where I can be productive?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        },
+        {
+          "name": "Structural context",
+          "description": "Larger context providing structure and orientation; where one wants to be integrated",
+          "source_quote": "– Do I see and experience myself in a larger context that provides structure and orientation to my life? Where I want to be integrated?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        },
+        {
+          "name": "Value to be realized in the future",
+          "description": "Something that should still be realized in one's life",
+          "source_quote": "– Is there anything that should still be realized in my life?",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        }
+      ],
+      "positive_outcomes_if_fulfilled": [
+        {
+          "outcome": "Dedication and action",
+          "source_quote": "If, on the contrary, these conditions are met, I will be capable of dedication and action and, finally, of my own form of religious belief.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        },
+        {
+          "outcome": "Religious belief",
+          "source_quote": "I will be capable of dedication and action and, finally, of my own form of religious belief.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        },
+        {
+          "outcome": "Meaning of life and sense of fulfillment",
+          "source_quote": "The sum of these experiences add up to the meaning of life and leads to a sense of fulfillment.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        }
+      ],
+      "negative_outcomes_if_not_fulfilled": [
+        {
+          "outcome": "Feeling of emptiness",
+          "source_quote": "If this is not the case, the result will be a feeling of emptiness, frustration, even despair and frequently addiction.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        },
+        {
+          "outcome": "Frustration",
+          "source_quote": "If this is not the case, the result will be a feeling of emptiness, frustration, even despair and frequently addiction.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        },
+        {
+          "outcome": "Despair",
+          "source_quote": "If this is not the case, the result will be a feeling of emptiness, frustration, even despair and frequently addiction.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        },
+        {
+          "outcome": "Addiction",
+          "source_quote": "Disorders at this level mainly lead to addictions.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        }
+      ],
+      "active_participation_required": {
+        "phenomenological_attitude_of_openness": {
+          "description": "Dealing with questions put before one in each situation",
+          "source_quote": "Instead, the phenomenological attitude is needed which we spoke about at the beginning. This attitude of openness represents the existential access to meaning in life: that dealing with the questions put before me in each situation (Frankl 1973, XV): 'What does this hour want from me, how shall I respond?'",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        },
+        "bring_into_correspondence": {
+          "description": "Examining whether what one is doing is really good for others, self, future, environment",
+          "source_quote": "My active part in this attitude of openness is to bring myself into correspondence with the situation, to examine whether what I am doing is really a good thing: for others, for myself, for the future, for my environment.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        }
+      },
+      "coping_reactions": [
+        {
+          "type": "Basic reaction",
+          "reaction": "Provisional attitude towards life, planless day-to-day attitude, collective thinking",
+          "source_quote": "If man fails systematically to reach meaning, his coping reactions will be a provisional attitude towards life as basic reaction, together with a 'planless, day-to-day attitude toward life' and 'collective thinking' (Frankl 1973, XVI)",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        },
+        {
+          "type": "Paradoxical/Activism",
+          "reaction": "Idealisation and fanaticism",
+          "source_quote": "idealisation and fanaticism as main forms of activism",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        },
+        {
+          "type": "Aggression",
+          "reaction": "Aggressive games and cynicism",
+          "source_quote": "aggressive games and cynicism.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        },
+        {
+          "type": "Freezing/Death imitation",
+          "reaction": "Fatalism, loss of interest, apathy, nihilism",
+          "source_quote": "Fatalism (Frankl 1973, XVI), loss of interest, apathy and probably nihilism can be seen as forms of freezing reactions.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8."
+        }
+      ],
+      "meaning_definition": {
+        "existential_meaning": {
+          "description": "The most valuable, realistic possibility of the given situation, for which one feels one should decide",
+          "source_quote": "We define meaning as 'the most valuable, realistic possibility of the given situation, for which I feel I should decide myself'. Existential meaning is therefore what is possible here and now, on the basis of facts and reality. It is reduced to what is actually possible for the single person.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), pp. 8-9.",
+          "perception_organ": "Sensitivity and moral conscience"
+        },
+        "ontological_meaning": {
+          "description": "Overall meaning in which one finds oneself; does not depend on the person",
+          "source_quote": "Besides this existential meaning there is an ontological meaning. This is the overall meaning in which I find myself and which does not depend on me. It is the philosophical and religious meaning, the meaning the creator of the world must have had in mind. I can perceive it in divination and in faith",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 9."
+        }
+      },
+      "sub_themes": [
+        {
+          "theme_name": "Existential meaning",
+          "description": "Decision about the best possibility in a situation that demands action and personal involvement",
+          "source_quote": "The existential question of meaning leads up to the decision about the best possibility in a situation, which might also stand as a definition for existential meaning.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 311.",
+          "indicators": [
+            "Readiness to act",
+            "Personal involvement",
+            "Integration of can/want/may into should"
+          ]
+        },
+        {
+          "theme_name": "Search for meaning process",
+          "description": "Sequential steps in finding meaning through reality, values, and relations",
+          "source_quote": "The seeker of meaning first looks for reality, searches for facts and conditions. Perception is followed by an order of valuations. The seeker of meaning involves himself as a sensor of values on the basis of his own self-esteem. At the third step, finally, he transcends himself and enters a personal relation by making a decision.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 313.",
+          "indicators": [
+            "Looking for reality and facts",
+            "Order of valuations",
+            "Transcending self through decision"
+          ]
+        },
+        {
+          "theme_name": "Dialogical structure with life",
+          "description": "What life wants from me and what the moment expects from me",
+          "source_quote": "The meaningful thing is not only what I can expect from life, but, in accordance with the dialogical structure of existence, it is equally important what life wants from me and what the moment expects from me and what I could and should do now for others as well as for myself.",
+          "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 8.",
+          "indicators": [
+            "Questions from the situation",
+            "Responding to demands of the hour",
+            "What could and should be done for others and self"
+          ]
+        }
+      ],
+      "existential_needs": [
+        {
+          "need_name": "Meaningful action",
+          "description": "Need to realize possibilities and engage in action that integrates truth, value, and right relations",
+          "source_quote": "the seeker of meaning is concerned with being, values and justification by ways of relating, which is especially important for psychotherapy.",
+          "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 313.",
+          "manifestations": [
+            "Utilizing lifetime possibilities",
+            "Realizing opportunities before transitoriness",
+            "Saving possibilities into reality"
+          ]
+        }
+      ],
+      "exclusion_criteria": []
+    }
+  ],
+  "four_fundamental_realities": {
+    "description": "Four cornerstones of existence according to modern existential analytical theory",
+    "source_quote": "As persons with a bright spirit and a need of understanding we are essentially confronted with • the world in its factuality and potentiality • life with its network of relationships and its feelings • being oneself as a unique, autonomous person • the future shaped by oneself = development through one's activities",
+    "citation": "Längle, A. (2002). Existential fundamental motivation. In Motivation, Consciousness and Self-Regulation (pp. 27-42), p. 4.",
+    "realities": [
+      {
+        "reality": "World in its factuality and potentiality",
+        "related_fm": 1
+      },
+      {
+        "reality": "Life with its network of relationships and feelings",
+        "related_fm": 2
+      },
+      {
+        "reality": "Being oneself as unique, autonomous person",
+        "related_fm": 3
+      },
+      {
+        "reality": "Future shaped by oneself through activities",
+        "related_fm": 4
+      }
+    ]
+  },
+  "loss_of_meaning_categories": [
+    {
+      "category_name": "Loss of value",
+      "description": "Loss of meaning during illness, suffering, death, or sorrow",
+      "source_quote": "We observe that the question explicitly forces itself upon man during phases when meaning is lost (Frankl, 1982a, pp. 18ff.; Längle, 1985, p. 85). Here primarily losses of value should be mentioned: During illness, suffering, death or sorrow, which call for a special attitude in man.",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 308.",
+      "related_fm": 2
+    },
+    {
+      "category_name": "Loss of orientation",
+      "description": "Lack of orientation in work, having everything to live from but nothing to live for",
+      "source_quote": "Loss of meaning, however, is also a frequent phenomenon in the area of work. Not even success serves as protection. Just at the point where work loses its quality of necessity for life, a vacuum of orientation is formed and causes the afflicted person to indeed have everything he can live from, but nothing more he can live for (Frankl, 1982b, p. 11; pp. 239ff.).",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 308.",
+      "related_fm": 4
+    },
+    {
+      "category_name": "Loss of relations",
+      "description": "Living without relating, leading to emptiness and lack of meaning",
+      "source_quote": "Besides loss of value and lack of orientation in work, lack of relations is another phenomenon causing the existential vacuum (Frankl, 1982a, pp. 7, 18f.). This abounds wherever life is experienced. Living without relating dwindles to boring and joyless consumption.",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 308.",
+      "related_fm": 3
+    }
+  ],
+  "meaning_characteristics": [
+    {
+      "characteristic": "Objective",
+      "description": "Meaning is based on situational reference",
+      "source_quote": "Accordingly, the psychological understanding of meaning always has four aspects: Firstly it is objective 'on the basis of its situational reference' (Frankl, 1982a, p. 56).",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 308."
+    },
+    {
+      "characteristic": "Relative",
+      "description": "Meaning is relative to the person and situation linkages",
+      "source_quote": "Secondly, meaning is relative, with regard to the person it is relating to, as well as to further linkages of the situation itself.",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 308."
+    },
+    {
+      "characteristic": "Subjective",
+      "description": "Meaning can only be recognized and realized by the person involved",
+      "source_quote": "Thirdly, it is subjective, in that it can only be recognised and realised by the person involved in the respective situation.",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 308."
+    },
+    {
+      "characteristic": "Appellative",
+      "description": "Meaning has a challenging character that urges action",
+      "source_quote": "meaning is, fourthly, always appellative by its character of challenge (Frankl, 1982a, pp. 52-57), urging the subject with its typical call to 'do something with me!'",
+      "citation": "Längle, A. (1992). What Are We Looking for When We Search for Meaning? Ultimate Reality and Meaning, 15(4), p. 308."
+    }
+  ],
+  "notes": [
+    "Version 1.1 significantly expands the codebook with detailed information from Längle (2002).",
+    "Each FM now includes: fundamental question, three prerequisites, active participation requirements, four types of coping reactions, positive/negative outcomes.",
+    "The 4FMs represent a sequential structure: being there (can) → living (like) → being oneself (may) → meaning (should/want).",
+    "Coping reactions follow a pattern across all FMs: basic reaction, paradoxical/activism, aggression, freezing/death imitation.",
+    "Inner consent emerges as a central concept - the continuous dialogue between outer world and inner feelings.",
+    "Future versions will continue to add depth as more sources are incorporated."
+  ]
+}

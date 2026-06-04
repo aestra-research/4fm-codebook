@@ -19,7 +19,7 @@ It does **not** and **cannot** cover the embedded Längle source quotations. Tho
 
 …remain under their **original publishers' copyright** and are reproduced here under academic fair use / right of quotation, in short excerpts, for the purpose of scholarly research methodology.
 
-**Note on Längle 2002 / 2011:** the 2011 publication is the English-language version of the 2002 conference paper (same content, same pages 27–42). Both citations are preserved in the codebook for transparency. See `docs/lineage.md`.
+**Note on Längle 2002 / 2011:** the 2011 publication is the English-language version of the 2002 conference paper (same content, same pages 27–42). Both citations are preserved in the codebook for transparency. See `docs/lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md`.
 
 Users of this codebook should treat the Längle quotes accordingly:
 
@@ -29,7 +29,7 @@ Users of this codebook should treat the Längle quotes accordingly:
 
 ## On other embedded content
 
-LLM-derived text in this codebook (e.g., the `coding_guidelines` block, scoring rubrics, sub-theme labels) is treated as the author's contribution — produced through the multi-LLM methodology described in `docs/lineage.md` — and is covered by the CC BY-NC-ND 4.0 license.
+LLM-derived text in this codebook (e.g., the `coding_guidelines` block, scoring rubrics, sub-theme labels) is treated as the author's contribution — produced through the multi-LLM methodology described in `docs/lineage_GrahamNelsonZutter_CC-BY-NC-ND-4.0.md` — and is covered by the CC BY-NC-ND 4.0 license.
 
 The author is not a co-author with the LLMs; the LLMs are tools (see README). Any text produced by an LLM during the build was reviewed and accepted by the author before being incorporated.
 
