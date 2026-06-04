@@ -1,7 +1,7 @@
 # EA 4FM Codebook — for LLM-Assisted Qualitative Analysis
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20483207.svg)](https://doi.org/10.5281/zenodo.20483207)
+[![DOI](https://zenodo.org/badge/1255665154.svg)](https://zenodo.org/badge/latestdoi/1255665154)
 
 A structured codebook for scoring participant testimony against Längle's **Four Fundamental Motivations (4FM)** framework, designed for use with Large Language Models (LLMs) as a research instrument.
 
